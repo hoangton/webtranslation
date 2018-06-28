@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="727-46024c5f5f10cae0619bf003d4678ad4" source-language="en" target-language="nl" datatype="plaintext">
+    <header>
+      <phase-group>
+        <phase phase-name="shortcodes" process-name="Shortcodes identification">
+          <note>wp_caption,caption,gallery,playlist,audio,video,embed,wpml_language_form_field,add_eventon_search,FAG,bws_google_captcha,wow-icons,wpml_language_switcher,wpml_language_selector_widget,wpml_language_selector_footer,wpml-string,contact-form-7,contact-form,layerslider,av_events_countdown,av_upcoming_events,av_productgrid,av_productlist,av_product_button,av_product_info,av_product_review,av_product_tabs,av_product_upsells,av_productslider,mc4wp_form,av_blog,av_button,av_button_big,av_catalogue,av_catalogue_item,av_cell_one_full,av_cell_one_half,av_cell_one_third,av_cell_two_third,av_cell_one_fourth,av_cell_three_fourth,av_cell_one_fifth,av_cell_two_fifth,av_cell_three_fifth,av_cell_four_fifth,av_codeblock,av_one_full,av_one_half,av_one_third,av_two_third,av_one_fourth,av_three_fourth,av_one_fifth,av_two_fifth,av_three_fifth,av_four_fifth,av_comments_list,av_contact,av_contact_field,av_content_slider,av_content_slide,av_countdown,av_dropcap1,av_dropcap2,av_gallery,av_google_map,av_gmap_location,av_layout_row,av_heading,av_headline_rotator,av_rotator_item,av_hr,av_font_icon,av_icon_box,av_iconlist,av_iconlist_item,av_image,av_image_hotspot,av_image_spot,av_partner,av_partner_logo,av_magazine,av_mailchimp,av_mailchimp_field,av_masonry_entries,av_masonry_gallery,av_submenu,av_submenu_item,av_notification,av_animated_numbers,av_portfolio,av_postslider,av_progress,av_progress_bar,av_promobox,av_section,av_slideshow,av_slide,av_slideshow_accordion,av_slide_accordion,av_feature_image_slider,av_fullscreen,av_fullscreen_slide,av_slideshow_full,av_slide_full,av_layerslider,av_social_share,av_tab_section,av_tab_sub_section,av_table,av_row,av_cell,av_tab_container,av_tab,av_team_member,av_team_icon,av_testimonials,av_testimonial_single,av_textblock,av_toggle_container,av_toggle,av_video,av_sidebar</note>
+        </phase>
+      </phase-group>
+      <reference>
+        <external-file href="https://smartcash.cc/what-are-smartrewards/"/>
+      </reference>
+    </header>
+    <body>
+      <trans-unit resname="field-_yoast_wpseo_focuskw-0" restype="string" datatype="html" id="field-_yoast_wpseo_focuskw-0">
+        <source><![CDATA[SmartRewards]]></source>
+        <target xml:lang="nl" state="needs-translation"><![CDATA[SmartRewards]]></target>
+      </trans-unit>
+      <trans-unit resname="title" restype="string" datatype="html" id="title">
+        <source><![CDATA[What Are SmartRewards?]]></source>
+        <target xml:lang="nl" state="needs-translation"><![CDATA[What Are SmartRewards?]]></target>
+      </trans-unit>
+      <trans-unit resname="t_134" restype="string" datatype="html" id="t_134">
+        <source><![CDATA[Optional]]></source>
+        <target xml:lang="nl" state="needs-translation"><![CDATA[Optional]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-4-8315" restype="string" datatype="html" id="package-string-4-8315">
+        <source><![CDATA[<br class="xliff-newline" />Lets explore this key feature of SmartCash a little more in depth..<br class="xliff-newline" />]]></source>
+        <target xml:lang="nl" state="needs-translation"><![CDATA[<br class="xliff-newline" />Lets explore this key feature of SmartCash a little more in depth..<br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-4-8316" restype="string" datatype="html" id="package-string-4-8316">
+        <source><![CDATA[What are SmartRewards?]]></source>
+        <target xml:lang="nl" state="needs-translation"><![CDATA[What are SmartRewards?]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-4-8319" restype="string" datatype="html" id="package-string-4-8319">
+        <source><![CDATA[So What Does that Mean?]]></source>
+        <target xml:lang="nl" state="needs-translation"><![CDATA[So What Does that Mean?]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-4-8320" restype="string" datatype="html" id="package-string-4-8320">
+        <source><![CDATA[<br class="xliff-newline" />Below is a tool to estimate the current rewards for the month based on your valid SmartReward balance.<br class="xliff-newline" />]]></source>
+        <target xml:lang="nl" state="needs-translation"><![CDATA[<br class="xliff-newline" />Below is a tool to estimate the current rewards for the month based on your valid SmartReward balance.<br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-4-8321" restype="string" datatype="html" id="package-string-4-8321">
+        <source><![CDATA[SmartRewards Calculator]]></source>
+        <target xml:lang="nl" state="needs-translation"><![CDATA[SmartRewards Calculator]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-4-8323" restype="string" datatype="html" id="package-string-4-8323">
+        <source><![CDATA[Show Calculator]]></source>
+        <target xml:lang="nl" state="needs-translation"><![CDATA[Show Calculator]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-4-8324" restype="string" datatype="html" id="package-string-4-8324">
+        <source><![CDATA[SmartRewards FAQ’s]]></source>
+        <target xml:lang="nl" state="needs-translation"><![CDATA[SmartRewards FAQ’s]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-4-8326" restype="string" datatype="html" id="package-string-4-8326">
+        <source><![CDATA[How much SmartRewards can I get each month?]]></source>
+        <target xml:lang="nl" state="needs-translation"><![CDATA[How much SmartRewards can I get each month?]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-4-8327" restype="string" datatype="html" id="package-string-4-8327">
+        <source><![CDATA[<br class="xliff-newline" />Adding more SmartCash your SmartRewards address won't invalidate the next payment. The newly added amount will be taken into account after the next snapshot.<br class="xliff-newline" />]]></source>
+        <target xml:lang="nl" state="needs-translation"><![CDATA[<br class="xliff-newline" />Adding more SmartCash your SmartRewards address won't invalidate the next payment. The newly added amount will be taken into account after the next snapshot.<br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-4-8328" restype="string" datatype="html" id="package-string-4-8328">
+        <source><![CDATA[Can I add more SmartCash to my SwartRewards address or will that invalidate my the next payment?]]></source>
+        <target xml:lang="nl" state="needs-translation"><![CDATA[Can I add more SmartCash to my SwartRewards address or will that invalidate my the next payment?]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-4-8330" restype="string" datatype="html" id="package-string-4-8330">
+        <source><![CDATA[ Will I lose my future SmartRewards payment if I move or send coins from my SmartRewards address?]]></source>
+        <target xml:lang="nl" state="needs-translation"><![CDATA[ Will I lose my future SmartRewards payment if I move or send coins from my SmartRewards address?]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-4-8332" restype="string" datatype="html" id="package-string-4-8332">
+        <source><![CDATA[How do I know my address is valid for SmartRewards?]]></source>
+        <target xml:lang="nl" state="needs-translation"><![CDATA[How do I know my address is valid for SmartRewards?]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-4-8333" restype="string" datatype="html" id="package-string-4-8333">
+        <source><![CDATA[<br class="xliff-newline" />The monthly snapshot occurs on the 25th of each month.<br class="xliff-newline" />]]></source>
+        <target xml:lang="nl" state="needs-translation"><![CDATA[<br class="xliff-newline" />The monthly snapshot occurs on the 25th of each month.<br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-4-8334" restype="string" datatype="html" id="package-string-4-8334">
+        <source><![CDATA[When does the monthly snapshot occur?]]></source>
+        <target xml:lang="nl" state="needs-translation"><![CDATA[When does the monthly snapshot occur?]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-4-8335" restype="string" datatype="html" id="package-string-4-8335">
+        <source><![CDATA[<br class="xliff-newline" />15% of the block rewards are set aside between the 25th-25th of each month which are then split on the 25th between all addresses proportional to their balance that have held between snapshots without sending out coins. Addresses below 1000 SmartCash do not get paid.<br class="xliff-newline" />]]></source>
+        <target xml:lang="nl" state="needs-translation"><![CDATA[<br class="xliff-newline" />15% of the block rewards are set aside between the 25th-25th of each month which are then split on the 25th between all addresses proportional to their balance that have held between snapshots without sending out coins. Addresses below 1000 SmartCash do not get paid.<br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-4-8338" restype="string" datatype="html" id="package-string-4-8338">
+        <source><![CDATA[Can I move coins out of my address between snapshots?]]></source>
+        <target xml:lang="nl" state="needs-translation"><![CDATA[Can I move coins out of my address between snapshots?]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-4-8340" restype="string" datatype="html" id="package-string-4-8340">
+        <source><![CDATA[When do SmartReward payments go out?]]></source>
+        <target xml:lang="nl" state="needs-translation"><![CDATA[When do SmartReward payments go out?]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-4-22577" restype="string" datatype="html" id="package-string-4-22577">
+        <source><![CDATA[<br class="xliff-newline" />Yes moving any coins from your SmartRewards address will nullify the next payment.<br class="xliff-newline" />]]></source>
+        <target xml:lang="nl" state="needs-translation"><![CDATA[<br class="xliff-newline" />Yes moving any coins from your SmartRewards address will nullify the next payment.<br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-4-152672" restype="string" datatype="html" id="package-string-4-152672">
+        <source><![CDATA[<br class="xliff-newline" /><h1>Lets start with an overview...</h1><br class="xliff-newline" /><strong>SmartRewards</strong> are a price stabilization mechanism and a way to encourage long term holding. Long term holders are key to the project’s success since the SmartHive treasury needs SmartCash to appreciate in value in order to fund meaningful 3rd party proposals and help grow SmartCash into a successful global crypto-currency. <strong>Each wallet address holding at least 1000 SmartCash will get paid each 30 days on the 25th and the snapshot for the next month will happen at the same time.  </strong>The SmartRewards will come out of the 15<wbr ></wbr>% block reward allocation<wbr ></wbr>.<br class="xliff-newline" /><br class="xliff-newline" />Here is a small example: if you buy SmartCash on the 24th you’ll have to wait until the next month to get paid which is around 30 days however if you buy on the 27th after the snapshot date you’ll have to wait around 60 days to get paid<wbr ></wbr>.<br class="xliff-newline" /><br class="xliff-newline" /><strong>These payments will take place at around 7 UTC on the 25th of each month<wbr ></wbr>.</strong><br class="xliff-newline" /><br class="xliff-newline" /><strong>All users need to move funds into addresses holding at least 1000 SMART before the snapshot to be counted.</strong><br class="xliff-newline" /><br class="xliff-newline" /><strong>If you spend ANY amount from an address it will be ineligible for SmartRewards until the next round.</strong><br class="xliff-newline" />]]></source>
+        <target xml:lang="nl" state="needs-translation"><![CDATA[<br class="xliff-newline" /><h1>Lets start with an overview...</h1><br class="xliff-newline" /><strong>SmartRewards</strong> are a price stabilization mechanism and a way to encourage long term holding. Long term holders are key to the project’s success since the SmartHive treasury needs SmartCash to appreciate in value in order to fund meaningful 3rd party proposals and help grow SmartCash into a successful global crypto-currency. <strong>Each wallet address holding at least 1000 SmartCash will get paid each 30 days on the 25th and the snapshot for the next month will happen at the same time.  </strong>The SmartRewards will come out of the 15<wbr ></wbr>% block reward allocation<wbr ></wbr>.<br class="xliff-newline" /><br class="xliff-newline" />Here is a small example: if you buy SmartCash on the 24th you’ll have to wait until the next month to get paid which is around 30 days however if you buy on the 27th after the snapshot date you’ll have to wait around 60 days to get paid<wbr ></wbr>.<br class="xliff-newline" /><br class="xliff-newline" /><strong>These payments will take place at around 7 UTC on the 25th of each month<wbr ></wbr>.</strong><br class="xliff-newline" /><br class="xliff-newline" /><strong>All users need to move funds into addresses holding at least 1000 SMART before the snapshot to be counted.</strong><br class="xliff-newline" /><br class="xliff-newline" /><strong>If you spend ANY amount from an address it will be ineligible for SmartRewards until the next round.</strong><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-4-152673" restype="string" datatype="html" id="package-string-4-152673">
+        <source><![CDATA[<br class="xliff-newline" />These payments will take place at around<strong> 7 UTC </strong>on the<strong> 25th of each month.</strong><br class="xliff-newline" />]]></source>
+        <target xml:lang="nl" state="needs-translation"><![CDATA[<br class="xliff-newline" />These payments will take place at around<strong> 7 UTC </strong>on the<strong> 25th of each month.</strong><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-4-228868" restype="string" datatype="html" id="package-string-4-228868">
+        <source><![CDATA[<br class="xliff-newline" />There are a few key pieces to understand...<br class="xliff-newline" />]]></source>
+        <target xml:lang="nl" state="needs-translation"><![CDATA[<br class="xliff-newline" />There are a few key pieces to understand...<br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-4-807802" restype="string" datatype="html" id="package-string-4-807802">
+        <source><![CDATA[<br class="xliff-newline" /><iframe src="https://smartcash.cc/smartreward-calculator.html" width="100%" height="400px" frameborder="0"></iframe><br class="xliff-newline" />]]></source>
+        <target><![CDATA[<br class="xliff-newline" /><iframe src="https://smartcash.cc/smartreward-calculator.html" width="100%" height="400px" frameborder="0"></iframe><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-4-881707" restype="string" datatype="html" id="package-string-4-881707">
+        <source><![CDATA[<br class="xliff-newline" />Yes your coins are not locked. However this will invalidate that specific address and reset the 30 day initial waiting period. We take periodic snapshots to confirm users are not actively moving coins out of these addresses during the month. There is no grace period for SmartRewards.<br class="xliff-newline" />]]></source>
+        <target xml:lang="nl" state="needs-translation"><![CDATA[<br class="xliff-newline" />Yes your coins are not locked. However this will invalidate that specific address and reset the 30 day initial waiting period. We take periodic snapshots to confirm users are not actively moving coins out of these addresses during the month. There is no grace period for SmartRewards.<br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-4-1943618" restype="string" datatype="html" id="package-string-4-1943618">
+        <source><![CDATA[<br class="xliff-newline" /><div style="text-align: left;"><strong>Round 13</strong></div><br class="xliff-newline" /><div>SnapShot: 2018-07-25 07:00:00 UTC</div><br class="xliff-newline" /><div data-type="countdown" data-id="514662" class="tickcounter" style="width: 100%; position: relative; padding-bottom: 25%"><a href="//www.tickcounter.com/countdown/514662/smartcash-snapshot-countdown-round-13" title="SmartCash SnapShot - Countdown Round #13">SmartCash SnapShot - Countdown Round #13</a><a href="//www.tickcounter.com/" title="Countdown">Countdown</a></div><br class="xliff-newline" /><script>(function(d s id) { var js pjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//www.tickcounter.com/static/js/loader.js"; pjs.parentNode.insertBefore(js pjs); }(document "script" "tickcounter-sdk"));</script><br class="xliff-newline" />]]></source>
+        <target xml:lang="nl" state="needs-translation"><![CDATA[<br class="xliff-newline" /><div style="text-align: left;"><strong>Round 13</strong></div><br class="xliff-newline" /><div>SnapShot: 2018-07-25 07:00:00 UTC</div><br class="xliff-newline" /><div data-type="countdown" data-id="514662" class="tickcounter" style="width: 100%; position: relative; padding-bottom: 25%"><a href="//www.tickcounter.com/countdown/514662/smartcash-snapshot-countdown-round-13" title="SmartCash SnapShot - Countdown Round #13">SmartCash SnapShot - Countdown Round #13</a><a href="//www.tickcounter.com/" title="Countdown">Countdown</a></div><br class="xliff-newline" /><script>(function(d s id) { var js pjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//www.tickcounter.com/static/js/loader.js"; pjs.parentNode.insertBefore(js pjs); }(document "script" "tickcounter-sdk"));</script><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-4-1943619" restype="string" datatype="html" id="package-string-4-1943619">
+        <source><![CDATA[<br class="xliff-newline" /><ol><br class="xliff-newline" /> 	<li>Be sure to don't leave your funds on an Exchange those addresses aren't eligible for SmartRewards.</li><br class="xliff-newline" /> 	<li>Lookup your address on <a class="is-link" title="" href="https://explorer.smartcash.cc/" target="_blank" rel="noreferrer noopener">https:<wbr ></wbr>/<wbr ></wbr>/explorer<wbr ></wbr>.smartcash<wbr ></wbr>.cc</a> and if it shows a balance over 1000 and no outgoing transactions during the cycle it qualifies or use the calculator to see if your address is eligible.</li><br class="xliff-newline" /></ol><br class="xliff-newline" />]]></source>
+        <target xml:lang="nl" state="needs-translation"><![CDATA[<br class="xliff-newline" /><ol><br class="xliff-newline" /> 	<li>Be sure to don't leave your funds on an Exchange those addresses aren't eligible for SmartRewards.</li><br class="xliff-newline" /> 	<li>Lookup your address on <a class="is-link" title="" href="https://explorer.smartcash.cc/" target="_blank" rel="noreferrer noopener">https:<wbr ></wbr>/<wbr ></wbr>/explorer<wbr ></wbr>.smartcash<wbr ></wbr>.cc</a> and if it shows a balance over 1000 and no outgoing transactions during the cycle it qualifies or use the calculator to see if your address is eligible.</li><br class="xliff-newline" /></ol><br class="xliff-newline" />]]></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
