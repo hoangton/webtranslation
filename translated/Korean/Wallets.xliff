@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file original="728-bd38d2e409492e9183545c3066665d01" source-language="en" target-language="ko" datatype="plaintext">
+  <file original="735-c4fe133fc06131e91c4aee2e48276f9c" source-language="en" target-language="ko" datatype="plaintext">
     <header>
       <phase-group>
         <phase phase-name="shortcodes" process-name="Shortcodes identification">
@@ -124,22 +124,6 @@
         <source><![CDATA[<br class="xliff-newline" /><p style="text-align: center;"><strong>PLEASE ALWAYS DOWNLOAD THE PAPER/BRAIN WALLET AND OPEN IT WITH THE BROWSER OF YOUR CHOICE OFFLINE!</strong></p><br class="xliff-newline" />]]></source>
         <target xml:lang="ko" state="needs-translation"><![CDATA[<br class="xliff-newline" /><p style="text-align: center;"><strong>PLEASE ALWAYS DOWNLOAD THE PAPER/BRAIN WALLET AND OPEN IT WITH THE BROWSER OF YOUR CHOICE OFFLINE!</strong></p><br class="xliff-newline" />]]></target>
       </trans-unit>
-      <trans-unit resname="package-string-9-1943577" restype="string" datatype="html" id="package-string-9-1943577">
-        <source><![CDATA[<br class="xliff-newline" /><strong class="pl-1"><a href="https://github.com/SmartCash/Core-Smart/releases/download/v1.2.2/smartcash-1.2.2-win32-setup.exe" rel="nofollow">smartcash-1.2.2-win32-setup.exe</a></strong><br class="xliff-newline" /><br class="xliff-newline" /><strong>32bit</strong><br class="xliff-newline" /><br class="xliff-newline" />13.8 MB<br class="xliff-newline" />]]></source>
-        <target xml:lang="ko" state="needs-translation"><![CDATA[<br class="xliff-newline" /><strong class="pl-1"><a href="https://github.com/SmartCash/Core-Smart/releases/download/v1.2.2/smartcash-1.2.2-win32-setup.exe" rel="nofollow">smartcash-1.2.2-win32-setup.exe</a></strong><br class="xliff-newline" /><br class="xliff-newline" /><strong>32bit</strong><br class="xliff-newline" /><br class="xliff-newline" />13.8 MB<br class="xliff-newline" />]]></target>
-      </trans-unit>
-      <trans-unit resname="package-string-9-1943613" restype="string" datatype="html" id="package-string-9-1943613">
-        <source><![CDATA[<br class="xliff-newline" /><a href="https://github.com/SmartCash/Core-Smart/releases/download/v1.2.2/smartcash-1.2.2-win64-setup.exe" rel="nofollow"><strong class="pl-1">smartcash-1.2.2-win64-setup.exe</strong></a><br class="xliff-newline" /><br class="xliff-newline" /><strong>64bit</strong><br class="xliff-newline" /><br class="xliff-newline" />14.3MB<br class="xliff-newline" />]]></source>
-        <target xml:lang="ko" state="needs-translation"><![CDATA[<br class="xliff-newline" /><a href="https://github.com/SmartCash/Core-Smart/releases/download/v1.2.2/smartcash-1.2.2-win64-setup.exe" rel="nofollow"><strong class="pl-1">smartcash-1.2.2-win64-setup.exe</strong></a><br class="xliff-newline" /><br class="xliff-newline" /><strong>64bit</strong><br class="xliff-newline" /><br class="xliff-newline" />14.3MB<br class="xliff-newline" />]]></target>
-      </trans-unit>
-      <trans-unit resname="package-string-9-1943614" restype="string" datatype="html" id="package-string-9-1943614">
-        <source><![CDATA[<br class="xliff-newline" /><strong class="pl-1"><a href="https://github.com/SmartCash/Core-Smart/releases/download/v1.2.2/smartcash-1.2.2-osx.dmg" rel="nofollow">smartcash-1.2.2-osx.dmg</a></strong><br class="xliff-newline" /><br class="xliff-newline" />13.3MB<br class="xliff-newline" /><br class="xliff-newline" />(Mac OS 10.10 or later)<br class="xliff-newline" />]]></source>
-        <target xml:lang="ko" state="needs-translation"><![CDATA[<br class="xliff-newline" /><strong class="pl-1"><a href="https://github.com/SmartCash/Core-Smart/releases/download/v1.2.2/smartcash-1.2.2-osx.dmg" rel="nofollow">smartcash-1.2.2-osx.dmg</a></strong><br class="xliff-newline" /><br class="xliff-newline" />13.3MB<br class="xliff-newline" /><br class="xliff-newline" />(Mac OS 10.10 or later)<br class="xliff-newline" />]]></target>
-      </trans-unit>
-      <trans-unit resname="package-string-9-1943615" restype="string" datatype="html" id="package-string-9-1943615">
-        <source><![CDATA[<br class="xliff-newline" /><strong class="pl-1"><a href="https://github.com/SmartCash/Core-Smart/releases/download/v1.2.2/smartcash-1.2.2-x86_64-linux-gnu.tar.gz" rel="nofollow">smartcash-1.2.2-x86_64-linux-gnu.tar.gz</a></strong><br class="xliff-newline" /><br class="xliff-newline" />20.9MB<br class="xliff-newline" />]]></source>
-        <target xml:lang="ko" state="needs-translation"><![CDATA[<br class="xliff-newline" /><strong class="pl-1"><a href="https://github.com/SmartCash/Core-Smart/releases/download/v1.2.2/smartcash-1.2.2-x86_64-linux-gnu.tar.gz" rel="nofollow">smartcash-1.2.2-x86_64-linux-gnu.tar.gz</a></strong><br class="xliff-newline" /><br class="xliff-newline" />20.9MB<br class="xliff-newline" />]]></target>
-      </trans-unit>
       <trans-unit resname="package-string-9-1943616" restype="string" datatype="html" id="package-string-9-1943616">
         <source><![CDATA[ <a name="electrum"></a><i class="wow-position fa fa-connectdevelop wow-icon"></i> Electrum Wallet]]></source>
         <target xml:lang="ko" state="needs-translation"><![CDATA[ <a name="electrum"></a><i class="wow-position fa fa-connectdevelop wow-icon"></i> Electrum Wallet]]></target>
@@ -147,6 +131,22 @@
       <trans-unit resname="package-string-9-1943617" restype="string" datatype="html" id="package-string-9-1943617">
         <source><![CDATA[ <a name="nodeclient"></a>Node Client]]></source>
         <target xml:lang="ko" state="needs-translation"><![CDATA[ <a name="nodeclient"></a>Node Client]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-9-1970114" restype="string" datatype="html" id="package-string-9-1970114">
+        <source><![CDATA[<br class="xliff-newline" /><a href="https://github.com/SmartCash/Core-Smart/releases/download/v1.2.3/smartcash-1.2.3-win64-setup.exe" rel="nofollow"><strong class="pl-1">smartcash-1.2.3-win64-setup.exe</strong></a><br class="xliff-newline" /><br class="xliff-newline" /><strong>64bit</strong><br class="xliff-newline" /><br class="xliff-newline" />14.3MB<br class="xliff-newline" />]]></source>
+        <target xml:lang="ko" state="needs-translation"><![CDATA[<br class="xliff-newline" /><a href="https://github.com/SmartCash/Core-Smart/releases/download/v1.2.3/smartcash-1.2.3-win64-setup.exe" rel="nofollow"><strong class="pl-1">smartcash-1.2.3-win64-setup.exe</strong></a><br class="xliff-newline" /><br class="xliff-newline" /><strong>64bit</strong><br class="xliff-newline" /><br class="xliff-newline" />14.3MB<br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-9-1970115" restype="string" datatype="html" id="package-string-9-1970115">
+        <source><![CDATA[<br class="xliff-newline" /><a href="https://github.com/SmartCash/Core-Smart/releases/download/v1.2.3/smartcash-1.2.3-win32-setup.exe" rel="nofollow"><strong class="pl-1">smartcash-1.2.3-win32-setup.exe</strong></a><br class="xliff-newline" /><br class="xliff-newline" /><strong>32bit</strong><br class="xliff-newline" /><br class="xliff-newline" />13.8 MB<br class="xliff-newline" />]]></source>
+        <target xml:lang="ko" state="needs-translation"><![CDATA[<br class="xliff-newline" /><a href="https://github.com/SmartCash/Core-Smart/releases/download/v1.2.3/smartcash-1.2.3-win32-setup.exe" rel="nofollow"><strong class="pl-1">smartcash-1.2.3-win32-setup.exe</strong></a><br class="xliff-newline" /><br class="xliff-newline" /><strong>32bit</strong><br class="xliff-newline" /><br class="xliff-newline" />13.8 MB<br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-9-1970116" restype="string" datatype="html" id="package-string-9-1970116">
+        <source><![CDATA[<br class="xliff-newline" /><a href="https://github.com/SmartCash/Core-Smart/releases/download/v1.2.3/smartcash-1.2.3-osx.dmg" rel="nofollow"><strong class="pl-1">smartcash-1.2.3-osx.dmg</strong></a><br class="xliff-newline" /><br class="xliff-newline" />13.3MB<br class="xliff-newline" /><br class="xliff-newline" />(Mac OS 10.10 or later)<br class="xliff-newline" />]]></source>
+        <target xml:lang="ko" state="needs-translation"><![CDATA[<br class="xliff-newline" /><a href="https://github.com/SmartCash/Core-Smart/releases/download/v1.2.3/smartcash-1.2.3-osx.dmg" rel="nofollow"><strong class="pl-1">smartcash-1.2.3-osx.dmg</strong></a><br class="xliff-newline" /><br class="xliff-newline" />13.3MB<br class="xliff-newline" /><br class="xliff-newline" />(Mac OS 10.10 or later)<br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-9-1970117" restype="string" datatype="html" id="package-string-9-1970117">
+        <source><![CDATA[<br class="xliff-newline" /><a href="https://github.com/SmartCash/Core-Smart/releases/download/v1.2.3/smartcash-1.2.3-x86_64-linux-gnu.tar.gz" rel="nofollow"><strong class="pl-1">smartcash-1.2.3-x86_64-linux-gnu.tar.gz</strong></a><br class="xliff-newline" /><br class="xliff-newline" />20.9MB<br class="xliff-newline" />]]></source>
+        <target xml:lang="ko" state="needs-translation"><![CDATA[<br class="xliff-newline" /><a href="https://github.com/SmartCash/Core-Smart/releases/download/v1.2.3/smartcash-1.2.3-x86_64-linux-gnu.tar.gz" rel="nofollow"><strong class="pl-1">smartcash-1.2.3-x86_64-linux-gnu.tar.gz</strong></a><br class="xliff-newline" /><br class="xliff-newline" />20.9MB<br class="xliff-newline" />]]></target>
       </trans-unit>
     </body>
   </file>
