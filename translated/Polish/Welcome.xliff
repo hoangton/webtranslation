@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="726-352c95641d076c8a9495cf3e74f9ce81" source-language="en" target-language="pl" datatype="plaintext">
+    <header>
+      <phase-group>
+        <phase phase-name="shortcodes" process-name="Shortcodes identification">
+          <note>wp_caption,caption,gallery,playlist,audio,video,embed,wpml_language_form_field,add_eventon_search,FAG,bws_google_captcha,wow-icons,wpml_language_switcher,wpml_language_selector_widget,wpml_language_selector_footer,wpml-string,contact-form-7,contact-form,layerslider,av_events_countdown,av_upcoming_events,av_productgrid,av_productlist,av_product_button,av_product_info,av_product_review,av_product_tabs,av_product_upsells,av_productslider,mc4wp_form,av_blog,av_button,av_button_big,av_catalogue,av_catalogue_item,av_cell_one_full,av_cell_one_half,av_cell_one_third,av_cell_two_third,av_cell_one_fourth,av_cell_three_fourth,av_cell_one_fifth,av_cell_two_fifth,av_cell_three_fifth,av_cell_four_fifth,av_codeblock,av_one_full,av_one_half,av_one_third,av_two_third,av_one_fourth,av_three_fourth,av_one_fifth,av_two_fifth,av_three_fifth,av_four_fifth,av_comments_list,av_contact,av_contact_field,av_content_slider,av_content_slide,av_countdown,av_dropcap1,av_dropcap2,av_gallery,av_google_map,av_gmap_location,av_layout_row,av_heading,av_headline_rotator,av_rotator_item,av_hr,av_font_icon,av_icon_box,av_iconlist,av_iconlist_item,av_image,av_image_hotspot,av_image_spot,av_partner,av_partner_logo,av_magazine,av_mailchimp,av_mailchimp_field,av_masonry_entries,av_masonry_gallery,av_submenu,av_submenu_item,av_notification,av_animated_numbers,av_portfolio,av_postslider,av_progress,av_progress_bar,av_promobox,av_section,av_slideshow,av_slide,av_slideshow_accordion,av_slide_accordion,av_feature_image_slider,av_fullscreen,av_fullscreen_slide,av_slideshow_full,av_slide_full,av_layerslider,av_social_share,av_tab_section,av_tab_sub_section,av_table,av_row,av_cell,av_tab_container,av_tab,av_team_member,av_team_icon,av_testimonials,av_testimonial_single,av_textblock,av_toggle_container,av_toggle,av_video,av_sidebar</note>
+        </phase>
+      </phase-group>
+      <reference>
+        <external-file href="https://smartcash.cc/welcome/"/>
+      </reference>
+    </header>
+    <body>
+      <trans-unit resname="field-_yoast_wpseo_title-0" restype="string" datatype="html" id="field-_yoast_wpseo_title-0">
+        <source><![CDATA[SmartCash.cc | A Privacy & Governance focused Cryptocurrency]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[SmartCash.cc | A Privacy & Governance focused Cryptocurrency]]></target>
+      </trans-unit>
+      <trans-unit resname="field-_yoast_wpseo_metadesc-0" restype="string" datatype="html" id="field-_yoast_wpseo_metadesc-0">
+        <source><![CDATA[SmartCash is a brand new decentralized digital currency where every user has a voice while remaining safe secure and fungible all at the same time!]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[SmartCash is a brand new decentralized digital currency where every user has a voice while remaining safe secure and fungible all at the same time!]]></target>
+      </trans-unit>
+      <trans-unit resname="field-_yoast_wpseo_focuskw-0" restype="string" datatype="html" id="field-_yoast_wpseo_focuskw-0">
+        <source><![CDATA[smartcash]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[smartcash]]></target>
+      </trans-unit>
+      <trans-unit resname="title" restype="string" datatype="html" id="title">
+        <source><![CDATA[Welcome]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[Welcome]]></target>
+      </trans-unit>
+      <trans-unit resname="t_134" restype="string" datatype="html" id="t_134">
+        <source><![CDATA[Optional]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[Optional]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-6248" restype="string" datatype="html" id="package-string-1-6248">
+        <source><![CDATA[Learn More]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[Learn More]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-6249" restype="string" datatype="html" id="package-string-1-6249">
+        <source><![CDATA[manuallyhttp://]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[manuallyhttp://]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-6250" restype="string" datatype="html" id="package-string-1-6250">
+        <source><![CDATA[Click me]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[Click me]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-6263" restype="string" datatype="html" id="package-string-1-6263">
+        <source><![CDATA[What Is SmartCash?]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[What Is SmartCash?]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-150575" restype="string" datatype="html" id="package-string-1-150575">
+        <source><![CDATA[<br class="xliff-newline" /><strong>We strive to allow the community to control the fate of the coin the governance the budget usage and encourage community development.</strong><br class="xliff-newline" />]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[<br class="xliff-newline" /><strong>We strive to allow the community to control the fate of the coin the governance the budget usage and encourage community development.</strong><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-150616" restype="string" datatype="html" id="package-string-1-150616">
+        <source><![CDATA[<br class="xliff-newline" /><strong>In order to provide a quality merchant experience having Instant Transactions is a must therefore say hello to InstantPay.</strong><br class="xliff-newline" />]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[<br class="xliff-newline" /><strong>In order to provide a quality merchant experience having Instant Transactions is a must therefore say hello to InstantPay.</strong><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-150618" restype="string" datatype="html" id="package-string-1-150618">
+        <source><![CDATA[<strong>SmartHive<strong>]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[<strong>SmartHive<strong>]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-150620" restype="string" datatype="html" id="package-string-1-150620">
+        <source><![CDATA[<strong>SmartRewards<strong>]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[<strong>SmartRewards<strong>]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-150621" restype="string" datatype="html" id="package-string-1-150621">
+        <source><![CDATA[<strong>InstantPay<strong>]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[<strong>InstantPay<strong>]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-175503" restype="string" datatype="html" id="package-string-1-175503">
+        <source><![CDATA[<br class="xliff-newline" /><p style="max-width: 800px; margin: 0px auto;">SmartCash is pursuing a very ambitious development schedule and is constantly improving. Do you have a talent that could help? Join us on our community Discord and find ways to contribute.<br class="xliff-newline" />]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[<br class="xliff-newline" /><p style="max-width: 800px; margin: 0px auto;">SmartCash is pursuing a very ambitious development schedule and is constantly improving. Do you have a talent that could help? Join us on our community Discord and find ways to contribute.<br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-175504" restype="string" datatype="html" id="package-string-1-175504">
+        <source><![CDATA[<img src="https://smartcash.cc/wp-content/uploads/2017/09/smarthive-logo.png" width="720" height="163" />]]></source>
+        <target><![CDATA[<img src="https://smartcash.cc/wp-content/uploads/2017/09/smarthive-logo.png" width="720" height="163" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-175511" restype="string" datatype="html" id="package-string-1-175511">
+        <source><![CDATA[30% - Hive Structuring Team]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[30% - Hive Structuring Team]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-175514" restype="string" datatype="html" id="package-string-1-175514">
+        <source><![CDATA[The SmartCash Mining Concept]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[The SmartCash Mining Concept]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-960236" restype="string" datatype="html" id="package-string-1-960236">
+        <source><![CDATA[<br class="xliff-newline" /><strong>SmartRewards are a price stabilization mechanism and a way to encourage long term holding.</strong><br class="xliff-newline" />]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[<br class="xliff-newline" /><strong>SmartRewards are a price stabilization mechanism and a way to encourage long term holding.</strong><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-960249" restype="string" datatype="html" id="package-string-1-960249">
+        <source><![CDATA[<br class="xliff-newline" />A system where every SmartCash holder has a voice powered by the blockchain.<br class="xliff-newline" />]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[<br class="xliff-newline" />A system where every SmartCash holder has a voice powered by the blockchain.<br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-960250" restype="string" datatype="html" id="package-string-1-960250">
+        <source><![CDATA[<i class="wow-position fa fa-universal-access wow-icon"></i> Community Governance via Blockchain]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[<i class="wow-position fa fa-universal-access wow-icon"></i> Community Governance via Blockchain]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-960251" restype="string" datatype="html" id="package-string-1-960251">
+        <source><![CDATA[<br class="xliff-newline" />The New Way to Blockchain…<br class="xliff-newline" />]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[<br class="xliff-newline" />The New Way to Blockchain…<br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-960252" restype="string" datatype="html" id="package-string-1-960252">
+        <source><![CDATA[What Sets SmartCash Apart?]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[What Sets SmartCash Apart?]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-960254" restype="string" datatype="html" id="package-string-1-960254">
+        <source><![CDATA[Fast]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[Fast]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-960258" restype="string" datatype="html" id="package-string-1-960258">
+        <source><![CDATA[Inclusive]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[Inclusive]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-960260" restype="string" datatype="html" id="package-string-1-960260">
+        <source><![CDATA[<i class="wow-position fa fa-street-view wow-icon"></i>Join the SmartCash Community]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[<i class="wow-position fa fa-street-view wow-icon"></i>Join the SmartCash Community]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-960261" restype="string" datatype="html" id="package-string-1-960261">
+        <source><![CDATA[<br class="xliff-newline" />/r/SmartCash<br class="xliff-newline" />]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[<br class="xliff-newline" />/r/SmartCash<br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-960262" restype="string" datatype="html" id="package-string-1-960262">
+        <source><![CDATA[http://forum.smartcash.cc/]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[http://forum.smartcash.cc/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-960263" restype="string" datatype="html" id="package-string-1-960263">
+        <source><![CDATA[https://bit.do/smartcash]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[https://bit.do/smartcash]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-960264" restype="string" datatype="html" id="package-string-1-960264">
+        <source><![CDATA[https://www.reddit.com/r/smartcash/]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[https://www.reddit.com/r/smartcash/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-960265" restype="string" datatype="html" id="package-string-1-960265">
+        <source><![CDATA[https://twitter.com/scashofficial]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[https://twitter.com/scashofficial]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-960266" restype="string" datatype="html" id="package-string-1-960266">
+        <source><![CDATA[https://steemit.com/@smartcash]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[https://steemit.com/@smartcash]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-960267" restype="string" datatype="html" id="package-string-1-960267">
+        <source><![CDATA[https://www.instagram.com/scashofficial/]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[https://www.instagram.com/scashofficial/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-960268" restype="string" datatype="html" id="package-string-1-960268">
+        <source><![CDATA[https://gab.ai/smartcash]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[https://gab.ai/smartcash]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-960269" restype="string" datatype="html" id="package-string-1-960269">
+        <source><![CDATA[http://discord.smartcash.cc/]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[http://discord.smartcash.cc/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-960270" restype="string" datatype="html" id="package-string-1-960270">
+        <source><![CDATA[https://www.facebook.com/scashofficial]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[https://www.facebook.com/scashofficial]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-960271" restype="string" datatype="html" id="package-string-1-960271">
+        <source><![CDATA[http://youtube.smartcash.cc/]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[http://youtube.smartcash.cc/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-960273" restype="string" datatype="html" id="package-string-1-960273">
+        <source><![CDATA[<i class="wow-position fa fa-mail-forward wow-icon"></i> Looking for the Mailing list?]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[<i class="wow-position fa fa-mail-forward wow-icon"></i> Looking for the Mailing list?]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-960274" restype="string" datatype="html" id="package-string-1-960274">
+        <source><![CDATA[Email Address]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[Email Address]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-960275" restype="string" datatype="html" id="package-string-1-960275">
+        <source><![CDATA[Subscribe]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[Subscribe]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-960276" restype="string" datatype="html" id="package-string-1-960276">
+        <source><![CDATA[Thank You For Subscribing!]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[Thank You For Subscribing!]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-960282" restype="string" datatype="html" id="package-string-1-960282">
+        <source><![CDATA[<br class="xliff-newline" /><p class="western" xml:lang="en-US"><span style="font-family: Calibri sans-serif;"><span style="font-size: small;">70% of each block is set aside for use via the SmartHive funding platform.</span></span></p><br class="xliff-newline" /><br class="xliff-newline" />]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[<br class="xliff-newline" /><p class="western" xml:lang="en-US"><span style="font-family: Calibri sans-serif;"><span style="font-size: small;">70% of each block is set aside for use via the SmartHive funding platform.</span></span></p><br class="xliff-newline" /><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-960283" restype="string" datatype="html" id="package-string-1-960283">
+        <source><![CDATA[<br class="xliff-newline" /><p class="western" xml:lang="ru-RU"><span style="font-family: Calibri sans-serif;"><span style="font-size: medium;"><span xml:lang="en-US">We work daily to expand the offerings of SmartCash from new mobile wallets to exchanges and community frameworks. </span></span></span><span style="font-family: Calibri sans-serif;"><span style="font-size: medium;">InstantPay is just the tip of the iceberg.</span></span></p><br class="xliff-newline" /><br class="xliff-newline" />]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[<br class="xliff-newline" /><p class="western" xml:lang="ru-RU"><span style="font-family: Calibri sans-serif;"><span style="font-size: medium;"><span xml:lang="en-US">We work daily to expand the offerings of SmartCash from new mobile wallets to exchanges and community frameworks. </span></span></span><span style="font-family: Calibri sans-serif;"><span style="font-size: medium;">InstantPay is just the tip of the iceberg.</span></span></p><br class="xliff-newline" /><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-960285" restype="string" datatype="html" id="package-string-1-960285">
+        <source><![CDATA[<br class="xliff-newline" /><p class="western" xml:lang="ru-RU"><span style="font-family: Calibri sans-serif;"><span style="font-size: medium;"><span xml:lang="en-US">The entire foundation of SmartCash is based upon community adoption growth and inclusion. </span></span></span><span style="font-family: Calibri sans-serif;"><span style="font-size: medium;">Everyone is a SmartCash team member.</span></span></p><br class="xliff-newline" /><br class="xliff-newline" />]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[<br class="xliff-newline" /><p class="western" xml:lang="ru-RU"><span style="font-family: Calibri sans-serif;"><span style="font-size: medium;"><span xml:lang="en-US">The entire foundation of SmartCash is based upon community adoption growth and inclusion. </span></span></span><span style="font-family: Calibri sans-serif;"><span style="font-size: medium;">Everyone is a SmartCash team member.</span></span></p><br class="xliff-newline" /><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-960287" restype="string" datatype="html" id="package-string-1-960287">
+        <source><![CDATA[<br class="xliff-newline" /><p style="text-align: center;" align="center"><span style="font-size: medium;">Want to keep up with developments news and updates from the SmartCash team?</span></p><br class="xliff-newline" /><br class="xliff-newline" />]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[<br class="xliff-newline" /><p style="text-align: center;" align="center"><span style="font-size: medium;">Want to keep up with developments news and updates from the SmartCash team?</span></p><br class="xliff-newline" /><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1057827" restype="string" datatype="html" id="package-string-1-1057827">
+        <source><![CDATA[<br class="xliff-newline" />SmartCash is a community governance cooperation & growth focused blockchain based currency & a decentralized economy.<br class="xliff-newline" />]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[<br class="xliff-newline" />SmartCash is a community governance cooperation & growth focused blockchain based currency & a decentralized economy.<br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1057828" restype="string" datatype="html" id="package-string-1-1057828">
+        <source><![CDATA[Community Driven Growth & Funding]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[Community Driven Growth & Funding]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1254321" restype="string" datatype="html" id="package-string-1-1254321">
+        <source><![CDATA[<br class="xliff-newline" /><p class="western" xml:lang="ru-RU"><span style="font-family: Calibri sans-serif;"><span style="font-size: medium;"><span xml:lang="en-US">Traditional cryptocurrencies like Bitcoin reward only the miners while neglecting the other actors that play an active role in maintaining developing and promoting the project. SmartCash is a community-centric cryptocurrency where community and development comes first. 70% of the block reward has been allocated to fund SmartHive community proposals as well as the Hive Teams. 30% of the remaining block reward has been allocated to Mining (5%) and SmartRewards (15%) and SmartNodes (10%).</span></span></span></p><br class="xliff-newline" />]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[<br class="xliff-newline" /><p class="western" xml:lang="ru-RU"><span style="font-family: Calibri sans-serif;"><span style="font-size: medium;"><span xml:lang="en-US">Traditional cryptocurrencies like Bitcoin reward only the miners while neglecting the other actors that play an active role in maintaining developing and promoting the project. SmartCash is a community-centric cryptocurrency where community and development comes first. 70% of the block reward has been allocated to fund SmartHive community proposals as well as the Hive Teams. 30% of the remaining block reward has been allocated to Mining (5%) and SmartRewards (15%) and SmartNodes (10%).</span></span></span></p><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1254322" restype="string" datatype="html" id="package-string-1-1254322">
+        <source><![CDATA[<br class="xliff-newline" /><p class="western" xml:lang="ru-RU"><span style="font-family: Calibri sans-serif;"><span style="font-size: medium;"><span xml:lang="en-US">With SmartCash we have placed a huge focus on the community so much so that we set aside 70% of the budget to fund projects the community would like to pursue leaving only 30% for certain projects like system maintenance and some other basic needs. We highly encourage anyone with the skills to help grow SmartCash to get involved in the community and bring your best creative ideas with you.</span></span></span></p><br class="xliff-newline" />]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[<br class="xliff-newline" /><p class="western" xml:lang="ru-RU"><span style="font-family: Calibri sans-serif;"><span style="font-size: medium;"><span xml:lang="en-US">With SmartCash we have placed a huge focus on the community so much so that we set aside 70% of the budget to fund projects the community would like to pursue leaving only 30% for certain projects like system maintenance and some other basic needs. We highly encourage anyone with the skills to help grow SmartCash to get involved in the community and bring your best creative ideas with you.</span></span></span></p><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1254323" restype="string" datatype="html" id="package-string-1-1254323">
+        <source><![CDATA[<br class="xliff-newline" /><p class="western" xml:lang="en-US"><span style="font-family: Calibri sans-serif;"><span style="font-size: small;">Funds ongoing maintenance through dedicated SmartHive Structuring Teams.</span></span></p><br class="xliff-newline" />]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[<br class="xliff-newline" /><p class="western" xml:lang="en-US"><span style="font-family: Calibri sans-serif;"><span style="font-size: small;">Funds ongoing maintenance through dedicated SmartHive Structuring Teams.</span></span></p><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1254325" restype="string" datatype="html" id="package-string-1-1254325">
+        <source><![CDATA[70% - SmartHive project treasury]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[70% - SmartHive project treasury]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1254326" restype="string" datatype="html" id="package-string-1-1254326">
+        <source><![CDATA[<br class="xliff-newline" /><p class="western" xml:lang="ru-RU"><span style="font-family: Calibri sans-serif;"><span style="font-size: medium;"><span xml:lang="en-US">SmartCash mining prevents mining centralization and stimulate network growth. Every computer can be used as a mining device while still allowing that computer to be used for various other tasks. ASICs have yet to be created for the Keccak mining algorithm and it’s probably safe to assume no ASICs will be created for quite some time until Smartcash reaches a considerable market cap.</span></span></span></p><br class="xliff-newline" />]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[<br class="xliff-newline" /><p class="western" xml:lang="ru-RU"><span style="font-family: Calibri sans-serif;"><span style="font-size: medium;"><span xml:lang="en-US">SmartCash mining prevents mining centralization and stimulate network growth. Every computer can be used as a mining device while still allowing that computer to be used for various other tasks. ASICs have yet to be created for the Keccak mining algorithm and it’s probably safe to assume no ASICs will be created for quite some time until Smartcash reaches a considerable market cap.</span></span></span></p><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1254327" restype="string" datatype="html" id="package-string-1-1254327">
+        <source><![CDATA[<br class="xliff-newline" /><p style="text-align: center;" align="center"><span style="font-size: large;">We have many different places and methods to discuss learn and flourish together. Below are a few options.</span></p><br class="xliff-newline" />]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[<br class="xliff-newline" /><p style="text-align: center;" align="center"><span style="font-size: large;">We have many different places and methods to discuss learn and flourish together. Below are a few options.</span></p><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1254328" restype="string" datatype="html" id="package-string-1-1254328">
+        <source><![CDATA[<br class="xliff-newline" /><p class="western" xml:lang="en-US"><span style="font-family: Calibri sans-serif;"><span style="font-size: small;">Funds allocated for <span style="font-weight: 400;">SmartHive </span>community projects and goals.</span></span></p><br class="xliff-newline" />]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[<br class="xliff-newline" /><p class="western" xml:lang="en-US"><span style="font-family: Calibri sans-serif;"><span style="font-size: small;">Funds allocated for <span style="font-weight: 400;">SmartHive </span>community projects and goals.</span></span></p><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1254333" restype="string" datatype="html" id="package-string-1-1254333">
+        <source><![CDATA[<br class="xliff-newline" /><p style="text-align: center;" align="center"><span style="font-size: large;">DISCLAIMER: This list is provided for informational purposes only. Services listed here have not been evaluated or endorsed by the SmartCash developers and no guarantees are made as to the accuracy of this information. Please exercise discretion when using third-party services.</span></p><br class="xliff-newline" />]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[<br class="xliff-newline" /><p style="text-align: center;" align="center"><span style="font-size: large;">DISCLAIMER: This list is provided for informational purposes only. Services listed here have not been evaluated or endorsed by the SmartCash developers and no guarantees are made as to the accuracy of this information. Please exercise discretion when using third-party services.</span></p><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1254335" restype="string" datatype="html" id="package-string-1-1254335">
+        <source><![CDATA[https://www.coinpayments.net/]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[https://www.coinpayments.net/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1254337" restype="string" datatype="html" id="package-string-1-1254337">
+        <source><![CDATA[https://smartie.shop/]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[https://smartie.shop/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1254340" restype="string" datatype="html" id="package-string-1-1254340">
+        <source><![CDATA[https://smartstats.cc/]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[https://smartstats.cc/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1254341" restype="string" datatype="html" id="package-string-1-1254341">
+        <source><![CDATA[https://discoversmart.net/]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[https://discoversmart.net/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1254343" restype="string" datatype="html" id="package-string-1-1254343">
+        <source><![CDATA[http://mailsmart.smartcash.cc/]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[http://mailsmart.smartcash.cc/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1254345" restype="string" datatype="html" id="package-string-1-1254345">
+        <source><![CDATA[http://smartnodes.cc/]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[http://smartnodes.cc/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1254346" restype="string" datatype="html" id="package-string-1-1254346">
+        <source><![CDATA[https://smartcash.blockchainlibrary.org/]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[https://smartcash.blockchainlibrary.org/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1254347" restype="string" datatype="html" id="package-string-1-1254347">
+        <source><![CDATA[https://smartrewards.cc/]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[https://smartrewards.cc/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1254348" restype="string" datatype="html" id="package-string-1-1254348">
+        <source><![CDATA[https://steemit.com/smartcash/@dustinface/v2-0-smartnodemonitor-update]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[https://steemit.com/smartcash/@dustinface/v2-0-smartnodemonitor-update]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1254349" restype="string" datatype="html" id="package-string-1-1254349">
+        <source><![CDATA[<i class="wow-position fa fa-wrench wow-icon"></i> SERVICES]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[<i class="wow-position fa fa-wrench wow-icon"></i> SERVICES]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1254351" restype="string" datatype="html" id="package-string-1-1254351">
+        <source><![CDATA[<i class="wow-position fa fa-briefcase wow-icon"></i> PROJECTS]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[<i class="wow-position fa fa-briefcase wow-icon"></i> PROJECTS]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1254353" restype="string" datatype="html" id="package-string-1-1254353">
+        <source><![CDATA[https://smartmon.kabute.com/monitor/]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[https://smartmon.kabute.com/monitor/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1256148" restype="string" datatype="html" id="package-string-1-1256148">
+        <source><![CDATA[<i class="wow-position fa fa-exchange wow-icon"></i> EXCHANGES]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[<i class="wow-position fa fa-exchange wow-icon"></i> EXCHANGES]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1256149" restype="string" datatype="html" id="package-string-1-1256149">
+        <source><![CDATA[https://hitbtc.com/]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[https://hitbtc.com/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1256150" restype="string" datatype="html" id="package-string-1-1256150">
+        <source><![CDATA[https://crypto-bridge.org/]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[https://crypto-bridge.org/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1256151" restype="string" datatype="html" id="package-string-1-1256151">
+        <source><![CDATA[http://monkeycoin.com.ve/]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[http://monkeycoin.com.ve/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1256152" restype="string" datatype="html" id="package-string-1-1256152">
+        <source><![CDATA[https://cryptowolf.eu/]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[https://cryptowolf.eu/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1256153" restype="string" datatype="html" id="package-string-1-1256153">
+        <source><![CDATA[https://www.coinexchange.io/market/SMART/BTC]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[https://www.coinexchange.io/market/SMART/BTC]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1256154" restype="string" datatype="html" id="package-string-1-1256154">
+        <source><![CDATA[http://stocks.exchange/trade/SMART/BTC]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[http://stocks.exchange/trade/SMART/BTC]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1256155" restype="string" datatype="html" id="package-string-1-1256155">
+        <source><![CDATA[https://localbitcoincash.org/index.asp]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[https://localbitcoincash.org/index.asp]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1256156" restype="string" datatype="html" id="package-string-1-1256156">
+        <source><![CDATA[https://www.cryptochange.co.za/]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[https://www.cryptochange.co.za/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1256157" restype="string" datatype="html" id="package-string-1-1256157">
+        <source><![CDATA[http://www.ebitcoinics.com/]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[http://www.ebitcoinics.com/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1256158" restype="string" datatype="html" id="package-string-1-1256158">
+        <source><![CDATA[http://bitcoinp2p.com.br]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[http://bitcoinp2p.com.br]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1256159" restype="string" datatype="html" id="package-string-1-1256159">
+        <source><![CDATA[https://komodoplatform.com/decentralized-exchange/]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[https://komodoplatform.com/decentralized-exchange/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1256160" restype="string" datatype="html" id="package-string-1-1256160">
+        <source><![CDATA[https://stratum.hk/]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[https://stratum.hk/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1256161" restype="string" datatype="html" id="package-string-1-1256161">
+        <source><![CDATA[https://tradesatoshi.com/Exchange/?market=SMART_BTC]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[https://tradesatoshi.com/Exchange/?market=SMART_BTC]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1256177" restype="string" datatype="html" id="package-string-1-1256177">
+        <source><![CDATA[Windows]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[Windows]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1256178" restype="string" datatype="html" id="package-string-1-1256178">
+        <source><![CDATA[#]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[#]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1256181" restype="string" datatype="html" id="package-string-1-1256181">
+        <source><![CDATA[Mac OS]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[Mac OS]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1256183" restype="string" datatype="html" id="package-string-1-1256183">
+        <source><![CDATA[Linux]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[Linux]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1256184" restype="string" datatype="html" id="package-string-1-1256184">
+        <source><![CDATA[<br class="xliff-newline" /><a href="https://play.google.com/store/apps/details?id=cc.smartcash.wallet"><img class="aligncenter size-thumbnail wp-image-6478" src="https://smartcash.cc/wp-content/uploads/2018/03/SmartCash-Logo-S-80x80.png" alt="" width="80" height="80" /></a><br class="xliff-newline" />]]></source>
+        <target><![CDATA[<br class="xliff-newline" /><a href="https://play.google.com/store/apps/details?id=cc.smartcash.wallet"><img class="aligncenter size-thumbnail wp-image-6478" src="https://smartcash.cc/wp-content/uploads/2018/03/SmartCash-Logo-S-80x80.png" alt="" width="80" height="80" /></a><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1256185" restype="string" datatype="html" id="package-string-1-1256185">
+        <source><![CDATA[SmartCash]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[SmartCash]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1256186" restype="string" datatype="html" id="package-string-1-1256186">
+        <source><![CDATA[<br class="xliff-newline" /><a href="https://play.google.com/store/apps/details?id=com.coinomi.wallet"><img class="aligncenter wp-image-8694 size-thumbnail" src="https://smartcash.cc/wp-content/uploads/2018/05/coinomi-logo-medium-80x80.png" alt="" width="80" height="80" /></a><br class="xliff-newline" />]]></source>
+        <target><![CDATA[<br class="xliff-newline" /><a href="https://play.google.com/store/apps/details?id=com.coinomi.wallet"><img class="aligncenter wp-image-8694 size-thumbnail" src="https://smartcash.cc/wp-content/uploads/2018/05/coinomi-logo-medium-80x80.png" alt="" width="80" height="80" /></a><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1256187" restype="string" datatype="html" id="package-string-1-1256187">
+        <source><![CDATA[Coinomi]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[Coinomi]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1256188" restype="string" datatype="html" id="package-string-1-1256188">
+        <source><![CDATA[<br class="xliff-newline" /><a href="https://www.ethos.io/universal-wallet/"><img class="aligncenter size-thumbnail wp-image-8695" src="https://smartcash.cc/wp-content/uploads/2018/05/Ethos-Logo-square-80x80.png" alt="" width="80" height="80" /></a><br class="xliff-newline" />]]></source>
+        <target><![CDATA[<br class="xliff-newline" /><a href="https://www.ethos.io/universal-wallet/"><img class="aligncenter size-thumbnail wp-image-8695" src="https://smartcash.cc/wp-content/uploads/2018/05/Ethos-Logo-square-80x80.png" alt="" width="80" height="80" /></a><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1256189" restype="string" datatype="html" id="package-string-1-1256189">
+        <source><![CDATA[Ethos]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[Ethos]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1256190" restype="string" datatype="html" id="package-string-1-1256190">
+        <source><![CDATA[<br class="xliff-newline" /><a href="https://itunes.apple.com/us/app/coinomi-wallet/id1333588809"><img class="aligncenter size-thumbnail wp-image-8694" src="https://smartcash.cc/wp-content/uploads/2018/05/coinomi-logo-medium-80x80.png" alt="" width="80" height="80" /></a><br class="xliff-newline" />]]></source>
+        <target><![CDATA[<br class="xliff-newline" /><a href="https://itunes.apple.com/us/app/coinomi-wallet/id1333588809"><img class="aligncenter size-thumbnail wp-image-8694" src="https://smartcash.cc/wp-content/uploads/2018/05/coinomi-logo-medium-80x80.png" alt="" width="80" height="80" /></a><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1256191" restype="string" datatype="html" id="package-string-1-1256191">
+        <source><![CDATA[<br class="xliff-newline" /><strong>Please always check you are using the right URL <span style="color: #009933;">https://wallet.smartcash.cc</span></strong><br class="xliff-newline" /><strong> <a href="https://wallet.smartcash.cc">Web Wallet</a></strong><br class="xliff-newline" />]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[<br class="xliff-newline" /><strong>Please always check you are using the right URL <span style="color: #009933;">https://wallet.smartcash.cc</span></strong><br class="xliff-newline" /><strong> <a href="https://wallet.smartcash.cc">Web Wallet</a></strong><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1256192" restype="string" datatype="html" id="package-string-1-1256192">
+        <source><![CDATA[Web Wallet]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[Web Wallet]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1256193" restype="string" datatype="html" id="package-string-1-1256193">
+        <source><![CDATA[<br class="xliff-newline" /><strong>Please always check you are using the right URL <span style="color: #009933;">https://paperwallet.smartcash.cc</span></strong><br class="xliff-newline" /><strong> <a href="https://paperwallet.smartcash.cc">Paper Wallet</a></strong><br class="xliff-newline" />]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[<br class="xliff-newline" /><strong>Please always check you are using the right URL <span style="color: #009933;">https://paperwallet.smartcash.cc</span></strong><br class="xliff-newline" /><strong> <a href="https://paperwallet.smartcash.cc">Paper Wallet</a></strong><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1256194" restype="string" datatype="html" id="package-string-1-1256194">
+        <source><![CDATA[<i class="wow-position fa fa-newspaper-o"></i> Paper Wallet]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[<i class="wow-position fa fa-newspaper-o"></i> Paper Wallet]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1256195" restype="string" datatype="html" id="package-string-1-1256195">
+        <source><![CDATA[<br class="xliff-newline" /><strong>Stash that SmartCash in your brain! <span style="color: #009933;"></strong><br class="xliff-newline" /><strong> <a href="https://paperwallet.smartcash.cc/brainwallet.html">Brain Wallet</a></strong><br class="xliff-newline" />]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[<br class="xliff-newline" /><strong>Stash that SmartCash in your brain! <span style="color: #009933;"></strong><br class="xliff-newline" /><strong> <a href="https://paperwallet.smartcash.cc/brainwallet.html">Brain Wallet</a></strong><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1256197" restype="string" datatype="html" id="package-string-1-1256197">
+        <source><![CDATA[<i class="wow-position fa fa-suitcase wow-icon"></i> <a href="https://smartcash.cc/wallets/">Wallets</a>]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[<i class="wow-position fa fa-suitcase wow-icon"></i> <a href="https://smartcash.cc/wallets/">Wallets</a>]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1674449" restype="string" datatype="html" id="package-string-1-1674449">
+        <source><![CDATA[<i class="wow-position fa fa-user"></i> Brain Wallet]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[<i class="wow-position fa fa-user"></i> Brain Wallet]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1714780" restype="string" datatype="html" id="package-string-1-1714780">
+        <source><![CDATA[https://www.kamoney.com.br/]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[https://www.kamoney.com.br/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1720462" restype="string" datatype="html" id="package-string-1-1720462">
+        <source><![CDATA[https://bitebtc.com/trade/smart_btc]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[https://bitebtc.com/trade/smart_btc]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1818553" restype="string" datatype="html" id="package-string-1-1818553">
+        <source><![CDATA[<br class="xliff-newline" /><img class="aligncenter  wp-image-6737" src="https://smartcash.cc/wp-content/uploads/2018/03/29-269x300.png" alt="" width="55" height="62" /><br class="xliff-newline" /><br class="xliff-newline" />This is a fast wallet that does not require the blockchain download. Wallet will not start SmartNodes but a future release will add that feature.<br class="xliff-newline" /><br class="xliff-newline" /><strong class="pl-1"><a href="https://github.com/SmartCash/electrum-smart/releases/download/v3.1.2/Windows.Installer.Electrum-smart.3.1.2.exe" rel="nofollow">Windows.Installer.Electrum-smart.3.1.2.exe</a></strong><br class="xliff-newline" /><br class="xliff-newline" /><strong>Installer</strong><br class="xliff-newline" /><br class="xliff-newline" />13.8MB<br class="xliff-newline" /><br class="xliff-newline" /><hr /><br class="xliff-newline" /><br class="xliff-newline" /><strong class="pl-1"><a href="https://github.com/SmartCash/electrum-smart/releases/download/v3.1.2/Windows.Portable.Electrum-smart.3.1.2.exe" rel="nofollow">Windows.Portable.Electrum-smart.3.1.2.exe</a></strong><br class="xliff-newline" /><br class="xliff-newline" /><strong>Portable</strong><br class="xliff-newline" /><br class="xliff-newline" />19.6MB<br class="xliff-newline" />]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[<br class="xliff-newline" /><img class="aligncenter  wp-image-6737" src="https://smartcash.cc/wp-content/uploads/2018/03/29-269x300.png" alt="" width="55" height="62" /><br class="xliff-newline" /><br class="xliff-newline" />This is a fast wallet that does not require the blockchain download. Wallet will not start SmartNodes but a future release will add that feature.<br class="xliff-newline" /><br class="xliff-newline" /><strong class="pl-1"><a href="https://github.com/SmartCash/electrum-smart/releases/download/v3.1.2/Windows.Installer.Electrum-smart.3.1.2.exe" rel="nofollow">Windows.Installer.Electrum-smart.3.1.2.exe</a></strong><br class="xliff-newline" /><br class="xliff-newline" /><strong>Installer</strong><br class="xliff-newline" /><br class="xliff-newline" />13.8MB<br class="xliff-newline" /><br class="xliff-newline" /><hr /><br class="xliff-newline" /><br class="xliff-newline" /><strong class="pl-1"><a href="https://github.com/SmartCash/electrum-smart/releases/download/v3.1.2/Windows.Portable.Electrum-smart.3.1.2.exe" rel="nofollow">Windows.Portable.Electrum-smart.3.1.2.exe</a></strong><br class="xliff-newline" /><br class="xliff-newline" /><strong>Portable</strong><br class="xliff-newline" /><br class="xliff-newline" />19.6MB<br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1818554" restype="string" datatype="html" id="package-string-1-1818554">
+        <source><![CDATA[Electrum Smart]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[Electrum Smart]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1818555" restype="string" datatype="html" id="package-string-1-1818555">
+        <source><![CDATA[<br class="xliff-newline" /><img class="aligncenter  wp-image-6737" src="https://smartcash.cc/wp-content/uploads/2018/03/29-269x300.png" alt="" width="82" height="91" /><br class="xliff-newline" /><br class="xliff-newline" />This is a fast wallet that does not require the blockchain download. Wallet will not start SmartNodes but a future release will add that feature.<br class="xliff-newline" /><br class="xliff-newline" /><a href="https://github.com/SmartCash/electrum-smart/releases/download/v3.1.2/Mac.Electrum-smart-3.1.2.dmg" rel="nofollow"><strong class="pl-1">Mac.Electrum-smart-3.1.2.dmg</strong></a><br class="xliff-newline" /><br class="xliff-newline" />21.2MB<br class="xliff-newline" /><br class="xliff-newline" />v3.1.2<br class="xliff-newline" />]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[<br class="xliff-newline" /><img class="aligncenter  wp-image-6737" src="https://smartcash.cc/wp-content/uploads/2018/03/29-269x300.png" alt="" width="82" height="91" /><br class="xliff-newline" /><br class="xliff-newline" />This is a fast wallet that does not require the blockchain download. Wallet will not start SmartNodes but a future release will add that feature.<br class="xliff-newline" /><br class="xliff-newline" /><a href="https://github.com/SmartCash/electrum-smart/releases/download/v3.1.2/Mac.Electrum-smart-3.1.2.dmg" rel="nofollow"><strong class="pl-1">Mac.Electrum-smart-3.1.2.dmg</strong></a><br class="xliff-newline" /><br class="xliff-newline" />21.2MB<br class="xliff-newline" /><br class="xliff-newline" />v3.1.2<br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1818556" restype="string" datatype="html" id="package-string-1-1818556">
+        <source><![CDATA[<br class="xliff-newline" /><img class="aligncenter  wp-image-6737" src="https://smartcash.cc/wp-content/uploads/2018/03/29-269x300.png" alt="" width="82" height="91" /><br class="xliff-newline" /><br class="xliff-newline" />This is a fast wallet that does not require the blockchain download. Wallet will not start SmartNodes but a future release will add that feature.<br class="xliff-newline" /><br class="xliff-newline" /><a href="https://github.com/SmartCash/electrum-smart/releases/download/v3.1.2/Linux.Electrum-smart-3.1.2.tar.gz">Linux.Electrum-smart-3.1.2.tar.gz</a><br class="xliff-newline" /><br class="xliff-newline" />131MB<br class="xliff-newline" /><br class="xliff-newline" />v3.1.2<br class="xliff-newline" />]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[<br class="xliff-newline" /><img class="aligncenter  wp-image-6737" src="https://smartcash.cc/wp-content/uploads/2018/03/29-269x300.png" alt="" width="82" height="91" /><br class="xliff-newline" /><br class="xliff-newline" />This is a fast wallet that does not require the blockchain download. Wallet will not start SmartNodes but a future release will add that feature.<br class="xliff-newline" /><br class="xliff-newline" /><a href="https://github.com/SmartCash/electrum-smart/releases/download/v3.1.2/Linux.Electrum-smart-3.1.2.tar.gz">Linux.Electrum-smart-3.1.2.tar.gz</a><br class="xliff-newline" /><br class="xliff-newline" />131MB<br class="xliff-newline" /><br class="xliff-newline" />v3.1.2<br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1818557" restype="string" datatype="html" id="package-string-1-1818557">
+        <source><![CDATA[https://www.coinbene.com/]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[https://www.coinbene.com/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1884910" restype="string" datatype="html" id="package-string-1-1884910">
+        <source><![CDATA[Node Client]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[Node Client]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1884913" restype="string" datatype="html" id="package-string-1-1884913">
+        <source><![CDATA[<br class="xliff-newline" />This Node Client Supports SmartNode activation. To assist in speeding up the syncing of your Node Client read more <a href="https://smartcash.freshdesk.com/support/solutions/articles/35000027174-using-the-bootstrap-to-speedup-sync-process">here</a><br class="xliff-newline" />]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[<br class="xliff-newline" />This Node Client Supports SmartNode activation. To assist in speeding up the syncing of your Node Client read more <a href="https://smartcash.freshdesk.com/support/solutions/articles/35000027174-using-the-bootstrap-to-speedup-sync-process">here</a><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1943607" restype="string" datatype="html" id="package-string-1-1943607">
+        <source><![CDATA[<br class="xliff-newline" /><strong class="pl-1"><a href="https://github.com/SmartCash/Core-Smart/releases/download/v1.2.2/smartcash-1.2.2-win32-setup.exe" rel="nofollow">smartcash-1.2.2-win32-setup.exe</a></strong><br class="xliff-newline" /><br class="xliff-newline" /><strong>32bit</strong><br class="xliff-newline" /><br class="xliff-newline" />13.8 MB<br class="xliff-newline" />]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[<br class="xliff-newline" /><strong class="pl-1"><a href="https://github.com/SmartCash/Core-Smart/releases/download/v1.2.2/smartcash-1.2.2-win32-setup.exe" rel="nofollow">smartcash-1.2.2-win32-setup.exe</a></strong><br class="xliff-newline" /><br class="xliff-newline" /><strong>32bit</strong><br class="xliff-newline" /><br class="xliff-newline" />13.8 MB<br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1943610" restype="string" datatype="html" id="package-string-1-1943610">
+        <source><![CDATA[<br class="xliff-newline" /><a href="https://github.com/SmartCash/Core-Smart/releases/download/v1.2.2/smartcash-1.2.2-win64-setup.exe" rel="nofollow"><strong class="pl-1">smartcash-1.2.2-win64-setup.exe</strong></a><br class="xliff-newline" /><br class="xliff-newline" /><strong>64bit</strong><br class="xliff-newline" /><br class="xliff-newline" />14.3MB<br class="xliff-newline" />]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[<br class="xliff-newline" /><a href="https://github.com/SmartCash/Core-Smart/releases/download/v1.2.2/smartcash-1.2.2-win64-setup.exe" rel="nofollow"><strong class="pl-1">smartcash-1.2.2-win64-setup.exe</strong></a><br class="xliff-newline" /><br class="xliff-newline" /><strong>64bit</strong><br class="xliff-newline" /><br class="xliff-newline" />14.3MB<br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1943611" restype="string" datatype="html" id="package-string-1-1943611">
+        <source><![CDATA[<br class="xliff-newline" /><strong class="pl-1"><a href="https://github.com/SmartCash/Core-Smart/releases/download/v1.2.2/smartcash-1.2.2-osx.dmg" rel="nofollow">smartcash-1.2.2-osx.dmg</a></strong><br class="xliff-newline" /><br class="xliff-newline" />13.3MB<br class="xliff-newline" /><br class="xliff-newline" />(Mac OS 10.10 or later)<br class="xliff-newline" />]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[<br class="xliff-newline" /><strong class="pl-1"><a href="https://github.com/SmartCash/Core-Smart/releases/download/v1.2.2/smartcash-1.2.2-osx.dmg" rel="nofollow">smartcash-1.2.2-osx.dmg</a></strong><br class="xliff-newline" /><br class="xliff-newline" />13.3MB<br class="xliff-newline" /><br class="xliff-newline" />(Mac OS 10.10 or later)<br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-1-1943612" restype="string" datatype="html" id="package-string-1-1943612">
+        <source><![CDATA[<br class="xliff-newline" /><strong class="pl-1"><a href="https://github.com/SmartCash/Core-Smart/releases/download/v1.2.2/smartcash-1.2.2-x86_64-linux-gnu.tar.gz" rel="nofollow">smartcash-1.2.2-x86_64-linux-gnu.tar.gz</a></strong><br class="xliff-newline" /><br class="xliff-newline" />20.9MB<br class="xliff-newline" />]]></source>
+        <target xml:lang="pl" state="needs-translation"><![CDATA[<br class="xliff-newline" /><strong class="pl-1"><a href="https://github.com/SmartCash/Core-Smart/releases/download/v1.2.2/smartcash-1.2.2-x86_64-linux-gnu.tar.gz" rel="nofollow">smartcash-1.2.2-x86_64-linux-gnu.tar.gz</a></strong><br class="xliff-newline" /><br class="xliff-newline" />20.9MB<br class="xliff-newline" />]]></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
