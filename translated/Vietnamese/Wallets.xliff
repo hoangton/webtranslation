@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="728-bd38d2e409492e9183545c3066665d01" source-language="en" target-language="vi" datatype="plaintext">
+    <header>
+      <phase-group>
+        <phase phase-name="shortcodes" process-name="Shortcodes identification">
+          <note>wp_caption,caption,gallery,playlist,audio,video,embed,wpml_language_form_field,add_eventon_search,FAG,bws_google_captcha,wow-icons,wpml_language_switcher,wpml_language_selector_widget,wpml_language_selector_footer,wpml-string,contact-form-7,contact-form,layerslider,av_events_countdown,av_upcoming_events,av_productgrid,av_productlist,av_product_button,av_product_info,av_product_review,av_product_tabs,av_product_upsells,av_productslider,mc4wp_form,av_blog,av_button,av_button_big,av_catalogue,av_catalogue_item,av_cell_one_full,av_cell_one_half,av_cell_one_third,av_cell_two_third,av_cell_one_fourth,av_cell_three_fourth,av_cell_one_fifth,av_cell_two_fifth,av_cell_three_fifth,av_cell_four_fifth,av_codeblock,av_one_full,av_one_half,av_one_third,av_two_third,av_one_fourth,av_three_fourth,av_one_fifth,av_two_fifth,av_three_fifth,av_four_fifth,av_comments_list,av_contact,av_contact_field,av_content_slider,av_content_slide,av_countdown,av_dropcap1,av_dropcap2,av_gallery,av_google_map,av_gmap_location,av_layout_row,av_heading,av_headline_rotator,av_rotator_item,av_hr,av_font_icon,av_icon_box,av_iconlist,av_iconlist_item,av_image,av_image_hotspot,av_image_spot,av_partner,av_partner_logo,av_magazine,av_mailchimp,av_mailchimp_field,av_masonry_entries,av_masonry_gallery,av_submenu,av_submenu_item,av_notification,av_animated_numbers,av_portfolio,av_postslider,av_progress,av_progress_bar,av_promobox,av_section,av_slideshow,av_slide,av_slideshow_accordion,av_slide_accordion,av_feature_image_slider,av_fullscreen,av_fullscreen_slide,av_slideshow_full,av_slide_full,av_layerslider,av_social_share,av_tab_section,av_tab_sub_section,av_table,av_row,av_cell,av_tab_container,av_tab,av_team_member,av_team_icon,av_testimonials,av_testimonial_single,av_textblock,av_toggle_container,av_toggle,av_video,av_sidebar</note>
+        </phase>
+      </phase-group>
+      <reference>
+        <external-file href="https://smartcash.cc/wallets/"/>
+      </reference>
+    </header>
+    <body>
+      <trans-unit resname="title" restype="string" datatype="html" id="title">
+        <source><![CDATA[Wallets]]></source>
+        <target xml:lang="vi" state="needs-translation"><![CDATA[Wallets]]></target>
+      </trans-unit>
+      <trans-unit resname="t_134" restype="string" datatype="html" id="t_134">
+        <source><![CDATA[Optional]]></source>
+        <target xml:lang="vi" state="needs-translation"><![CDATA[Optional]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-9-27398" restype="string" datatype="html" id="package-string-9-27398">
+        <source><![CDATA[Windows]]></source>
+        <target xml:lang="vi" state="needs-translation"><![CDATA[Windows]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-9-27399" restype="string" datatype="html" id="package-string-9-27399">
+        <source><![CDATA[#]]></source>
+        <target xml:lang="vi" state="needs-translation"><![CDATA[#]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-9-27401" restype="string" datatype="html" id="package-string-9-27401">
+        <source><![CDATA[Mac OS]]></source>
+        <target xml:lang="vi" state="needs-translation"><![CDATA[Mac OS]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-9-27403" restype="string" datatype="html" id="package-string-9-27403">
+        <source><![CDATA[Linux]]></source>
+        <target xml:lang="vi" state="needs-translation"><![CDATA[Linux]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-9-27407" restype="string" datatype="html" id="package-string-9-27407">
+        <source><![CDATA[<i class="wow-position fa fa-newspaper-o"></i> Paper Wallet]]></source>
+        <target xml:lang="vi" state="needs-translation"><![CDATA[<i class="wow-position fa fa-newspaper-o"></i> Paper Wallet]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-9-480978" restype="string" datatype="html" id="package-string-9-480978">
+        <source><![CDATA[<br class="xliff-newline" /><strong>Please always check you are using the right URL <span style="color: #009933;">https://wallet.smartcash.cc</span></strong><br class="xliff-newline" /><strong> <a href="https://wallet.smartcash.cc">Web Wallet</a></strong><br class="xliff-newline" />]]></source>
+        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" /><strong>Please always check you are using the right URL <span style="color: #009933;">https://wallet.smartcash.cc</span></strong><br class="xliff-newline" /><strong> <a href="https://wallet.smartcash.cc">Web Wallet</a></strong><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-9-480979" restype="string" datatype="html" id="package-string-9-480979">
+        <source><![CDATA[<br class="xliff-newline" /><strong>Please always check you are using the right URL <span style="color: #009933;">https://paperwallet.smartcash.cc</span></strong><br class="xliff-newline" /><strong> <a href="https://paperwallet.smartcash.cc">Paper Wallet</a></strong><br class="xliff-newline" />]]></source>
+        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" /><strong>Please always check you are using the right URL <span style="color: #009933;">https://paperwallet.smartcash.cc</span></strong><br class="xliff-newline" /><strong> <a href="https://paperwallet.smartcash.cc">Paper Wallet</a></strong><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-9-897970" restype="string" datatype="html" id="package-string-9-897970">
+        <source><![CDATA[Web Wallet]]></source>
+        <target xml:lang="vi" state="needs-translation"><![CDATA[Web Wallet]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-9-1210387" restype="string" datatype="html" id="package-string-9-1210387">
+        <source><![CDATA[https://www.ethos.io/universal-wallet/]]></source>
+        <target xml:lang="vi" state="needs-translation"><![CDATA[https://www.ethos.io/universal-wallet/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-9-1254329" restype="string" datatype="html" id="package-string-9-1254329">
+        <source><![CDATA[<br class="xliff-newline" />When using 3rd party wallets you need to trust the vendor's server to know if payments were sent or received.<br class="xliff-newline" />]]></source>
+        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" />When using 3rd party wallets you need to trust the vendor's server to know if payments were sent or received.<br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-9-1254330" restype="string" datatype="html" id="package-string-9-1254330">
+        <source><![CDATA[<i class="wow-position fa fa-arrows wow-icon"></i> 3rd Party Wallet]]></source>
+        <target xml:lang="vi" state="needs-translation"><![CDATA[<i class="wow-position fa fa-arrows wow-icon"></i> 3rd Party Wallet]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-9-1674450" restype="string" datatype="html" id="package-string-9-1674450">
+        <source><![CDATA[<i class="wow-position fa fa-user"></i> Brain Wallet]]></source>
+        <target xml:lang="vi" state="needs-translation"><![CDATA[<i class="wow-position fa fa-user"></i> Brain Wallet]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-9-1797059" restype="string" datatype="html" id="package-string-9-1797059">
+        <source><![CDATA[<br class="xliff-newline" /><strong>Stash that SmartCash in your brain! </strong><br class="xliff-newline" /><strong> <a href="https://paperwallet.smartcash.cc/brainwallet.html">Brain Wallet</a></strong><br class="xliff-newline" />]]></source>
+        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" /><strong>Stash that SmartCash in your brain! </strong><br class="xliff-newline" /><strong> <a href="https://paperwallet.smartcash.cc/brainwallet.html">Brain Wallet</a></strong><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-9-1818538" restype="string" datatype="html" id="package-string-9-1818538">
+        <source><![CDATA[<br class="xliff-newline" />This is a fast wallet that does not require the blockchain download. Wallet will not start SmartNodes but a future release will add that feature.<br class="xliff-newline" />]]></source>
+        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" />This is a fast wallet that does not require the blockchain download. Wallet will not start SmartNodes but a future release will add that feature.<br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-9-1818546" restype="string" datatype="html" id="package-string-9-1818546">
+        <source><![CDATA[<br class="xliff-newline" /><strong class="pl-1"><a href="https://github.com/SmartCash/electrum-smart/releases/download/v3.1.2/Windows.Installer.Electrum-smart.3.1.2.exe" rel="nofollow">Windows.Installer.Electrum-smart.3.1.2.exe</a></strong><br class="xliff-newline" /><br class="xliff-newline" /><strong>Installer</strong><br class="xliff-newline" /><br class="xliff-newline" />13.8MB<br class="xliff-newline" /><br class="xliff-newline" /><hr /><br class="xliff-newline" /><br class="xliff-newline" /><strong class="pl-1"><a href="https://github.com/SmartCash/electrum-smart/releases/download/v3.1.2/Windows.Portable.Electrum-smart.3.1.2.exe" rel="nofollow">Windows.Portable.Electrum-smart.3.1.2.exe</a></strong><br class="xliff-newline" /><br class="xliff-newline" /><strong>Portable</strong><br class="xliff-newline" /><br class="xliff-newline" />19.6MB<br class="xliff-newline" />]]></source>
+        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" /><strong class="pl-1"><a href="https://github.com/SmartCash/electrum-smart/releases/download/v3.1.2/Windows.Installer.Electrum-smart.3.1.2.exe" rel="nofollow">Windows.Installer.Electrum-smart.3.1.2.exe</a></strong><br class="xliff-newline" /><br class="xliff-newline" /><strong>Installer</strong><br class="xliff-newline" /><br class="xliff-newline" />13.8MB<br class="xliff-newline" /><br class="xliff-newline" /><hr /><br class="xliff-newline" /><br class="xliff-newline" /><strong class="pl-1"><a href="https://github.com/SmartCash/electrum-smart/releases/download/v3.1.2/Windows.Portable.Electrum-smart.3.1.2.exe" rel="nofollow">Windows.Portable.Electrum-smart.3.1.2.exe</a></strong><br class="xliff-newline" /><br class="xliff-newline" /><strong>Portable</strong><br class="xliff-newline" /><br class="xliff-newline" />19.6MB<br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-9-1818549" restype="string" datatype="html" id="package-string-9-1818549">
+        <source><![CDATA[<br class="xliff-newline" /><a href="https://github.com/SmartCash/electrum-smart/releases/download/v3.1.2/Mac.Electrum-smart-3.1.2.dmg" rel="nofollow"><strong class="pl-1">Mac.Electrum-smart-3.1.2.dmg</strong></a><br class="xliff-newline" /><br class="xliff-newline" />21.2MB<br class="xliff-newline" /><br class="xliff-newline" />v3.1.2<br class="xliff-newline" />]]></source>
+        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" /><a href="https://github.com/SmartCash/electrum-smart/releases/download/v3.1.2/Mac.Electrum-smart-3.1.2.dmg" rel="nofollow"><strong class="pl-1">Mac.Electrum-smart-3.1.2.dmg</strong></a><br class="xliff-newline" /><br class="xliff-newline" />21.2MB<br class="xliff-newline" /><br class="xliff-newline" />v3.1.2<br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-9-1818552" restype="string" datatype="html" id="package-string-9-1818552">
+        <source><![CDATA[<br class="xliff-newline" /><a href="https://github.com/SmartCash/electrum-smart/releases/download/v3.1.2/Linux.Electrum-smart-3.1.2.tar.gz">Linux.Electrum-smart-3.1.2.tar.gz</a><br class="xliff-newline" /><br class="xliff-newline" />131MB<br class="xliff-newline" /><br class="xliff-newline" />v3.1.2<br class="xliff-newline" />]]></source>
+        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" /><a href="https://github.com/SmartCash/electrum-smart/releases/download/v3.1.2/Linux.Electrum-smart-3.1.2.tar.gz">Linux.Electrum-smart-3.1.2.tar.gz</a><br class="xliff-newline" /><br class="xliff-newline" />131MB<br class="xliff-newline" /><br class="xliff-newline" />v3.1.2<br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-9-1859530" restype="string" datatype="html" id="package-string-9-1859530">
+        <source><![CDATA[ https://itunes.apple.com/us/app/coinomi-wallet/id1333588809?mt=8]]></source>
+        <target xml:lang="vi" state="needs-translation"><![CDATA[ https://itunes.apple.com/us/app/coinomi-wallet/id1333588809?mt=8]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-9-1884943" restype="string" datatype="html" id="package-string-9-1884943">
+        <source><![CDATA[<br class="xliff-newline" />The SmartCard is a way to hold SMART on a physical card. You don't need a phone to hold your SMART. If you have ever had a problem with using a phone inside a building...you will get why this is ideal. Only the merchant needs the internet connection. As simple to use as a credit or debit card but not controlled by any 3rd party processor. And not a preloaded card using a visa fiat system...this is real crypto to crypto. SmartCard in beta testing<br class="xliff-newline" />]]></source>
+        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" />The SmartCard is a way to hold SMART on a physical card. You don't need a phone to hold your SMART. If you have ever had a problem with using a phone inside a building...you will get why this is ideal. Only the merchant needs the internet connection. As simple to use as a credit or debit card but not controlled by any 3rd party processor. And not a preloaded card using a visa fiat system...this is real crypto to crypto. SmartCard in beta testing<br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-9-1884944" restype="string" datatype="html" id="package-string-9-1884944">
+        <source><![CDATA[<i class="wow-position fa fa-credit-card wow-icon"></i> SmartCard]]></source>
+        <target xml:lang="vi" state="needs-translation"><![CDATA[<i class="wow-position fa fa-credit-card wow-icon"></i> SmartCard]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-9-1884945" restype="string" datatype="html" id="package-string-9-1884945">
+        <source><![CDATA[<br class="xliff-newline" /><a href="https://card.smartcash.cc/beta/diCinu4iwNP3y5NYpF6N"><img class="aligncenter size-full wp-image-5925" src="https://smartcash.cc/wp-content/uploads/2018/03/SmartCard-Example.jpg" alt="" width="400" height="261" /></a><br class="xliff-newline" />]]></source>
+        <target><![CDATA[<br class="xliff-newline" /><a href="https://card.smartcash.cc/beta/diCinu4iwNP3y5NYpF6N"><img class="aligncenter size-full wp-image-5925" src="https://smartcash.cc/wp-content/uploads/2018/03/SmartCard-Example.jpg" alt="" width="400" height="261" /></a><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-9-1884946" restype="string" datatype="html" id="package-string-9-1884946">
+        <source><![CDATA[<br class="xliff-newline" /><strong>generate addresses with a seed phrase! </strong><br class="xliff-newline" /><strong> <a href="https://paperwallet.smartcash.cc/hdwallet.html">Mnemonic Wallet</a></strong><br class="xliff-newline" />]]></source>
+        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" /><strong>generate addresses with a seed phrase! </strong><br class="xliff-newline" /><strong> <a href="https://paperwallet.smartcash.cc/hdwallet.html">Mnemonic Wallet</a></strong><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-9-1884947" restype="string" datatype="html" id="package-string-9-1884947">
+        <source><![CDATA[<i class="wow-position fa fa-braille"></i> Mnemonic wallet generator]]></source>
+        <target xml:lang="vi" state="needs-translation"><![CDATA[<i class="wow-position fa fa-braille"></i> Mnemonic wallet generator]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-9-1884953" restype="string" datatype="html" id="package-string-9-1884953">
+        <source><![CDATA[https://play.google.com/store/apps/developer?id=Coinomi&hl=en]]></source>
+        <target xml:lang="vi" state="needs-translation"><![CDATA[https://play.google.com/store/apps/developer?id=Coinomi&hl=en]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-9-1884957" restype="string" datatype="html" id="package-string-9-1884957">
+        <source><![CDATA[<br class="xliff-newline" />This Node Client requires the blockchain download which can take hours on slow machines. It is also only intended for smartnode operators. To assist in speeding up the syncing of your Node Client read more <a href="https://smartcash.freshdesk.com/support/solutions/articles/35000027174-using-the-bootstrap-to-speedup-sync-process">here</a><br class="xliff-newline" /><br class="xliff-newline" />Disclaimer: Do not move your wallet.dat with your wallet running. Backup your wallet by using the backup wallet command from the QT wallet menu or by closing the wallet and waiting about a minute to close and copy the wallet.dat file. Always keep at least one copy of your wallet on an external drive. Do not shutdown your computer with wallet running or kill the wallet process. These can cause the wallet to get corrupted. Always exit the wallet from the menu or close x and wait for it to shutdown before turning off your computer.<br class="xliff-newline" />]]></source>
+        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" />This Node Client requires the blockchain download which can take hours on slow machines. It is also only intended for smartnode operators. To assist in speeding up the syncing of your Node Client read more <a href="https://smartcash.freshdesk.com/support/solutions/articles/35000027174-using-the-bootstrap-to-speedup-sync-process">here</a><br class="xliff-newline" /><br class="xliff-newline" />Disclaimer: Do not move your wallet.dat with your wallet running. Backup your wallet by using the backup wallet command from the QT wallet menu or by closing the wallet and waiting about a minute to close and copy the wallet.dat file. Always keep at least one copy of your wallet on an external drive. Do not shutdown your computer with wallet running or kill the wallet process. These can cause the wallet to get corrupted. Always exit the wallet from the menu or close x and wait for it to shutdown before turning off your computer.<br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-9-1943507" restype="string" datatype="html" id="package-string-9-1943507">
+        <source><![CDATA[<br class="xliff-newline" /><p style="text-align: center;"><strong>PLEASE ALWAYS DOWNLOAD THE PAPER/BRAIN WALLET AND OPEN IT WITH THE BROWSER OF YOUR CHOICE OFFLINE!</strong></p><br class="xliff-newline" />]]></source>
+        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" /><p style="text-align: center;"><strong>PLEASE ALWAYS DOWNLOAD THE PAPER/BRAIN WALLET AND OPEN IT WITH THE BROWSER OF YOUR CHOICE OFFLINE!</strong></p><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-9-1943577" restype="string" datatype="html" id="package-string-9-1943577">
+        <source><![CDATA[<br class="xliff-newline" /><strong class="pl-1"><a href="https://github.com/SmartCash/Core-Smart/releases/download/v1.2.2/smartcash-1.2.2-win32-setup.exe" rel="nofollow">smartcash-1.2.2-win32-setup.exe</a></strong><br class="xliff-newline" /><br class="xliff-newline" /><strong>32bit</strong><br class="xliff-newline" /><br class="xliff-newline" />13.8 MB<br class="xliff-newline" />]]></source>
+        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" /><strong class="pl-1"><a href="https://github.com/SmartCash/Core-Smart/releases/download/v1.2.2/smartcash-1.2.2-win32-setup.exe" rel="nofollow">smartcash-1.2.2-win32-setup.exe</a></strong><br class="xliff-newline" /><br class="xliff-newline" /><strong>32bit</strong><br class="xliff-newline" /><br class="xliff-newline" />13.8 MB<br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-9-1943613" restype="string" datatype="html" id="package-string-9-1943613">
+        <source><![CDATA[<br class="xliff-newline" /><a href="https://github.com/SmartCash/Core-Smart/releases/download/v1.2.2/smartcash-1.2.2-win64-setup.exe" rel="nofollow"><strong class="pl-1">smartcash-1.2.2-win64-setup.exe</strong></a><br class="xliff-newline" /><br class="xliff-newline" /><strong>64bit</strong><br class="xliff-newline" /><br class="xliff-newline" />14.3MB<br class="xliff-newline" />]]></source>
+        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" /><a href="https://github.com/SmartCash/Core-Smart/releases/download/v1.2.2/smartcash-1.2.2-win64-setup.exe" rel="nofollow"><strong class="pl-1">smartcash-1.2.2-win64-setup.exe</strong></a><br class="xliff-newline" /><br class="xliff-newline" /><strong>64bit</strong><br class="xliff-newline" /><br class="xliff-newline" />14.3MB<br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-9-1943614" restype="string" datatype="html" id="package-string-9-1943614">
+        <source><![CDATA[<br class="xliff-newline" /><strong class="pl-1"><a href="https://github.com/SmartCash/Core-Smart/releases/download/v1.2.2/smartcash-1.2.2-osx.dmg" rel="nofollow">smartcash-1.2.2-osx.dmg</a></strong><br class="xliff-newline" /><br class="xliff-newline" />13.3MB<br class="xliff-newline" /><br class="xliff-newline" />(Mac OS 10.10 or later)<br class="xliff-newline" />]]></source>
+        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" /><strong class="pl-1"><a href="https://github.com/SmartCash/Core-Smart/releases/download/v1.2.2/smartcash-1.2.2-osx.dmg" rel="nofollow">smartcash-1.2.2-osx.dmg</a></strong><br class="xliff-newline" /><br class="xliff-newline" />13.3MB<br class="xliff-newline" /><br class="xliff-newline" />(Mac OS 10.10 or later)<br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-9-1943615" restype="string" datatype="html" id="package-string-9-1943615">
+        <source><![CDATA[<br class="xliff-newline" /><strong class="pl-1"><a href="https://github.com/SmartCash/Core-Smart/releases/download/v1.2.2/smartcash-1.2.2-x86_64-linux-gnu.tar.gz" rel="nofollow">smartcash-1.2.2-x86_64-linux-gnu.tar.gz</a></strong><br class="xliff-newline" /><br class="xliff-newline" />20.9MB<br class="xliff-newline" />]]></source>
+        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" /><strong class="pl-1"><a href="https://github.com/SmartCash/Core-Smart/releases/download/v1.2.2/smartcash-1.2.2-x86_64-linux-gnu.tar.gz" rel="nofollow">smartcash-1.2.2-x86_64-linux-gnu.tar.gz</a></strong><br class="xliff-newline" /><br class="xliff-newline" />20.9MB<br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-9-1943616" restype="string" datatype="html" id="package-string-9-1943616">
+        <source><![CDATA[ <a name="electrum"></a><i class="wow-position fa fa-connectdevelop wow-icon"></i> Electrum Wallet]]></source>
+        <target xml:lang="vi" state="needs-translation"><![CDATA[ <a name="electrum"></a><i class="wow-position fa fa-connectdevelop wow-icon"></i> Electrum Wallet]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-9-1943617" restype="string" datatype="html" id="package-string-9-1943617">
+        <source><![CDATA[ <a name="nodeclient"></a>Node Client]]></source>
+        <target xml:lang="vi" state="needs-translation"><![CDATA[ <a name="nodeclient"></a>Node Client]]></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
