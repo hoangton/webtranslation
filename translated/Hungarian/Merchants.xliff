@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="729-bd43e96268563f6f99ad1dbe23c6b54a" source-language="en" target-language="hu" datatype="plaintext">
+    <header>
+      <phase-group>
+        <phase phase-name="shortcodes" process-name="Shortcodes identification">
+          <note>wp_caption,caption,gallery,playlist,audio,video,embed,wpml_language_form_field,add_eventon_search,FAG,bws_google_captcha,wow-icons,wpml_language_switcher,wpml_language_selector_widget,wpml_language_selector_footer,wpml-string,contact-form-7,contact-form,layerslider,av_events_countdown,av_upcoming_events,av_productgrid,av_productlist,av_product_button,av_product_info,av_product_review,av_product_tabs,av_product_upsells,av_productslider,mc4wp_form,av_blog,av_button,av_button_big,av_catalogue,av_catalogue_item,av_cell_one_full,av_cell_one_half,av_cell_one_third,av_cell_two_third,av_cell_one_fourth,av_cell_three_fourth,av_cell_one_fifth,av_cell_two_fifth,av_cell_three_fifth,av_cell_four_fifth,av_codeblock,av_one_full,av_one_half,av_one_third,av_two_third,av_one_fourth,av_three_fourth,av_one_fifth,av_two_fifth,av_three_fifth,av_four_fifth,av_comments_list,av_contact,av_contact_field,av_content_slider,av_content_slide,av_countdown,av_dropcap1,av_dropcap2,av_gallery,av_google_map,av_gmap_location,av_layout_row,av_heading,av_headline_rotator,av_rotator_item,av_hr,av_font_icon,av_icon_box,av_iconlist,av_iconlist_item,av_image,av_image_hotspot,av_image_spot,av_partner,av_partner_logo,av_magazine,av_mailchimp,av_mailchimp_field,av_masonry_entries,av_masonry_gallery,av_submenu,av_submenu_item,av_notification,av_animated_numbers,av_portfolio,av_postslider,av_progress,av_progress_bar,av_promobox,av_section,av_slideshow,av_slide,av_slideshow_accordion,av_slide_accordion,av_feature_image_slider,av_fullscreen,av_fullscreen_slide,av_slideshow_full,av_slide_full,av_layerslider,av_social_share,av_tab_section,av_tab_sub_section,av_table,av_row,av_cell,av_tab_container,av_tab,av_team_member,av_team_icon,av_testimonials,av_testimonial_single,av_textblock,av_toggle_container,av_toggle,av_video,av_sidebar</note>
+        </phase>
+      </phase-group>
+      <reference>
+        <external-file href="https://smartcash.cc/merchants/"/>
+      </reference>
+    </header>
+    <body>
+      <trans-unit resname="title" restype="string" datatype="html" id="title">
+        <source><![CDATA[Merchants]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[Merchants]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-30344" restype="string" datatype="html" id="package-string-10-30344">
+        <source><![CDATA[Start Accepting SmartCash Today! ]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[Start Accepting SmartCash Today! ]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-30357" restype="string" datatype="html" id="package-string-10-30357">
+        <source><![CDATA[SmartCash Merchant’s Directory]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[SmartCash Merchant’s Directory]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-30362" restype="string" datatype="html" id="package-string-10-30362">
+        <source><![CDATA[Submit Your Business]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[Submit Your Business]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-114541" restype="string" datatype="html" id="package-string-10-114541">
+        <source><![CDATA[https://meccamino.com.au/]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[https://meccamino.com.au/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-114542" restype="string" datatype="html" id="package-string-10-114542">
+        <source><![CDATA[https://www.telescopeadapters.com/]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[https://www.telescopeadapters.com/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-133105" restype="string" datatype="html" id="package-string-10-133105">
+        <source><![CDATA[https://www.cryptomined.com/]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[https://www.cryptomined.com/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-133442" restype="string" datatype="html" id="package-string-10-133442">
+        <source><![CDATA[https://smartie.shop]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[https://smartie.shop]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-531729" restype="string" datatype="html" id="package-string-10-531729">
+        <source><![CDATA[https://giacobbeandco.com/]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[https://giacobbeandco.com/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-533993" restype="string" datatype="html" id="package-string-10-533993">
+        <source><![CDATA[<br class="xliff-newline" />If you accept SmartCash for your freelance services your small business or anything else let us know and we will add you to our directory of Smarties! Anyone can start using <a href="https://www.coinpayments.net/">www.CoinPayments.net</a> to start accepting SmartCash today!<br class="xliff-newline" />]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[<br class="xliff-newline" />If you accept SmartCash for your freelance services your small business or anything else let us know and we will add you to our directory of Smarties! Anyone can start using <a href="https://www.coinpayments.net/">www.CoinPayments.net</a> to start accepting SmartCash today!<br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-533995" restype="string" datatype="html" id="package-string-10-533995">
+        <source><![CDATA[<br class="xliff-newline" /><h1 style="text-align: center;">Featured Merchants</h1><br class="xliff-newline" />]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[<br class="xliff-newline" /><h1 style="text-align: center;">Featured Merchants</h1><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-533997" restype="string" datatype="html" id="package-string-10-533997">
+        <source><![CDATA[<br class="xliff-newline" /><h3 style="text-align: center;"><span id="category-title">Gift Cards</span></h3><br class="xliff-newline" />]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[<br class="xliff-newline" /><h3 style="text-align: center;"><span id="category-title">Gift Cards</span></h3><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-533998" restype="string" datatype="html" id="package-string-10-533998">
+        <source><![CDATA[Bitcoincards – bitcoin giftcards]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[Bitcoincards – bitcoin giftcards]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-533999" restype="string" datatype="html" id="package-string-10-533999">
+        <source><![CDATA[https://bitcoincards.io/]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[https://bitcoincards.io/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-534000" restype="string" datatype="html" id="package-string-10-534000">
+        <source><![CDATA[Sheldon.store – Gift cards shop]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[Sheldon.store – Gift cards shop]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-534001" restype="string" datatype="html" id="package-string-10-534001">
+        <source><![CDATA[https://www.sheldon.store/]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[https://www.sheldon.store/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-534003" restype="string" datatype="html" id="package-string-10-534003">
+        <source><![CDATA[Ohm handpans – special musical instrument]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[Ohm handpans – special musical instrument]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-534004" restype="string" datatype="html" id="package-string-10-534004">
+        <source><![CDATA[https://www.ohmhandpans.com]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[https://www.ohmhandpans.com]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-534009" restype="string" datatype="html" id="package-string-10-534009">
+        <source><![CDATA[Offshorehostingspace – VPS hosting service]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[Offshorehostingspace – VPS hosting service]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-534010" restype="string" datatype="html" id="package-string-10-534010">
+        <source><![CDATA[http://offshorehostingspace.org/]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[http://offshorehostingspace.org/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-534011" restype="string" datatype="html" id="package-string-10-534011">
+        <source><![CDATA[Snel – Cloud hosting platform]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[Snel – Cloud hosting platform]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-534012" restype="string" datatype="html" id="package-string-10-534012">
+        <source><![CDATA[https://www.snel.com/]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[https://www.snel.com/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-534013" restype="string" datatype="html" id="package-string-10-534013">
+        <source><![CDATA[VPS-City – High End VPS Dedicated Servers or Cloud Hosting Solutions]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[VPS-City – High End VPS Dedicated Servers or Cloud Hosting Solutions]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-534014" restype="string" datatype="html" id="package-string-10-534014">
+        <source><![CDATA[https://vps-city.com/]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[https://vps-city.com/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-534015" restype="string" datatype="html" id="package-string-10-534015">
+        <source><![CDATA[<br class="xliff-newline" /><h3 style="text-align: center;"><span id="category-title">Web Stores</span></h3><br class="xliff-newline" />]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[<br class="xliff-newline" /><h3 style="text-align: center;"><span id="category-title">Web Stores</span></h3><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-534016" restype="string" datatype="html" id="package-string-10-534016">
+        <source><![CDATA[Meccamino – Dietary supplement online-store]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[Meccamino – Dietary supplement online-store]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-534017" restype="string" datatype="html" id="package-string-10-534017">
+        <source><![CDATA[UBBBK – online book store]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[UBBBK – online book store]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-534018" restype="string" datatype="html" id="package-string-10-534018">
+        <source><![CDATA[https://ubbbk.com/]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[https://ubbbk.com/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-534019" restype="string" datatype="html" id="package-string-10-534019">
+        <source><![CDATA[ 101 vape – online vape store]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[ 101 vape – online vape store]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-534020" restype="string" datatype="html" id="package-string-10-534020">
+        <source><![CDATA[https://101vape.com/]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[https://101vape.com/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-534021" restype="string" datatype="html" id="package-string-10-534021">
+        <source><![CDATA[101 vape – online vape store]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[101 vape – online vape store]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-534022" restype="string" datatype="html" id="package-string-10-534022">
+        <source><![CDATA[<br class="xliff-newline" /><h3 style="text-align: center;"><span id="category-title">Cryptocurrency Related</span></h3><br class="xliff-newline" />]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[<br class="xliff-newline" /><h3 style="text-align: center;"><span id="category-title">Cryptocurrency Related</span></h3><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-534023" restype="string" datatype="html" id="package-string-10-534023">
+        <source><![CDATA[BitStickers – Cryptocurrency related stickers]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[BitStickers – Cryptocurrency related stickers]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-534024" restype="string" datatype="html" id="package-string-10-534024">
+        <source><![CDATA[https://bitstickers.net/]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[https://bitstickers.net/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-534025" restype="string" datatype="html" id="package-string-10-534025">
+        <source><![CDATA[Cryptomined – Specializing in Mining Hardware and Novelty Items]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[Cryptomined – Specializing in Mining Hardware and Novelty Items]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-534026" restype="string" datatype="html" id="package-string-10-534026">
+        <source><![CDATA[https://cryptomined.com/]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[https://cryptomined.com/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-534027" restype="string" datatype="html" id="package-string-10-534027">
+        <source><![CDATA[Smartie shop – SmartCash merchandise]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[Smartie shop – SmartCash merchandise]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-534028" restype="string" datatype="html" id="package-string-10-534028">
+        <source><![CDATA[https://smartie.shop/]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[https://smartie.shop/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-534029" restype="string" datatype="html" id="package-string-10-534029">
+        <source><![CDATA[<br class="xliff-newline" /><h3 style="text-align: center;"><span id="category-title">Health and Beauty</span></h3><br class="xliff-newline" />]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[<br class="xliff-newline" /><h3 style="text-align: center;"><span id="category-title">Health and Beauty</span></h3><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-534030" restype="string" datatype="html" id="package-string-10-534030">
+        <source><![CDATA[BP fragrance – online perfumery]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[BP fragrance – online perfumery]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-534031" restype="string" datatype="html" id="package-string-10-534031">
+        <source><![CDATA[http://bpfragrance.nl/]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[http://bpfragrance.nl/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-534032" restype="string" datatype="html" id="package-string-10-534032">
+        <source><![CDATA[Ballistic bodyboards co. – body boards 100% hand shaped and designed in Hawaii]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[Ballistic bodyboards co. – body boards 100% hand shaped and designed in Hawaii]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-534033" restype="string" datatype="html" id="package-string-10-534033">
+        <source><![CDATA[http://www.getballistic.com/]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[http://www.getballistic.com/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-534034" restype="string" datatype="html" id="package-string-10-534034">
+        <source><![CDATA[Frank and Beans Underwear]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[Frank and Beans Underwear]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-534035" restype="string" datatype="html" id="package-string-10-534035">
+        <source><![CDATA[https://www.frankandbeans.com.au/]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[https://www.frankandbeans.com.au/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-534036" restype="string" datatype="html" id="package-string-10-534036">
+        <source><![CDATA[Telescope Camera Adapters]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[Telescope Camera Adapters]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-534038" restype="string" datatype="html" id="package-string-10-534038">
+        <source><![CDATA[Cryptomined.com]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[Cryptomined.com]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-534040" restype="string" datatype="html" id="package-string-10-534040">
+        <source><![CDATA[SmartCash Merchandise Store]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[SmartCash Merchandise Store]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-534044" restype="string" datatype="html" id="package-string-10-534044">
+        <source><![CDATA[https://laptoppowerbank.com/]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[https://laptoppowerbank.com/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-534045" restype="string" datatype="html" id="package-string-10-534045">
+        <source><![CDATA[VariMag II DSLR Microscope Adapter System]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[VariMag II DSLR Microscope Adapter System]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-534046" restype="string" datatype="html" id="package-string-10-534046">
+        <source><![CDATA[https://www.varimag.com/11-varimag-ii-dslr-microscope-camera-adapter.html]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[https://www.varimag.com/11-varimag-ii-dslr-microscope-camera-adapter.html]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-667965" restype="string" datatype="html" id="package-string-10-667965">
+        <source><![CDATA[Shut Up And Take My Money Store!]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[Shut Up And Take My Money Store!]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-667966" restype="string" datatype="html" id="package-string-10-667966">
+        <source><![CDATA[https://shutupandtakemymoney.com/]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[https://shutupandtakemymoney.com/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-667967" restype="string" datatype="html" id="package-string-10-667967">
+        <source><![CDATA[EIGRE.si - Gaming oprema in računalništvo]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[EIGRE.si - Gaming oprema in računalništvo]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-667968" restype="string" datatype="html" id="package-string-10-667968">
+        <source><![CDATA[https://eigre.si/]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[https://eigre.si/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-667969" restype="string" datatype="html" id="package-string-10-667969">
+        <source><![CDATA[Cryptoart | Purveyors of fine art paper wallets for bitcoin]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[Cryptoart | Purveyors of fine art paper wallets for bitcoin]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-667970" restype="string" datatype="html" id="package-string-10-667970">
+        <source><![CDATA[http://www.cryptoart.com/]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[http://www.cryptoart.com/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-667971" restype="string" datatype="html" id="package-string-10-667971">
+        <source><![CDATA[Gifts for the Bitcoin nerd you know (or yourself)]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[Gifts for the Bitcoin nerd you know (or yourself)]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-667972" restype="string" datatype="html" id="package-string-10-667972">
+        <source><![CDATA[https://cryptogifts.store/]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[https://cryptogifts.store/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-667973" restype="string" datatype="html" id="package-string-10-667973">
+        <source><![CDATA[Shop - Shop a Dream]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[Shop - Shop a Dream]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-667974" restype="string" datatype="html" id="package-string-10-667974">
+        <source><![CDATA[http://shopadream.com/]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[http://shopadream.com/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-667975" restype="string" datatype="html" id="package-string-10-667975">
+        <source><![CDATA[http://cryptoart.com/]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[http://cryptoart.com/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-704916" restype="string" datatype="html" id="package-string-10-704916">
+        <source><![CDATA[Eve-buy-Wholesale Products from China Wholesalers]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[Eve-buy-Wholesale Products from China Wholesalers]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-704917" restype="string" datatype="html" id="package-string-10-704917">
+        <source><![CDATA[https://eve-buy.com/]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[https://eve-buy.com/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-739450" restype="string" datatype="html" id="package-string-10-739450">
+        <source><![CDATA[RouterHosting provides cheap Instant Setup VPS Windows and Linux Servers]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[RouterHosting provides cheap Instant Setup VPS Windows and Linux Servers]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-739451" restype="string" datatype="html" id="package-string-10-739451">
+        <source><![CDATA[https://www.routerhosting.com/]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[https://www.routerhosting.com/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-897971" restype="string" datatype="html" id="package-string-10-897971">
+        <source><![CDATA[SHOP CRYPTO ART]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[SHOP CRYPTO ART]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-897972" restype="string" datatype="html" id="package-string-10-897972">
+        <source><![CDATA[https://www.artfork.gallery/]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[https://www.artfork.gallery/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-910460" restype="string" datatype="html" id="package-string-10-910460">
+        <source><![CDATA[<br class="xliff-newline" /><h3 style="text-align: center;"><span id="category-title">Games</span></h3><br class="xliff-newline" />]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[<br class="xliff-newline" /><h3 style="text-align: center;"><span id="category-title">Games</span></h3><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-910462" restype="string" datatype="html" id="package-string-10-910462">
+        <source><![CDATA[http://sokkerpro.com/en/]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[http://sokkerpro.com/en/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-960218" restype="string" datatype="html" id="package-string-10-960218">
+        <source><![CDATA[The world’s first Bitcoin retail store located in the heart of Vienna]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[The world’s first Bitcoin retail store located in the heart of Vienna]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-960219" restype="string" datatype="html" id="package-string-10-960219">
+        <source><![CDATA[http://www.thehouseofnakamoto.com/en]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[http://www.thehouseofnakamoto.com/en]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-960222" restype="string" datatype="html" id="package-string-10-960222">
+        <source><![CDATA[House of Nakamoto- The world’s first Bitcoin retail store located in the heart of Vienna]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[House of Nakamoto- The world’s first Bitcoin retail store located in the heart of Vienna]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-960223" restype="string" datatype="html" id="package-string-10-960223">
+        <source><![CDATA[laptop powerbank]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[laptop powerbank]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-1041678" restype="string" datatype="html" id="package-string-10-1041678">
+        <source><![CDATA[<br class="xliff-newline" /><h3 style="text-align: center;"><span id="category-title">Business Services (Marketing / Web / Graphic Design)</span></h3><br class="xliff-newline" />]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[<br class="xliff-newline" /><h3 style="text-align: center;"><span id="category-title">Business Services (Marketing / Web / Graphic Design)</span></h3><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-1041679" restype="string" datatype="html" id="package-string-10-1041679">
+        <source><![CDATA[SocialTrades a social media management service]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[SocialTrades a social media management service]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-1041680" restype="string" datatype="html" id="package-string-10-1041680">
+        <source><![CDATA[https://www.socialtrades.xyz/]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[https://www.socialtrades.xyz/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-1057831" restype="string" datatype="html" id="package-string-10-1057831">
+        <source><![CDATA[EXCEL SPECIALIST]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[EXCEL SPECIALIST]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-1057832" restype="string" datatype="html" id="package-string-10-1057832">
+        <source><![CDATA[http://wardona.nl/]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[http://wardona.nl/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-1062944" restype="string" datatype="html" id="package-string-10-1062944">
+        <source><![CDATA[The world’s premier event for Voluntaryists]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[The world’s premier event for Voluntaryists]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-1062945" restype="string" datatype="html" id="package-string-10-1062945">
+        <source><![CDATA[https://libertopia.org/]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[https://libertopia.org/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-1062947" restype="string" datatype="html" id="package-string-10-1062947">
+        <source><![CDATA[tecnologiaalvarado]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[tecnologiaalvarado]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-1062948" restype="string" datatype="html" id="package-string-10-1062948">
+        <source><![CDATA[https://www.tecnologiaalvarado.com.ve/]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[https://www.tecnologiaalvarado.com.ve/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-1096102" restype="string" datatype="html" id="package-string-10-1096102">
+        <source><![CDATA[Homebrewing shop]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[Homebrewing shop]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-1096103" restype="string" datatype="html" id="package-string-10-1096103">
+        <source><![CDATA[http://brewmasters.com.mx/]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[http://brewmasters.com.mx/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-1096104" restype="string" datatype="html" id="package-string-10-1096104">
+        <source><![CDATA[BLOCKCHAIN OR DLT IS RIGHT FOR YOU?]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[BLOCKCHAIN OR DLT IS RIGHT FOR YOU?]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-1096105" restype="string" datatype="html" id="package-string-10-1096105">
+        <source><![CDATA[https://agavon.ch/ ]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[https://agavon.ch/ ]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-1140946" restype="string" datatype="html" id="package-string-10-1140946">
+        <source><![CDATA[143VPN is a worldwide VPN provider that specializes in Port Forwarding VPN servers DDoS Protected VPN services]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[143VPN is a worldwide VPN provider that specializes in Port Forwarding VPN servers DDoS Protected VPN services]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-1140947" restype="string" datatype="html" id="package-string-10-1140947">
+        <source><![CDATA[https://143vpn.com/billing/]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[https://143vpn.com/billing/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-1140948" restype="string" datatype="html" id="package-string-10-1140948">
+        <source><![CDATA[VPN]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[VPN]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-1140950" restype="string" datatype="html" id="package-string-10-1140950">
+        <source><![CDATA[<br class="xliff-newline" /><h3 style="text-align: center;"><span id="category-title">Hosting and VPN</span></h3><br class="xliff-newline" />]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[<br class="xliff-newline" /><h3 style="text-align: center;"><span id="category-title">Hosting and VPN</span></h3><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-1140951" restype="string" datatype="html" id="package-string-10-1140951">
+        <source><![CDATA[https://www.earthvpn.com/]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[https://www.earthvpn.com/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-1140952" restype="string" datatype="html" id="package-string-10-1140952">
+        <source><![CDATA[http://offshorehostingspace.org]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[http://offshorehostingspace.org]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-1140953" restype="string" datatype="html" id="package-string-10-1140953">
+        <source><![CDATA[crypto gifts]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[crypto gifts]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-1140954" restype="string" datatype="html" id="package-string-10-1140954">
+        <source><![CDATA[Essential Oil Products]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[Essential Oil Products]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-1140955" restype="string" datatype="html" id="package-string-10-1140955">
+        <source><![CDATA[https://www.1eo.us/]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[https://www.1eo.us/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-1140956" restype="string" datatype="html" id="package-string-10-1140956">
+        <source><![CDATA[ uTop.us Upgrade to Premium]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[ uTop.us Upgrade to Premium]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-1140957" restype="string" datatype="html" id="package-string-10-1140957">
+        <source><![CDATA[http://uTop.us]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[http://uTop.us]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-1146079" restype="string" datatype="html" id="package-string-10-1146079">
+        <source><![CDATA[Send SmartCash Postcards to a Friend]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[Send SmartCash Postcards to a Friend]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-1195521" restype="string" datatype="html" id="package-string-10-1195521">
+        <source><![CDATA[Solar Power and Hydronics Systems including Solar Mining]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[Solar Power and Hydronics Systems including Solar Mining]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-1195522" restype="string" datatype="html" id="package-string-10-1195522">
+        <source><![CDATA[http://greenpowerco.com.au/]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[http://greenpowerco.com.au/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-1209253" restype="string" datatype="html" id="package-string-10-1209253">
+        <source><![CDATA[Hand pipe capable of unique solar dome hits shop]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[Hand pipe capable of unique solar dome hits shop]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-1209254" restype="string" datatype="html" id="package-string-10-1209254">
+        <source><![CDATA[https://www.suntoken.com/]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[https://www.suntoken.com/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-1210381" restype="string" datatype="html" id="package-string-10-1210381">
+        <source><![CDATA[https://smartcash.blockchainlibrary.org/shop/]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[https://smartcash.blockchainlibrary.org/shop/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-1254316" restype="string" datatype="html" id="package-string-10-1254316">
+        <source><![CDATA[oVPN Anonymous Services]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[oVPN Anonymous Services]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-1254317" restype="string" datatype="html" id="package-string-10-1254317">
+        <source><![CDATA[https://vcp.ovpn.to/]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[https://vcp.ovpn.to/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-1254355" restype="string" datatype="html" id="package-string-10-1254355">
+        <source><![CDATA[royalmacro]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[royalmacro]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-1254356" restype="string" datatype="html" id="package-string-10-1254356">
+        <source><![CDATA[https://www.royalmacro.com/]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[https://www.royalmacro.com/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-1256142" restype="string" datatype="html" id="package-string-10-1256142">
+        <source><![CDATA[Retro Towers]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[Retro Towers]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-1256143" restype="string" datatype="html" id="package-string-10-1256143">
+        <source><![CDATA[http://www.retrotowers.co.uk]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[http://www.retrotowers.co.uk]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-1256894" restype="string" datatype="html" id="package-string-10-1256894">
+        <source><![CDATA[Digitox - SmartCash Around the World]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[Digitox - SmartCash Around the World]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-1256898" restype="string" datatype="html" id="package-string-10-1256898">
+        <source><![CDATA[https://digitox.net/p/ahmpz]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[https://digitox.net/p/ahmpz]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-1383683" restype="string" datatype="html" id="package-string-10-1383683">
+        <source><![CDATA[SmartCash Worldwide Community Logo T-shirt]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[SmartCash Worldwide Community Logo T-shirt]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-1443515" restype="string" datatype="html" id="package-string-10-1443515">
+        <source><![CDATA[specialize in the probiotic fermentation of our in house culture]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[specialize in the probiotic fermentation of our in house culture]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-1443516" restype="string" datatype="html" id="package-string-10-1443516">
+        <source><![CDATA[https://www.livingteabrewingco.com/]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[https://www.livingteabrewingco.com/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-1481271" restype="string" datatype="html" id="package-string-10-1481271">
+        <source><![CDATA[SokkerPRO ® Football prognostic software]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[SokkerPRO ® Football prognostic software]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-1566366" restype="string" datatype="html" id="package-string-10-1566366">
+        <source><![CDATA[Giacobbe & Co -Diamond Jewelry]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[Giacobbe & Co -Diamond Jewelry]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-1566367" restype="string" datatype="html" id="package-string-10-1566367">
+        <source><![CDATA[https://www.redbubble.com/people/camakin/works/31128407-smartcash-cryptocurrency?asc=u&p=t-shirt]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[https://www.redbubble.com/people/camakin/works/31128407-smartcash-cryptocurrency?asc=u&p=t-shirt]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-1566368" restype="string" datatype="html" id="package-string-10-1566368">
+        <source><![CDATA[<br class="xliff-newline" /><h3 style="text-align: center;"><span id="category-title">Art & Music</span></h3><br class="xliff-newline" />]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[<br class="xliff-newline" /><h3 style="text-align: center;"><span id="category-title">Art & Music</span></h3><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-10-1627987" restype="string" datatype="html" id="package-string-10-1627987">
+        <source><![CDATA[<br class="xliff-newline" /><a href="https://forum.smartcash.cc/t/smartcash-merchant-directory/2833"><strong>SmartCash Merchant directory</strong></a><br class="xliff-newline" /><ul><br class="xliff-newline" /> 	<li>Current list of businesses and services which allow you to pay with SmartCash.<br class="xliff-newline" /><ul><br class="xliff-newline" /> 	<li><strong>AdicoraKite - Kitesurfing Operator - Venezuela</strong><br class="xliff-newline" /><a href="https://www.facebook.com/AdicoraKitesurf/">https://www.facebook.com/AdicoraKitesurf</a><br class="xliff-newline" />Accepting Smart (<a href="https://image.ibb.co/jydFX6/Adicora_Kite.png">https://image.ibb.co/jydFX6/Adicora_Kite.png</a>)</li><br class="xliff-newline" /> 	<li><strong>Agavon - BLOCKCHAIN Consultant</strong><br class="xliff-newline" /><a href="https://agavon.ch/">https://agavon.ch/</a></li><br class="xliff-newline" /> 	<li><strong>Ballistic bodyboards co. - body boards 100% hand shaped and designed in Hawaii</strong><br class="xliff-newline" /><a href="http://www.getballistic.com/">http://www.getballistic.com</a></li><br class="xliff-newline" /> 	<li><strong>Bitcoincards - bitcoin giftcards</strong><br class="xliff-newline" /><a href="https://bitcoincards.io/">https://bitcoincards.io</a></li><br class="xliff-newline" /> 	<li><strong>BitStickers - Cryptocurrency related stickers</strong><br class="xliff-newline" /><a href="https://bitstickers.net/">https://bitstickers.net</a></li><br class="xliff-newline" /> 	<li><strong>BP fragrance - online perfumery</strong><br class="xliff-newline" /><a href="http://bpfragrance.nl/">http://bpfragrance.nl</a></li><br class="xliff-newline" /> 	<li><strong>Brewmasters - Homebrewing shop</strong><br class="xliff-newline" /><a href="http://brewmasters.com.mx/">http://brewmasters.com.mx/</a></li><br class="xliff-newline" /> 	<li><strong>Cryptomined - Specializing in Mining Hardware and Novelty Items</strong><br class="xliff-newline" /><a href="https://cryptomined.com/">https://cryptomined.com</a></li><br class="xliff-newline" /> 	<li><strong>Digitox - SmartCash Around the World</strong><br class="xliff-newline" /><a href="https://digitox.net/p/ahmpz">https://digitox.net/p/ahmpz</a></li><br class="xliff-newline" /> 	<li><strong>DOTCOMX - Brandable Domain Names</strong><br class="xliff-newline" /><a href="https://www.dotcomx.com/">https://www.dotcomx.com</a></li><br class="xliff-newline" /> 	<li><strong>EVE-BUY- Wholesale Products from China Wholesalers</strong><br class="xliff-newline" /><a href="https://eve-buy.com/">https://eve-buy.com/</a></li><br class="xliff-newline" /> 	<li><strong>Frank and Beans Underwear</strong><br class="xliff-newline" /><a href="https://www.frankandbeans.com.au/">https://www.frankandbeans.com.au</a></li><br class="xliff-newline" /> 	<li><strong>Fuente Negra- hot sauce production in mexico</strong><br class="xliff-newline" /><a href="https://www.facebook.com/fuentenegradf/">https://www.facebook.com/fuentenegradf</a><br class="xliff-newline" />Accepting Smart (<a href="https://image.ibb.co/bPa9QR/Hotsauce.png">https://image.ibb.co/bPa9QR/Hotsauce.png</a>)</li><br class="xliff-newline" /> 	<li><strong>Giacobbe &amp; Co.</strong><br class="xliff-newline" /><a href="http://www.giacobbeandco.com/">http://www.giacobbeandco.com</a></li><br class="xliff-newline" /> 	<li><strong>The Green Power Company | Solar Power Systems</strong><br class="xliff-newline" /><a href="http://greenpowerco.com.au/">http://greenpowerco.com.au/</a></li><br class="xliff-newline" /> 	<li><strong>House of Nakamoto</strong><br class="xliff-newline" />http://www.thehouseofnakamoto.com/en</li><br class="xliff-newline" /> 	<li><strong>Indahigh Surfboards - Lanzarote</strong><br class="xliff-newline" /><a href="https://www.facebook.com/indahigh/">https://www.facebook.com/indahigh</a>+ <a href="http://indahigh.com/">http://indahigh.com</a><br class="xliff-newline" />Accepting Smart (<a href="https://image.ibb.co/bzhg5R/Indahigh.png">https://image.ibb.co/bzhg5R/Indahigh.png</a>)</li><br class="xliff-newline" /> 	<li><strong>Latoppowerbank - 40000 MAH powerbank</strong><br class="xliff-newline" /><a href="https://laptoppowerbank.com/">https://laptoppowerbank.com</a></li><br class="xliff-newline" /> 	<li><strong>Libertopia The world’s premier event for Voluntaryists</strong><br class="xliff-newline" /><a href="https://libertopia.org/">https://libertopia.org/</a></li><br class="xliff-newline" /> 	<li><strong>Living tea brewing co</strong><br class="xliff-newline" /><a href="https://www.livingteabrewingco.com/">https://www.livingteabrewingco.com/</a></li><br class="xliff-newline" /> 	<li><strong>Meccamino - Dietary supplement online-store</strong><br class="xliff-newline" /><a href="https://meccamino.com.au/">https://meccamino.com.au</a></li><br class="xliff-newline" /> 	<li><strong>Moppers Anonymous ebook</strong><br class="xliff-newline" /><a href="https://moppersanonymousdownload.weebly.com/">https://moppersanonymousdownload.weebly.com</a></li><br class="xliff-newline" /> 	<li><strong>Offshorehostingspace - VPS hosting service</strong><br class="xliff-newline" /><a href="http://offshorehostingspace.org/">http://offshorehostingspace.org</a></li><br class="xliff-newline" /> 	<li><strong>Ohm handpans - special musical instrument</strong><br class="xliff-newline" /><a href="https://www.ohmhandpans.com/">https://www.ohmhandpans.com</a></li><br class="xliff-newline" /> 	<li><strong>oVPN Anonymous Services</strong><br class="xliff-newline" />https://vcp.ovpn.to/</li><br class="xliff-newline" /> 	<li><strong>Proper Pool - custom pool table &amp; swimming pool specialist</strong><br class="xliff-newline" /><a href="https://www.properpool.com/">https://www.properpool.com</a></li><br class="xliff-newline" /> 	<li><strong>Reparcel Import CA - Unlock Codes for iPhone Samsung LG HTC Blackberry and more.</strong><br class="xliff-newline" /><a href="https://twitter.com/Reparcel_Import">https://twitter.com/Reparcel_Import</a></li><br class="xliff-newline" /> 	<li><strong>RetroTowers</strong><br class="xliff-newline" /><a href="http://www.retrotowers.co.uk/">http://www.retrotowers.co.uk</a></li><br class="xliff-newline" /> 	<li><a href="https://www.redbubble.com/people/camakin/works/31128407-smartcash-cryptocurrency?asc=u&amp;p=t-shirt"><strong>SmartCash Worldwide Community logo T-Shirt by camakin</strong></a></li><br class="xliff-newline" /> 	<li><strong>RouterHosting</strong><br class="xliff-newline" /><a href="https://www.routerhosting.com/">https://www.routerhosting.com/</a></li><br class="xliff-newline" /> 	<li><strong>Royalmacro</strong><br class="xliff-newline" /><a href="https://www.royalmacro.com/">https://www.royalmacro.com/</a></li><br class="xliff-newline" /> 	<li><strong>Sheldon.store - Gift cards shop</strong><br class="xliff-newline" /><a href="https://www.sheldon.store/">https://www.sheldon.store</a></li><br class="xliff-newline" /> 	<li><strong>Shopdogs365 - Drop ship store for dog supplies</strong><br class="xliff-newline" /><a href="https://www.shopdogs365.com/">https://www.shopdogs365.com</a></li><br class="xliff-newline" /> 	<li><strong>SHOP CRYPTO ART</strong><br class="xliff-newline" />https://www.artfork.gallery/</li><br class="xliff-newline" /> 	<li><strong>Shutupandtakemymoney Store</strong><br class="xliff-newline" />http://shutupandtakemymoney.com/shop/</li><br class="xliff-newline" /> 	<li><strong>Smartie shop - SmartCash merchandise</strong><br class="xliff-newline" /><a href="https://smartie.shop/">https://smartie.shop</a></li><br class="xliff-newline" /> 	<li><strong>Snel - Cloud hosting platform</strong><br class="xliff-newline" /><a href="https://www.snel.com/">https://www.snel.com</a></li><br class="xliff-newline" /> 	<li><strong>SocialTrades a social media management service</strong><br class="xliff-newline" />https://www.socialtrades.xyz/</li><br class="xliff-newline" /> 	<li><strong>SokkerPRO ® Football prognostic software</strong><br class="xliff-newline" />http://sokkerpro.com/en/</li><br class="xliff-newline" /> 	<li><strong>Sun Token- hand pipe capable of unique solar dome hits</strong><br class="xliff-newline" />https://www.suntoken.com/</li><br class="xliff-newline" /> 	<li><strong>Telescope adapters - camera adapter</strong><br class="xliff-newline" /><a href="https://www.telescopeadapters.com/">https://www.telescopeadapters.com</a></li><br class="xliff-newline" /> 	<li><strong>Tecnologiaalvarado Web shop</strong><br class="xliff-newline" /><a href="https://www.tecnologiaalvarado.com.ve/">https://www.tecnologiaalvarado.com.ve/</a></li><br class="xliff-newline" /> 	<li><strong>UBBBK - online book store</strong><br class="xliff-newline" /><a href="https://ubbbk.com/">https://ubbbk.com</a></li><br class="xliff-newline" /> 	<li><strong>VariMag II DSLR Microscope Adapter System</strong><br class="xliff-newline" /><a href="https://www.varimag.com/">https://www.varimag.com</a></li><br class="xliff-newline" /> 	<li><strong>VPS-City - High End VPS Dedicated Servers or Cloud Hosting Solutions</strong><br class="xliff-newline" /><a href="https://vps-city.com/">https://vps-city.com</a></li><br class="xliff-newline" /> 	<li><strong>WARDONA BV UW EXCEL SPECIALIST</strong><br class="xliff-newline" />http://wardona.nl/</li><br class="xliff-newline" /> 	<li><strong>101 vape - online vape store</strong><br class="xliff-newline" /><a href="https://101vape.com/">https://101vape.com</a></li><br class="xliff-newline" /></ul><br class="xliff-newline" /></li><br class="xliff-newline" /></ul><br class="xliff-newline" />]]></source>
+        <target xml:lang="hu" state="needs-translation"><![CDATA[<br class="xliff-newline" /><a href="https://forum.smartcash.cc/t/smartcash-merchant-directory/2833"><strong>SmartCash Merchant directory</strong></a><br class="xliff-newline" /><ul><br class="xliff-newline" /> 	<li>Current list of businesses and services which allow you to pay with SmartCash.<br class="xliff-newline" /><ul><br class="xliff-newline" /> 	<li><strong>AdicoraKite - Kitesurfing Operator - Venezuela</strong><br class="xliff-newline" /><a href="https://www.facebook.com/AdicoraKitesurf/">https://www.facebook.com/AdicoraKitesurf</a><br class="xliff-newline" />Accepting Smart (<a href="https://image.ibb.co/jydFX6/Adicora_Kite.png">https://image.ibb.co/jydFX6/Adicora_Kite.png</a>)</li><br class="xliff-newline" /> 	<li><strong>Agavon - BLOCKCHAIN Consultant</strong><br class="xliff-newline" /><a href="https://agavon.ch/">https://agavon.ch/</a></li><br class="xliff-newline" /> 	<li><strong>Ballistic bodyboards co. - body boards 100% hand shaped and designed in Hawaii</strong><br class="xliff-newline" /><a href="http://www.getballistic.com/">http://www.getballistic.com</a></li><br class="xliff-newline" /> 	<li><strong>Bitcoincards - bitcoin giftcards</strong><br class="xliff-newline" /><a href="https://bitcoincards.io/">https://bitcoincards.io</a></li><br class="xliff-newline" /> 	<li><strong>BitStickers - Cryptocurrency related stickers</strong><br class="xliff-newline" /><a href="https://bitstickers.net/">https://bitstickers.net</a></li><br class="xliff-newline" /> 	<li><strong>BP fragrance - online perfumery</strong><br class="xliff-newline" /><a href="http://bpfragrance.nl/">http://bpfragrance.nl</a></li><br class="xliff-newline" /> 	<li><strong>Brewmasters - Homebrewing shop</strong><br class="xliff-newline" /><a href="http://brewmasters.com.mx/">http://brewmasters.com.mx/</a></li><br class="xliff-newline" /> 	<li><strong>Cryptomined - Specializing in Mining Hardware and Novelty Items</strong><br class="xliff-newline" /><a href="https://cryptomined.com/">https://cryptomined.com</a></li><br class="xliff-newline" /> 	<li><strong>Digitox - SmartCash Around the World</strong><br class="xliff-newline" /><a href="https://digitox.net/p/ahmpz">https://digitox.net/p/ahmpz</a></li><br class="xliff-newline" /> 	<li><strong>DOTCOMX - Brandable Domain Names</strong><br class="xliff-newline" /><a href="https://www.dotcomx.com/">https://www.dotcomx.com</a></li><br class="xliff-newline" /> 	<li><strong>EVE-BUY- Wholesale Products from China Wholesalers</strong><br class="xliff-newline" /><a href="https://eve-buy.com/">https://eve-buy.com/</a></li><br class="xliff-newline" /> 	<li><strong>Frank and Beans Underwear</strong><br class="xliff-newline" /><a href="https://www.frankandbeans.com.au/">https://www.frankandbeans.com.au</a></li><br class="xliff-newline" /> 	<li><strong>Fuente Negra- hot sauce production in mexico</strong><br class="xliff-newline" /><a href="https://www.facebook.com/fuentenegradf/">https://www.facebook.com/fuentenegradf</a><br class="xliff-newline" />Accepting Smart (<a href="https://image.ibb.co/bPa9QR/Hotsauce.png">https://image.ibb.co/bPa9QR/Hotsauce.png</a>)</li><br class="xliff-newline" /> 	<li><strong>Giacobbe &amp; Co.</strong><br class="xliff-newline" /><a href="http://www.giacobbeandco.com/">http://www.giacobbeandco.com</a></li><br class="xliff-newline" /> 	<li><strong>The Green Power Company | Solar Power Systems</strong><br class="xliff-newline" /><a href="http://greenpowerco.com.au/">http://greenpowerco.com.au/</a></li><br class="xliff-newline" /> 	<li><strong>House of Nakamoto</strong><br class="xliff-newline" />http://www.thehouseofnakamoto.com/en</li><br class="xliff-newline" /> 	<li><strong>Indahigh Surfboards - Lanzarote</strong><br class="xliff-newline" /><a href="https://www.facebook.com/indahigh/">https://www.facebook.com/indahigh</a>+ <a href="http://indahigh.com/">http://indahigh.com</a><br class="xliff-newline" />Accepting Smart (<a href="https://image.ibb.co/bzhg5R/Indahigh.png">https://image.ibb.co/bzhg5R/Indahigh.png</a>)</li><br class="xliff-newline" /> 	<li><strong>Latoppowerbank - 40000 MAH powerbank</strong><br class="xliff-newline" /><a href="https://laptoppowerbank.com/">https://laptoppowerbank.com</a></li><br class="xliff-newline" /> 	<li><strong>Libertopia The world’s premier event for Voluntaryists</strong><br class="xliff-newline" /><a href="https://libertopia.org/">https://libertopia.org/</a></li><br class="xliff-newline" /> 	<li><strong>Living tea brewing co</strong><br class="xliff-newline" /><a href="https://www.livingteabrewingco.com/">https://www.livingteabrewingco.com/</a></li><br class="xliff-newline" /> 	<li><strong>Meccamino - Dietary supplement online-store</strong><br class="xliff-newline" /><a href="https://meccamino.com.au/">https://meccamino.com.au</a></li><br class="xliff-newline" /> 	<li><strong>Moppers Anonymous ebook</strong><br class="xliff-newline" /><a href="https://moppersanonymousdownload.weebly.com/">https://moppersanonymousdownload.weebly.com</a></li><br class="xliff-newline" /> 	<li><strong>Offshorehostingspace - VPS hosting service</strong><br class="xliff-newline" /><a href="http://offshorehostingspace.org/">http://offshorehostingspace.org</a></li><br class="xliff-newline" /> 	<li><strong>Ohm handpans - special musical instrument</strong><br class="xliff-newline" /><a href="https://www.ohmhandpans.com/">https://www.ohmhandpans.com</a></li><br class="xliff-newline" /> 	<li><strong>oVPN Anonymous Services</strong><br class="xliff-newline" />https://vcp.ovpn.to/</li><br class="xliff-newline" /> 	<li><strong>Proper Pool - custom pool table &amp; swimming pool specialist</strong><br class="xliff-newline" /><a href="https://www.properpool.com/">https://www.properpool.com</a></li><br class="xliff-newline" /> 	<li><strong>Reparcel Import CA - Unlock Codes for iPhone Samsung LG HTC Blackberry and more.</strong><br class="xliff-newline" /><a href="https://twitter.com/Reparcel_Import">https://twitter.com/Reparcel_Import</a></li><br class="xliff-newline" /> 	<li><strong>RetroTowers</strong><br class="xliff-newline" /><a href="http://www.retrotowers.co.uk/">http://www.retrotowers.co.uk</a></li><br class="xliff-newline" /> 	<li><a href="https://www.redbubble.com/people/camakin/works/31128407-smartcash-cryptocurrency?asc=u&amp;p=t-shirt"><strong>SmartCash Worldwide Community logo T-Shirt by camakin</strong></a></li><br class="xliff-newline" /> 	<li><strong>RouterHosting</strong><br class="xliff-newline" /><a href="https://www.routerhosting.com/">https://www.routerhosting.com/</a></li><br class="xliff-newline" /> 	<li><strong>Royalmacro</strong><br class="xliff-newline" /><a href="https://www.royalmacro.com/">https://www.royalmacro.com/</a></li><br class="xliff-newline" /> 	<li><strong>Sheldon.store - Gift cards shop</strong><br class="xliff-newline" /><a href="https://www.sheldon.store/">https://www.sheldon.store</a></li><br class="xliff-newline" /> 	<li><strong>Shopdogs365 - Drop ship store for dog supplies</strong><br class="xliff-newline" /><a href="https://www.shopdogs365.com/">https://www.shopdogs365.com</a></li><br class="xliff-newline" /> 	<li><strong>SHOP CRYPTO ART</strong><br class="xliff-newline" />https://www.artfork.gallery/</li><br class="xliff-newline" /> 	<li><strong>Shutupandtakemymoney Store</strong><br class="xliff-newline" />http://shutupandtakemymoney.com/shop/</li><br class="xliff-newline" /> 	<li><strong>Smartie shop - SmartCash merchandise</strong><br class="xliff-newline" /><a href="https://smartie.shop/">https://smartie.shop</a></li><br class="xliff-newline" /> 	<li><strong>Snel - Cloud hosting platform</strong><br class="xliff-newline" /><a href="https://www.snel.com/">https://www.snel.com</a></li><br class="xliff-newline" /> 	<li><strong>SocialTrades a social media management service</strong><br class="xliff-newline" />https://www.socialtrades.xyz/</li><br class="xliff-newline" /> 	<li><strong>SokkerPRO ® Football prognostic software</strong><br class="xliff-newline" />http://sokkerpro.com/en/</li><br class="xliff-newline" /> 	<li><strong>Sun Token- hand pipe capable of unique solar dome hits</strong><br class="xliff-newline" />https://www.suntoken.com/</li><br class="xliff-newline" /> 	<li><strong>Telescope adapters - camera adapter</strong><br class="xliff-newline" /><a href="https://www.telescopeadapters.com/">https://www.telescopeadapters.com</a></li><br class="xliff-newline" /> 	<li><strong>Tecnologiaalvarado Web shop</strong><br class="xliff-newline" /><a href="https://www.tecnologiaalvarado.com.ve/">https://www.tecnologiaalvarado.com.ve/</a></li><br class="xliff-newline" /> 	<li><strong>UBBBK - online book store</strong><br class="xliff-newline" /><a href="https://ubbbk.com/">https://ubbbk.com</a></li><br class="xliff-newline" /> 	<li><strong>VariMag II DSLR Microscope Adapter System</strong><br class="xliff-newline" /><a href="https://www.varimag.com/">https://www.varimag.com</a></li><br class="xliff-newline" /> 	<li><strong>VPS-City - High End VPS Dedicated Servers or Cloud Hosting Solutions</strong><br class="xliff-newline" /><a href="https://vps-city.com/">https://vps-city.com</a></li><br class="xliff-newline" /> 	<li><strong>WARDONA BV UW EXCEL SPECIALIST</strong><br class="xliff-newline" />http://wardona.nl/</li><br class="xliff-newline" /> 	<li><strong>101 vape - online vape store</strong><br class="xliff-newline" /><a href="https://101vape.com/">https://101vape.com</a></li><br class="xliff-newline" /></ul><br class="xliff-newline" /></li><br class="xliff-newline" /></ul><br class="xliff-newline" />]]></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
