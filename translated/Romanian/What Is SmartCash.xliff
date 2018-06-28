@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="723-ced0ffa3fba224321452016e2eca4ece" source-language="en" target-language="ro" datatype="plaintext">
+    <header>
+      <phase-group>
+        <phase phase-name="shortcodes" process-name="Shortcodes identification">
+          <note>wp_caption,caption,gallery,playlist,audio,video,embed,wpml_language_form_field,add_eventon_search,FAG,bws_google_captcha,wow-icons,wpml_language_switcher,wpml_language_selector_widget,wpml_language_selector_footer,wpml-string,contact-form-7,contact-form,layerslider,av_events_countdown,av_upcoming_events,av_productgrid,av_productlist,av_product_button,av_product_info,av_product_review,av_product_tabs,av_product_upsells,av_productslider,mc4wp_form,av_blog,av_button,av_button_big,av_catalogue,av_catalogue_item,av_cell_one_full,av_cell_one_half,av_cell_one_third,av_cell_two_third,av_cell_one_fourth,av_cell_three_fourth,av_cell_one_fifth,av_cell_two_fifth,av_cell_three_fifth,av_cell_four_fifth,av_codeblock,av_one_full,av_one_half,av_one_third,av_two_third,av_one_fourth,av_three_fourth,av_one_fifth,av_two_fifth,av_three_fifth,av_four_fifth,av_comments_list,av_contact,av_contact_field,av_content_slider,av_content_slide,av_countdown,av_dropcap1,av_dropcap2,av_gallery,av_google_map,av_gmap_location,av_layout_row,av_heading,av_headline_rotator,av_rotator_item,av_hr,av_font_icon,av_icon_box,av_iconlist,av_iconlist_item,av_image,av_image_hotspot,av_image_spot,av_partner,av_partner_logo,av_magazine,av_mailchimp,av_mailchimp_field,av_masonry_entries,av_masonry_gallery,av_submenu,av_submenu_item,av_notification,av_animated_numbers,av_portfolio,av_postslider,av_progress,av_progress_bar,av_promobox,av_section,av_slideshow,av_slide,av_slideshow_accordion,av_slide_accordion,av_feature_image_slider,av_fullscreen,av_fullscreen_slide,av_slideshow_full,av_slide_full,av_layerslider,av_social_share,av_tab_section,av_tab_sub_section,av_table,av_row,av_cell,av_tab_container,av_tab,av_team_member,av_team_icon,av_testimonials,av_testimonial_single,av_textblock,av_toggle_container,av_toggle,av_video,av_sidebar</note>
+        </phase>
+      </phase-group>
+      <reference>
+        <external-file href="https://smartcash.cc/what-is-smartcash/"/>
+      </reference>
+    </header>
+    <body>
+      <trans-unit resname="field-_yoast_wpseo_metadesc-0" restype="string" datatype="html" id="field-_yoast_wpseo_metadesc-0">
+        <source><![CDATA[SmartCash is a fungible decentralized digital currency with a focus on merchant adoption & community focused governance. SmartCash was established in 2017.]]></source>
+        <target xml:lang="ro" state="needs-translation"><![CDATA[SmartCash is a fungible decentralized digital currency with a focus on merchant adoption & community focused governance. SmartCash was established in 2017.]]></target>
+      </trans-unit>
+      <trans-unit resname="field-_yoast_wpseo_focuskw-0" restype="string" datatype="html" id="field-_yoast_wpseo_focuskw-0">
+        <source><![CDATA[smartcash]]></source>
+        <target xml:lang="ro" state="needs-translation"><![CDATA[smartcash]]></target>
+      </trans-unit>
+      <trans-unit resname="title" restype="string" datatype="html" id="title">
+        <source><![CDATA[What Is SmartCash?]]></source>
+        <target xml:lang="ro" state="needs-translation"><![CDATA[What Is SmartCash?]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-2-6312" restype="string" datatype="html" id="package-string-2-6312">
+        <source><![CDATA[<br class="xliff-newline" />Renew? SmartHive? Community Budgets? Don't worry we know it's alot we've got you covered.<br class="xliff-newline" />]]></source>
+        <target xml:lang="ro" state="needs-translation"><![CDATA[<br class="xliff-newline" />Renew? SmartHive? Community Budgets? Don't worry we know it's alot we've got you covered.<br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-2-6313" restype="string" datatype="html" id="package-string-2-6313">
+        <source><![CDATA[What Is SmartCash?]]></source>
+        <target xml:lang="ro" state="needs-translation"><![CDATA[What Is SmartCash?]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-2-6315" restype="string" datatype="html" id="package-string-2-6315">
+        <source><![CDATA[<br class="xliff-newline" /><h3 style="text-align: center;"><strong><i class="wow-position icon-fighter-jet fa-2x wow-icon"></i><br class="xliff-newline" />Fast Transactions</strong></h3><br class="xliff-newline" />]]></source>
+        <target xml:lang="ro" state="needs-translation"><![CDATA[<br class="xliff-newline" /><h3 style="text-align: center;"><strong><i class="wow-position icon-fighter-jet fa-2x wow-icon"></i><br class="xliff-newline" />Fast Transactions</strong></h3><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-2-6316" restype="string" datatype="html" id="package-string-2-6316">
+        <source><![CDATA[<br class="xliff-newline" /><h3 style="text-align: center;"><strong><i class="wow-position icon-users wow-icon fa-2x"></i><br class="xliff-newline" />Community-backed</strong></h3><br class="xliff-newline" />]]></source>
+        <target xml:lang="ro" state="needs-translation"><![CDATA[<br class="xliff-newline" /><h3 style="text-align: center;"><strong><i class="wow-position icon-users wow-icon fa-2x"></i><br class="xliff-newline" />Community-backed</strong></h3><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-2-6317" restype="string" datatype="html" id="package-string-2-6317">
+        <source><![CDATA[<br class="xliff-newline" /><h3 style="text-align: center;"><strong><i class="wow-position icon-chat-empty wow-icon fa-2x"></i><br class="xliff-newline" />Inclusive</strong></h3><br class="xliff-newline" />]]></source>
+        <target xml:lang="ro" state="needs-translation"><![CDATA[<br class="xliff-newline" /><h3 style="text-align: center;"><strong><i class="wow-position icon-chat-empty wow-icon fa-2x"></i><br class="xliff-newline" />Inclusive</strong></h3><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-2-6318" restype="string" datatype="html" id="package-string-2-6318">
+        <source><![CDATA[The SmartCash Concept]]></source>
+        <target xml:lang="ro" state="needs-translation"><![CDATA[The SmartCash Concept]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-2-6322" restype="string" datatype="html" id="package-string-2-6322">
+        <source><![CDATA[SmartRewards]]></source>
+        <target xml:lang="ro" state="needs-translation"><![CDATA[SmartRewards]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-2-6323" restype="string" datatype="html" id="package-string-2-6323">
+        <source><![CDATA[SmartHive Setup]]></source>
+        <target xml:lang="ro" state="needs-translation"><![CDATA[SmartHive Setup]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-2-6324" restype="string" datatype="html" id="package-string-2-6324">
+        <source><![CDATA[SmartNodes]]></source>
+        <target xml:lang="ro" state="needs-translation"><![CDATA[SmartNodes]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-2-6325" restype="string" datatype="html" id="package-string-2-6325">
+        <source><![CDATA[View The SmartCash Roadmap]]></source>
+        <target xml:lang="ro" state="needs-translation"><![CDATA[View The SmartCash Roadmap]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-2-6329" restype="string" datatype="html" id="package-string-2-6329">
+        <source><![CDATA[The Recipe for SmartCash]]></source>
+        <target xml:lang="ro" state="needs-translation"><![CDATA[The Recipe for SmartCash]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-2-6330" restype="string" datatype="html" id="package-string-2-6330">
+        <source><![CDATA[<br class="xliff-newline" />Wanna get involved? The SmartHive has a place for folks of all backgrounds. Come hungry!<br class="xliff-newline" />]]></source>
+        <target xml:lang="ro" state="needs-translation"><![CDATA[<br class="xliff-newline" />Wanna get involved? The SmartHive has a place for folks of all backgrounds. Come hungry!<br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-2-6331" restype="string" datatype="html" id="package-string-2-6331">
+        <source><![CDATA[The SmartHive]]></source>
+        <target xml:lang="ro" state="needs-translation"><![CDATA[The SmartHive]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-2-6333" restype="string" datatype="html" id="package-string-2-6333">
+        <source><![CDATA[Hive Structuring Teams]]></source>
+        <target xml:lang="ro" state="needs-translation"><![CDATA[Hive Structuring Teams]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-2-6335" restype="string" datatype="html" id="package-string-2-6335">
+        <source><![CDATA[SmartVoting]]></source>
+        <target xml:lang="ro" state="needs-translation"><![CDATA[SmartVoting]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-2-6340" restype="string" datatype="html" id="package-string-2-6340">
+        <source><![CDATA[<br class="xliff-newline" />InstantPay ensures SmartCash is always blazing fast no matter what you are buying.<br class="xliff-newline" />]]></source>
+        <target xml:lang="ro" state="needs-translation"><![CDATA[<br class="xliff-newline" />InstantPay ensures SmartCash is always blazing fast no matter what you are buying.<br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-2-6341" restype="string" datatype="html" id="package-string-2-6341">
+        <source><![CDATA[InstantPay]]></source>
+        <target xml:lang="ro" state="needs-translation"><![CDATA[InstantPay]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-2-7107" restype="string" datatype="html" id="package-string-2-7107">
+        <source><![CDATA[SmartCash Initial Launch]]></source>
+        <target xml:lang="ro" state="needs-translation"><![CDATA[SmartCash Initial Launch]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-2-7108" restype="string" datatype="html" id="package-string-2-7108">
+        <source><![CDATA[<br class="xliff-newline" /><strong>SmartRewards</strong> are a price stabilization mechanism and a way to encourage long term holding. Long term holders are key to the project's success since the SmartHive treasury needs SmartCash to appreciate in value in order to fund meaningful 3rd party proposals and help grow SmartCash into a successful global crypto-currency. <strong>Each wallet address holding at least 1000 SmartCash</strong> <strong>will get paid each 30 days on average after the 25th snapshot date. </strong>The SmartRewards will come out of the 15<wbr ></wbr>% block reward allocation<wbr ></wbr>.<br class="xliff-newline" /><br class="xliff-newline" />Here is a small example: if you buy SmartCash on the 24th you'll have to wait until the next month to get paid which is around 30 days however if you buy on the 26th after the snapshot date you'll have to wait around 60 days to get paid<wbr ></wbr>.<br class="xliff-newline" /><br class="xliff-newline" />These payments will occur on the 25th of each month.<br class="xliff-newline" /><br class="xliff-newline" /><strong>All users need to move funds into addresses larger than 1000 SMART before the 25th to be counted.</strong><br class="xliff-newline" />]]></source>
+        <target xml:lang="ro" state="needs-translation"><![CDATA[<br class="xliff-newline" /><strong>SmartRewards</strong> are a price stabilization mechanism and a way to encourage long term holding. Long term holders are key to the project's success since the SmartHive treasury needs SmartCash to appreciate in value in order to fund meaningful 3rd party proposals and help grow SmartCash into a successful global crypto-currency. <strong>Each wallet address holding at least 1000 SmartCash</strong> <strong>will get paid each 30 days on average after the 25th snapshot date. </strong>The SmartRewards will come out of the 15<wbr ></wbr>% block reward allocation<wbr ></wbr>.<br class="xliff-newline" /><br class="xliff-newline" />Here is a small example: if you buy SmartCash on the 24th you'll have to wait until the next month to get paid which is around 30 days however if you buy on the 26th after the snapshot date you'll have to wait around 60 days to get paid<wbr ></wbr>.<br class="xliff-newline" /><br class="xliff-newline" />These payments will occur on the 25th of each month.<br class="xliff-newline" /><br class="xliff-newline" /><strong>All users need to move funds into addresses larger than 1000 SMART before the 25th to be counted.</strong><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-2-208230" restype="string" datatype="html" id="package-string-2-208230">
+        <source><![CDATA[<br class="xliff-newline" /><strong>InstantPay</strong> is going to be a key feature that allows instant <em>point-of-sale in-store and online purchases</em>. People should be able to use cryptocurrency as means to pay for their daily needs. InstantPay makes that a reality and allows for transactions to happen instantly even faster than using your Visa or Mastercard.<br class="xliff-newline" /><br class="xliff-newline" /><strong> No matter if you want to buy a coffee at your favorite coffee shop fill up your tank at the nearest gas station buy a bus ticket or pay for a video download InstantPay makes that a reality.</strong> This is currently not possible with Bitcoin due to its technological limitations and network constraints which result in transaction delays and high fees.<br class="xliff-newline" /><h5>Expected to launch 2018.</h5><br class="xliff-newline" />]]></source>
+        <target xml:lang="ro" state="needs-translation"><![CDATA[<br class="xliff-newline" /><strong>InstantPay</strong> is going to be a key feature that allows instant <em>point-of-sale in-store and online purchases</em>. People should be able to use cryptocurrency as means to pay for their daily needs. InstantPay makes that a reality and allows for transactions to happen instantly even faster than using your Visa or Mastercard.<br class="xliff-newline" /><br class="xliff-newline" /><strong> No matter if you want to buy a coffee at your favorite coffee shop fill up your tank at the nearest gas station buy a bus ticket or pay for a video download InstantPay makes that a reality.</strong> This is currently not possible with Bitcoin due to its technological limitations and network constraints which result in transaction delays and high fees.<br class="xliff-newline" /><h5>Expected to launch 2018.</h5><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-2-228869" restype="string" datatype="html" id="package-string-2-228869">
+        <source><![CDATA[<br class="xliff-newline" />SmartHive? Community Budgets? Don't worry we know it's alot we've got you covered.<br class="xliff-newline" />]]></source>
+        <target xml:lang="ro" state="needs-translation"><![CDATA[<br class="xliff-newline" />SmartHive? Community Budgets? Don't worry we know it's alot we've got you covered.<br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-2-228874" restype="string" datatype="html" id="package-string-2-228874">
+        <source><![CDATA[<br class="xliff-newline" /><a name="smartrewards"></a><br class="xliff-newline" />All Smartcash users deserve a voice from day #1. That is why Smartcash is pioneering in the crypto-governance space and was built around Smarthive the platform that lets all users vote on the direction of the project. More information will be released soon describing this platform in depth.<br class="xliff-newline" /><br class="xliff-newline" />Basically each SmartCash coin is worth 1 vote to keep it simple.<br class="xliff-newline" />]]></source>
+        <target xml:lang="ro" state="needs-translation"><![CDATA[<br class="xliff-newline" /><a name="smartrewards"></a><br class="xliff-newline" />All Smartcash users deserve a voice from day #1. That is why Smartcash is pioneering in the crypto-governance space and was built around Smarthive the platform that lets all users vote on the direction of the project. More information will be released soon describing this platform in depth.<br class="xliff-newline" /><br class="xliff-newline" />Basically each SmartCash coin is worth 1 vote to keep it simple.<br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-2-288397" restype="string" datatype="html" id="package-string-2-288397">
+        <source><![CDATA[<br class="xliff-newline" /><span style="font-weight: 400;">The <strong>Hive Structuring Teams (HST)</strong> will lay the groundwork for the project and set the framework for the project’s evolution. Initially the Hive Structuring Teams will operate three separate departments in charge of vital project areas such as development outreach and support. Each of these three departments will end up employing people. As teams grow larger bigger than eight members more teams will be created each with its own budget and team coordinator operating autonomously without a central command and control structure in place.</span><br class="xliff-newline" /><br class="xliff-newline" /><span style="font-weight: 400;">The Hive Structuring Teams will consist of people directly involved in the project on a day to day basis while the overall SmartHive will aim to enrol and engage community members and other 3rd parties interested in growing SmartCash into a global worldwide currency.</span><br class="xliff-newline" />]]></source>
+        <target xml:lang="ro" state="needs-translation"><![CDATA[<br class="xliff-newline" /><span style="font-weight: 400;">The <strong>Hive Structuring Teams (HST)</strong> will lay the groundwork for the project and set the framework for the project’s evolution. Initially the Hive Structuring Teams will operate three separate departments in charge of vital project areas such as development outreach and support. Each of these three departments will end up employing people. As teams grow larger bigger than eight members more teams will be created each with its own budget and team coordinator operating autonomously without a central command and control structure in place.</span><br class="xliff-newline" /><br class="xliff-newline" /><span style="font-weight: 400;">The Hive Structuring Teams will consist of people directly involved in the project on a day to day basis while the overall SmartHive will aim to enrol and engage community members and other 3rd parties interested in growing SmartCash into a global worldwide currency.</span><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-2-288398" restype="string" datatype="html" id="package-string-2-288398">
+        <source><![CDATA[<br class="xliff-newline" /><span style="font-weight: 400;">We believe 'Core' teams are a bad idea and something that ultimately leads to inefficiency and corruption. We want to move past it and create a decentralized organizational model inspired by ant and bee colonies. </span><br class="xliff-newline" /><br class="xliff-newline" /><span style="font-weight: 400;">In order to create and maintain a decentralized governance structure we are introducing two concepts SmartHive and Hive Structuring Teams (HST). SmartHive enables anyone that holds coins to vote on proposals submitted by the community. SmartHive will be the lifeblood of the project which will allow anyone to get involved and submit proposals helping to generate organic growth at a grassroots level creating a bottom-up management structure.</span><br class="xliff-newline" />]]></source>
+        <target xml:lang="ro" state="needs-translation"><![CDATA[<br class="xliff-newline" /><span style="font-weight: 400;">We believe 'Core' teams are a bad idea and something that ultimately leads to inefficiency and corruption. We want to move past it and create a decentralized organizational model inspired by ant and bee colonies. </span><br class="xliff-newline" /><br class="xliff-newline" /><span style="font-weight: 400;">In order to create and maintain a decentralized governance structure we are introducing two concepts SmartHive and Hive Structuring Teams (HST). SmartHive enables anyone that holds coins to vote on proposals submitted by the community. SmartHive will be the lifeblood of the project which will allow anyone to get involved and submit proposals helping to generate organic growth at a grassroots level creating a bottom-up management structure.</span><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-2-1214715" restype="string" datatype="html" id="package-string-2-1214715">
+        <source><![CDATA[<br class="xliff-newline" /><h3><b>SmartCash Parameters</b></h3><br class="xliff-newline" /><ul><br class="xliff-newline" /> 	<li style="font-weight: 400;"><span style="font-weight: 400;">Coins per Block: 5000 coins (with gradual reduction per equation below)</span></li><br class="xliff-newline" /></ul><br class="xliff-newline" /><img class="alignnone size-full wp-image-4333" src="https://smartcash.cc/wp-content/uploads/2017/03/br.jpg" alt="" width="336" height="62" /><br class="xliff-newline" /><ul><br class="xliff-newline" /> 	<li style="font-weight: 400;"><span style="font-weight: 400;">Blocktime: 55 seconds</span></li><br class="xliff-newline" /> 	<li style="font-weight: 400;"><span style="font-weight: 400;">Maximum supply: 5000000000</span></li><br class="xliff-newline" /> 	<li style="font-weight: 400;"><span style="font-weight: 400;">Blocksize: 1 MB (to be changed to </span><b>Adaptive Blocks</b><span style="font-weight: 400;">)</span></li><br class="xliff-newline" /> 	<li style="font-weight: 400;"><span style="font-weight: 400;">Algorithm: PoWKeccak</span></li><br class="xliff-newline" /> 	<li style="font-weight: 400;">Difficulty Management: BRNDF</li><br class="xliff-newline" /></ul><br class="xliff-newline" /><h2 style="text-align: center;"><strong>Block reward split:</strong></h2><br class="xliff-newline" /><h2 style="text-align: center;"><span style="font-weight: 400;"><strong>30%</strong> </span></h2><br class="xliff-newline" /><h2 style="text-align: center;"><span style="font-weight: 400;"> Miners/SmartRewards</span></h2><br class="xliff-newline" /><h2 style="text-align: center;"><span style="font-weight: 400;">/SmartNodes</span></h2><br class="xliff-newline" /><h2 style="text-align: center;"></h2><br class="xliff-newline" /><h2 style="text-align: center;"><span style="font-weight: 400;"><strong>70%</strong><br class="xliff-newline" /></span></h2><br class="xliff-newline" /><h2 style="text-align: center;"><span style="font-weight: 400;">SmartHive/HiveTeams</span></h2><br class="xliff-newline" />]]></source>
+        <target xml:lang="ro" state="needs-translation"><![CDATA[<br class="xliff-newline" /><h3><b>SmartCash Parameters</b></h3><br class="xliff-newline" /><ul><br class="xliff-newline" /> 	<li style="font-weight: 400;"><span style="font-weight: 400;">Coins per Block: 5000 coins (with gradual reduction per equation below)</span></li><br class="xliff-newline" /></ul><br class="xliff-newline" /><img class="alignnone size-full wp-image-4333" src="https://smartcash.cc/wp-content/uploads/2017/03/br.jpg" alt="" width="336" height="62" /><br class="xliff-newline" /><ul><br class="xliff-newline" /> 	<li style="font-weight: 400;"><span style="font-weight: 400;">Blocktime: 55 seconds</span></li><br class="xliff-newline" /> 	<li style="font-weight: 400;"><span style="font-weight: 400;">Maximum supply: 5000000000</span></li><br class="xliff-newline" /> 	<li style="font-weight: 400;"><span style="font-weight: 400;">Blocksize: 1 MB (to be changed to </span><b>Adaptive Blocks</b><span style="font-weight: 400;">)</span></li><br class="xliff-newline" /> 	<li style="font-weight: 400;"><span style="font-weight: 400;">Algorithm: PoWKeccak</span></li><br class="xliff-newline" /> 	<li style="font-weight: 400;">Difficulty Management: BRNDF</li><br class="xliff-newline" /></ul><br class="xliff-newline" /><h2 style="text-align: center;"><strong>Block reward split:</strong></h2><br class="xliff-newline" /><h2 style="text-align: center;"><span style="font-weight: 400;"><strong>30%</strong> </span></h2><br class="xliff-newline" /><h2 style="text-align: center;"><span style="font-weight: 400;"> Miners/SmartRewards</span></h2><br class="xliff-newline" /><h2 style="text-align: center;"><span style="font-weight: 400;">/SmartNodes</span></h2><br class="xliff-newline" /><h2 style="text-align: center;"></h2><br class="xliff-newline" /><h2 style="text-align: center;"><span style="font-weight: 400;"><strong>70%</strong><br class="xliff-newline" /></span></h2><br class="xliff-newline" /><h2 style="text-align: center;"><span style="font-weight: 400;">SmartHive/HiveTeams</span></h2><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-2-1470690" restype="string" datatype="html" id="package-string-2-1470690">
+        <source><![CDATA[<br class="xliff-newline" /><p style="text-align: left;"><span style="font-weight: 400;">SmartCash is a project born out of the desire to create a viable fast merchant oriented user friendly and community driven cryptocurrency with a decentralized governance system. </span>We aim to create the most nimble and fast growing cryptocurrency by aggressively prioritizing block rewards to growing our community hiring developers gaining merchant acceptance and via grassroots community outreach efforts and established marketing methods.</p><br class="xliff-newline" />]]></source>
+        <target xml:lang="ro" state="needs-translation"><![CDATA[<br class="xliff-newline" /><p style="text-align: left;"><span style="font-weight: 400;">SmartCash is a project born out of the desire to create a viable fast merchant oriented user friendly and community driven cryptocurrency with a decentralized governance system. </span>We aim to create the most nimble and fast growing cryptocurrency by aggressively prioritizing block rewards to growing our community hiring developers gaining merchant acceptance and via grassroots community outreach efforts and established marketing methods.</p><br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-2-1481263" restype="string" datatype="html" id="package-string-2-1481263">
+        <source><![CDATA[<br class="xliff-newline" />SmartCash has been specifically designed with adoption in mind.<br class="xliff-newline" />]]></source>
+        <target xml:lang="ro" state="needs-translation"><![CDATA[<br class="xliff-newline" />SmartCash has been specifically designed with adoption in mind.<br class="xliff-newline" />]]></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
