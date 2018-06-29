@@ -14,55 +14,55 @@
     <body>
       <trans-unit resname="title" restype="string" datatype="html" id="title">
         <source><![CDATA[Graphics]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Graphics]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Đồ hoạ]]></target>
       </trans-unit>
       <trans-unit resname="package-string-17-713747" restype="string" datatype="html" id="package-string-17-713747">
         <source><![CDATA[Logos & Icons]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Logos & Icons]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Logo & biểu tượng]]></target>
       </trans-unit>
       <trans-unit resname="package-string-17-713750" restype="string" datatype="html" id="package-string-17-713750">
         <source><![CDATA[<br class="xliff-newline" />These graphics can be used for display in online services retail establishments press or other promotional purposes<br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" />These graphics can be used for display in online services retail establishments press or other promotional purposes<br class="xliff-newline" />]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" />Những tài nguyên đồ họa này có thể được sử dụng cho các cửa hàng bán lẻ trực tuyến, báo chí hoặc các mục đích quảng cáo khác<br class="xliff-newline" />]]></target>
       </trans-unit>
       <trans-unit resname="package-string-17-713752" restype="string" datatype="html" id="package-string-17-713752">
         <source><![CDATA[<i class="wow-position icon-cloud-download wow-icon"></i> Graphics Resources]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<i class="wow-position icon-cloud-download wow-icon"></i> Graphics Resources]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<i class="wow-position icon-cloud-download wow-icon"></i> Tài nguyên đồ họa]]></target>
       </trans-unit>
       <trans-unit resname="package-string-17-729147" restype="string" datatype="html" id="package-string-17-729147">
         <source><![CDATA[<br class="xliff-newline" /><p style="text-align: center;"><strong>Logo No WordMark(.png)</strong></p><br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" /><p style="text-align: center;"><strong>Logo No WordMark(.png)</strong></p><br class="xliff-newline" />]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" /><p style="text-align: center;"><strong>Logo Không có WordMark (.png)</strong></p><br class="xliff-newline" />]]></target>
       </trans-unit>
       <trans-unit resname="package-string-17-729148" restype="string" datatype="html" id="package-string-17-729148">
         <source><![CDATA[<a href="https://www.dropbox.com/sh/icd7222nomwhop4/AACDXXNeRBgl6Vo_BjP3xnu5a/Logo%20Name%20Convention/Logo%20No%20WordMark?dl=0&preview=SmartCash+Logo+(S).png">Small</a>]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<a href="https://www.dropbox.com/sh/icd7222nomwhop4/AACDXXNeRBgl6Vo_BjP3xnu5a/Logo%20Name%20Convention/Logo%20No%20WordMark?dl=0&preview=SmartCash+Logo+(S).png">Small</a>]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<a href="https://www.dropbox.com/sh/icd7222nomwhop4/AACDXXNeRBgl6Vo_BjP3xnu5a/Logo%20Name%20Convention/Logo%20No%20WordMark?dl=0&preview=SmartCash+Logo+(S).png">Nhỏ</a>]]></target>
       </trans-unit>
       <trans-unit resname="package-string-17-729149" restype="string" datatype="html" id="package-string-17-729149">
         <source><![CDATA[<a href="https://www.dropbox.com/sh/icd7222nomwhop4/AACDXXNeRBgl6Vo_BjP3xnu5a/Logo%20Name%20Convention/Logo%20No%20WordMark?dl=0&preview=SmartCash+Logo+(M).png">Medium</a>]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<a href="https://www.dropbox.com/sh/icd7222nomwhop4/AACDXXNeRBgl6Vo_BjP3xnu5a/Logo%20Name%20Convention/Logo%20No%20WordMark?dl=0&preview=SmartCash+Logo+(M).png">Medium</a>]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<a href="https://www.dropbox.com/sh/icd7222nomwhop4/AACDXXNeRBgl6Vo_BjP3xnu5a/Logo%20Name%20Convention/Logo%20No%20WordMark?dl=0&preview=SmartCash+Logo+(M).png">Trung bình</a>]]></target>
       </trans-unit>
       <trans-unit resname="package-string-17-729150" restype="string" datatype="html" id="package-string-17-729150">
         <source><![CDATA[<a href="https://www.dropbox.com/sh/icd7222nomwhop4/AACDXXNeRBgl6Vo_BjP3xnu5a/Logo%20Name%20Convention/Logo%20No%20WordMark?dl=0&preview=SmartCash+Logo+(L).png">Large</a>]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<a href="https://www.dropbox.com/sh/icd7222nomwhop4/AACDXXNeRBgl6Vo_BjP3xnu5a/Logo%20Name%20Convention/Logo%20No%20WordMark?dl=0&preview=SmartCash+Logo+(L).png">Large</a>]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<a href="https://www.dropbox.com/sh/icd7222nomwhop4/AACDXXNeRBgl6Vo_BjP3xnu5a/Logo%20Name%20Convention/Logo%20No%20WordMark?dl=0&preview=SmartCash+Logo+(L).png">Lớn</a>]]></target>
       </trans-unit>
       <trans-unit resname="package-string-17-729151" restype="string" datatype="html" id="package-string-17-729151">
         <source><![CDATA[<br class="xliff-newline" /><p style="text-align: center;"><strong>Logo Round No WordMark(png)</strong></p><br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" /><p style="text-align: center;"><strong>Logo Round No WordMark(png)</strong></p><br class="xliff-newline" />]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" /><p style="text-align: center;"><strong>Logo Không có WordMark (.png)</strong></p><br class="xliff-newline" />]]></target>
       </trans-unit>
       <trans-unit resname="package-string-17-729152" restype="string" datatype="html" id="package-string-17-729152">
         <source><![CDATA[<a href="https://www.dropbox.com/sh/icd7222nomwhop4/AACweBRvKBSCvxy3xMC80y4Ya/Logo%20Name%20Convention/Logo%20Round%20No%20WordMark?dl=0&preview=Logo+Round+(S).png">Small</a>]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<a href="https://www.dropbox.com/sh/icd7222nomwhop4/AACweBRvKBSCvxy3xMC80y4Ya/Logo%20Name%20Convention/Logo%20Round%20No%20WordMark?dl=0&preview=Logo+Round+(S).png">Small</a>]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<a href="https://www.dropbox.com/sh/icd7222nomwhop4/AACweBRvKBSCvxy3xMC80y4Ya/Logo%20Name%20Convention/Logo%20Round%20No%20WordMark?dl=0&preview=Logo+Round+(S).png">Nhỏ</a>]]></target>
       </trans-unit>
       <trans-unit resname="package-string-17-729153" restype="string" datatype="html" id="package-string-17-729153">
         <source><![CDATA[<a href="https://www.dropbox.com/sh/icd7222nomwhop4/AACweBRvKBSCvxy3xMC80y4Ya/Logo%20Name%20Convention/Logo%20Round%20No%20WordMark?dl=0&preview=Logo+Round+(M).png">Medium</a>]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<a href="https://www.dropbox.com/sh/icd7222nomwhop4/AACweBRvKBSCvxy3xMC80y4Ya/Logo%20Name%20Convention/Logo%20Round%20No%20WordMark?dl=0&preview=Logo+Round+(M).png">Medium</a>]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<a href="https://www.dropbox.com/sh/icd7222nomwhop4/AACweBRvKBSCvxy3xMC80y4Ya/Logo%20Name%20Convention/Logo%20Round%20No%20WordMark?dl=0&preview=Logo+Round+(M).png">Trung bình</a>]]></target>
       </trans-unit>
       <trans-unit resname="package-string-17-729154" restype="string" datatype="html" id="package-string-17-729154">
         <source><![CDATA[<a href="https://www.dropbox.com/sh/icd7222nomwhop4/AACweBRvKBSCvxy3xMC80y4Ya/Logo%20Name%20Convention/Logo%20Round%20No%20WordMark?dl=0&preview=Logo+Round+(L).png">Large</a>]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<a href="https://www.dropbox.com/sh/icd7222nomwhop4/AACweBRvKBSCvxy3xMC80y4Ya/Logo%20Name%20Convention/Logo%20Round%20No%20WordMark?dl=0&preview=Logo+Round+(L).png">Large</a>]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<a href="https://www.dropbox.com/sh/icd7222nomwhop4/AACweBRvKBSCvxy3xMC80y4Ya/Logo%20Name%20Convention/Logo%20Round%20No%20WordMark?dl=0&preview=Logo+Round+(L).png">Lớn</a>]]></target>
       </trans-unit>
       <trans-unit resname="package-string-17-729155" restype="string" datatype="html" id="package-string-17-729155">
         <source><![CDATA[<br class="xliff-newline" /><p style="text-align: center;"><strong>Logo WordMark Below(png)</strong></p><br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" /><p style="text-align: center;"><strong>Logo WordMark Below(png)</strong></p><br class="xliff-newline" />]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" /><p style="text-align: center;"><strong>Logo WordMark bên dưới (png)</strong></p><br class="xliff-newline" />]]></target>
       </trans-unit>
       <trans-unit resname="package-string-17-729159" restype="string" datatype="html" id="package-string-17-729159">
         <source><![CDATA[<br class="xliff-newline" /><p style="text-align: center;"><strong>Logo WordMark On The Right(png)</strong></p><br class="xliff-newline" />]]></source>
