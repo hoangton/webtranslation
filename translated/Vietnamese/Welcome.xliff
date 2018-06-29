@@ -14,7 +14,7 @@
     <body>
       <trans-unit resname="field-_yoast_wpseo_title-0" restype="string" datatype="html" id="field-_yoast_wpseo_title-0">
         <source><![CDATA[SmartCash.cc | A Privacy & Governance focused Cryptocurrency]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[SmartCash.cc | A Privacy & Governance focused Cryptocurrency]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[SmartCash.cc | Một đồng tiền điện tử tập trung cộng đồng và người bán hàng]]></target>
       </trans-unit>
       <trans-unit resname="field-_yoast_wpseo_metadesc-0" restype="string" datatype="html" id="field-_yoast_wpseo_metadesc-0">
         <source><![CDATA[SmartCash is a brand new decentralized digital currency where every user has a voice while remaining safe secure and fungible all at the same time!]]></source>
