@@ -18,39 +18,39 @@
       </trans-unit>
       <trans-unit resname="field-_yoast_wpseo_metadesc-0" restype="string" datatype="html" id="field-_yoast_wpseo_metadesc-0">
         <source><![CDATA[SmartCash is a brand new decentralized digital currency where every user has a voice while remaining safe secure and fungible all at the same time!]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[SmartCash is a brand new decentralized digital currency where every user has a voice while remaining safe secure and fungible all at the same time!]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[SmartCash là một loại tiền tệ kỹ thuật số phi tập trung hoàn toàn mới, nơi mọi người dùng đều có tiếng nói bằng cách bỏ phiếu cho các dự án của cộng đồng!]]></target>
       </trans-unit>
       <trans-unit resname="field-_yoast_wpseo_focuskw-0" restype="string" datatype="html" id="field-_yoast_wpseo_focuskw-0">
         <source><![CDATA[smartcash]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[smartcash]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[smartcash]]></target>
       </trans-unit>
       <trans-unit resname="title" restype="string" datatype="html" id="title">
         <source><![CDATA[Welcome]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Welcome]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Chào mừng]]></target>
       </trans-unit>
       <trans-unit resname="t_134" restype="string" datatype="html" id="t_134">
         <source><![CDATA[Optional]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Optional]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Tùy chọn]]></target>
       </trans-unit>
       <trans-unit resname="package-string-1-6248" restype="string" datatype="html" id="package-string-1-6248">
         <source><![CDATA[Learn More]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Learn More]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Tìm Hiểu Thêm]]></target>
       </trans-unit>
       <trans-unit resname="package-string-1-6249" restype="string" datatype="html" id="package-string-1-6249">
         <source><![CDATA[manuallyhttp://]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[manuallyhttp://]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[thủ cônghttp: //]]></target>
       </trans-unit>
       <trans-unit resname="package-string-1-6250" restype="string" datatype="html" id="package-string-1-6250">
         <source><![CDATA[Click me]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Click me]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Nhấp vào đây]]></target>
       </trans-unit>
       <trans-unit resname="package-string-1-6263" restype="string" datatype="html" id="package-string-1-6263">
         <source><![CDATA[What Is SmartCash?]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[What Is SmartCash?]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[SmartCash là gì?]]></target>
       </trans-unit>
       <trans-unit resname="package-string-1-150575" restype="string" datatype="html" id="package-string-1-150575">
         <source><![CDATA[<br class="xliff-newline" /><strong>We strive to allow the community to control the fate of the coin the governance the budget usage and encourage community development.</strong><br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" /><strong>We strive to allow the community to control the fate of the coin the governance the budget usage and encourage community development.</strong><br class="xliff-newline" />]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" /><strong>Chúng tôi cố gắng để cho phép cộng đồng để kiểm soát số phận của đồng coin quản trị việc sử dụng ngân sách và khuyến khích phát triển cộng đồng.</strong><br class="xliff-newline" />]]></target>
       </trans-unit>
       <trans-unit resname="package-string-1-150616" restype="string" datatype="html" id="package-string-1-150616">
         <source><![CDATA[<br class="xliff-newline" /><strong>In order to provide a quality merchant experience having Instant Transactions is a must therefore say hello to InstantPay.</strong><br class="xliff-newline" />]]></source>
