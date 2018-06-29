@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file original="735-c4fe133fc06131e91c4aee2e48276f9c" source-language="en" target-language="lt" datatype="plaintext">
+  <file original="" source-language="en" target-language="lt" datatype="plaintext">
     <header>
       <phase-group>
         <phase phase-name="shortcodes" process-name="Shortcodes identification">
@@ -102,7 +102,7 @@
       </trans-unit>
       <trans-unit resname="package-string-9-1884945" restype="string" datatype="html" id="package-string-9-1884945">
         <source><![CDATA[<br class="xliff-newline" /><a href="https://card.smartcash.cc/beta/diCinu4iwNP3y5NYpF6N"><img class="aligncenter size-full wp-image-5925" src="https://smartcash.cc/wp-content/uploads/2018/03/SmartCard-Example.jpg" alt="" width="400" height="261" /></a><br class="xliff-newline" />]]></source>
-        <target><![CDATA[<br class="xliff-newline" /><a href="https://card.smartcash.cc/beta/diCinu4iwNP3y5NYpF6N"><img class="aligncenter size-full wp-image-5925" src="https://smartcash.cc/wp-content/uploads/2018/03/SmartCard-Example.jpg" alt="" width="400" height="261" /></a><br class="xliff-newline" />]]></target>
+        <target><![CDATA[<a href="https://card.smartcash.cc/beta/diCinu4iwNP3y5NYpF6N"><img class="aligncenter size-full wp-image-5925" src="https://smartcash.cc/wp-content/uploads/2018/03/SmartCard-Example.jpg" alt="" width="400" height="261" /></a>]]></target>
       </trans-unit>
       <trans-unit resname="package-string-9-1884946" restype="string" datatype="html" id="package-string-9-1884946">
         <source><![CDATA[<br class="xliff-newline" /><strong>generate addresses with a seed phrase! </strong><br class="xliff-newline" /><strong> <a href="https://paperwallet.smartcash.cc/hdwallet.html">Mnemonic Wallet</a></strong><br class="xliff-newline" />]]></source>
