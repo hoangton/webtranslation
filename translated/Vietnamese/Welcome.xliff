@@ -203,7 +203,10 @@
       </trans-unit>
       <trans-unit resname="package-string-1-1057827" restype="string" datatype="html" id="package-string-1-1057827">
         <source><![CDATA[<br class="xliff-newline" />SmartCash is a community governance cooperation & growth focused blockchain based currency & a decentralized economy.<br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" />SmartCash là một cộng đồng quản trị hợp tác và tập trung tăng trưởng blockchain dựa trên tiền tệ và một nền kinh tế phi tập trung.<br class="xliff-newline" />]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" />SmartCash là một mô hình quản trị cộng đồng hợp tác và tăng trưởng tập trung vào tiền tệ và một nền kinh tế phi tập trung dựa trên blockchain.<br class="xliff-newline" />]]></target>
+        <alt-trans>
+          <target xml:lang="vi"><![CDATA[<br class="xliff-newline" />SmartCash là một cộng đồng quản trị hợp tác và tập trung tăng trưởng blockchain dựa trên tiền tệ và một nền kinh tế phi tập trung.<br class="xliff-newline" />]]></target>
+        </alt-trans>
       </trans-unit>
       <trans-unit resname="package-string-1-1057828" restype="string" datatype="html" id="package-string-1-1057828">
         <source><![CDATA[Community Driven Growth & Funding]]></source>
