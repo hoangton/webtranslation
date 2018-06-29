@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file original="739-bbbdfa05f81972ad1be75378db7639b9" source-language="en" target-language="vi" datatype="plaintext">
+  <file original="740-8308622d9e4da63d4a2cff24deca39ff" source-language="en" target-language="vi" datatype="plaintext">
     <header>
       <phase-group>
         <phase phase-name="shortcodes" process-name="Shortcodes identification">
@@ -14,7 +14,7 @@
     <body>
       <trans-unit resname="field-_yoast_wpseo_title-0" restype="string" datatype="html" id="field-_yoast_wpseo_title-0">
         <source><![CDATA[SmartCash.cc | A Privacy & Governance focused Cryptocurrency]]></source>
-        <target xml:lang="vi" state="translated"><![CDATA[SmartCash.cc | Một đồng tiền điện tử tập trung cộng đồng và người bán hàng]]></target>
+        <target xml:lang="vi" state="needs-translation"><![CDATA[SmartCash.cc | A Privacy & Governance focused Cryptocurrency]]></target>
       </trans-unit>
       <trans-unit resname="field-_yoast_wpseo_metadesc-0" restype="string" datatype="html" id="field-_yoast_wpseo_metadesc-0">
         <source><![CDATA[SmartCash is a brand new decentralized digital currency where every user has a voice while remaining safe secure and fungible all at the same time!]]></source>
