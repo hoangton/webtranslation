@@ -30,7 +30,7 @@
       </trans-unit>
       <trans-unit resname="package-string-3-6355" restype="string" datatype="html" id="package-string-3-6355">
         <source><![CDATA[Where to Get SmartCash?]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Where to Get SmartCash?]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Lấy SmartCash ở đâu?]]></target>
       </trans-unit>
       <trans-unit resname="package-string-3-6357" restype="string" datatype="html" id="package-string-3-6357">
         <source><![CDATA[Use a Miner:]]></source>
@@ -42,79 +42,79 @@
       </trans-unit>
       <trans-unit resname="package-string-3-6362" restype="string" datatype="html" id="package-string-3-6362">
         <source><![CDATA[https://www.coinexchange.io/market/SMART/BTC]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[https://www.coinexchange.io/market/SMART/BTC]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[https://www.coinexchange.io/market/SMART/BTC]]></target>
       </trans-unit>
       <trans-unit resname="package-string-3-6363" restype="string" datatype="html" id="package-string-3-6363">
         <source><![CDATA[https://www.cryptochange.co.za/]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[https://www.cryptochange.co.za/]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[https://www.cryptochange.co.za/]]></target>
       </trans-unit>
       <trans-unit resname="package-string-3-8541" restype="string" datatype="html" id="package-string-3-8541">
         <source><![CDATA[https://hitbtc.com/]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[https://hitbtc.com/]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[https://hitbtc.com/]]></target>
       </trans-unit>
       <trans-unit resname="package-string-3-8542" restype="string" datatype="html" id="package-string-3-8542">
         <source><![CDATA[http://monkeycoin.com.ve/]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[http://monkeycoin.com.ve/]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[http://monkeycoin.com.ve/]]></target>
       </trans-unit>
       <trans-unit resname="package-string-3-30368" restype="string" datatype="html" id="package-string-3-30368">
         <source><![CDATA[<br class="xliff-newline" /><br class="xliff-newline" /><a href="https://smartcash.cc/wallets/"><br class="xliff-newline" />Download</a><br class="xliff-newline" /><br class="xliff-newline" /><br class="xliff-newline" /><br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" /><br class="xliff-newline" /><a href="https://smartcash.cc/wallets/"><br class="xliff-newline" />Download</a><br class="xliff-newline" /><br class="xliff-newline" /><br class="xliff-newline" /><br class="xliff-newline" />]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" /><br class="xliff-newline" /><a href="https://smartcash.cc/wallets/"><br class="xliff-newline" />Tải xuống</a><br class="xliff-newline" /><br class="xliff-newline" /><br class="xliff-newline" /><br class="xliff-newline" />]]></target>
       </trans-unit>
       <trans-unit resname="package-string-3-30369" restype="string" datatype="html" id="package-string-3-30369">
         <source><![CDATA[Wallet ]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Wallet ]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Ví ]]></target>
       </trans-unit>
       <trans-unit resname="package-string-3-33228" restype="string" datatype="html" id="package-string-3-33228">
         <source><![CDATA[<br class="xliff-newline" /><a href="https://github.com/tpruvot/ccminer/releases"><br class="xliff-newline" />GPU NVIDIA miner</a><br class="xliff-newline" /><br class="xliff-newline" /><a href="https://github.com/genesismining/sgminer-gm/releases"><br class="xliff-newline" />GPU AMD miner</a><br class="xliff-newline" /><br class="xliff-newline" /><br class="xliff-newline" />For mining support please join <br class="xliff-newline" /> <a href="https://discord.gg/BDUh8jr" > Discord</a><br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" /><a href="https://github.com/tpruvot/ccminer/releases"><br class="xliff-newline" />GPU NVIDIA miner</a><br class="xliff-newline" /><br class="xliff-newline" /><a href="https://github.com/genesismining/sgminer-gm/releases"><br class="xliff-newline" />GPU AMD miner</a><br class="xliff-newline" /><br class="xliff-newline" /><br class="xliff-newline" />For mining support please join <br class="xliff-newline" /> <a href="https://discord.gg/BDUh8jr" > Discord</a><br class="xliff-newline" />]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" /><a href="https://github.com/tpruvot/ccminer/releases"><br class="xliff-newline" />GPU NVIDIA miner</a><br class="xliff-newline" /><br class="xliff-newline" /><a href="https://github.com/genesismining/sgminer-gm/releases"><br class="xliff-newline" />GPU AMD miner</a><br class="xliff-newline" /><br class="xliff-newline" /><br class="xliff-newline" />Để được hỗ trợ khai thác, vui lòng tham gia <br class="xliff-newline" /> <a href="https://discord.gg/BDUh8jr" > Discord</a><br class="xliff-newline" />]]></target>
       </trans-unit>
       <trans-unit resname="package-string-3-206979" restype="string" datatype="html" id="package-string-3-206979">
         <source><![CDATA[https://crypto-bridge.org/]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[https://crypto-bridge.org/]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[https://crypto-bridge.org/]]></target>
       </trans-unit>
       <trans-unit resname="package-string-3-223052" restype="string" datatype="html" id="package-string-3-223052">
         <source><![CDATA[http://bitcoinp2p.com.br]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[http://bitcoinp2p.com.br]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[http://bitcoinp2p.com.br]]></target>
       </trans-unit>
       <trans-unit resname="package-string-3-301777" restype="string" datatype="html" id="package-string-3-301777">
         <source><![CDATA[https://localbitcoincash.org/index.asp]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[https://localbitcoincash.org/index.asp]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[https://localbitcoincash.org/index.asp]]></target>
       </trans-unit>
       <trans-unit resname="package-string-3-301779" restype="string" datatype="html" id="package-string-3-301779">
         <source><![CDATA[https://cryptowolf.eu/]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[https://cryptowolf.eu/]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[https://cryptowolf.eu/]]></target>
       </trans-unit>
       <trans-unit resname="package-string-3-467513" restype="string" datatype="html" id="package-string-3-467513">
         <source><![CDATA[http://www.ebitcoinics.com/]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[http://www.ebitcoinics.com/]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[http://www.ebitcoinics.com/]]></target>
       </trans-unit>
       <trans-unit resname="package-string-3-678192" restype="string" datatype="html" id="package-string-3-678192">
         <source><![CDATA[https://komodoplatform.com/decentralized-exchange/]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[https://komodoplatform.com/decentralized-exchange/]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[https://komodoplatform.com/decentralized-exchange/]]></target>
       </trans-unit>
       <trans-unit resname="package-string-3-925819" restype="string" datatype="html" id="package-string-3-925819">
         <source><![CDATA[https://stratum.hk/]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[https://stratum.hk/]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[https://stratum.hk/]]></target>
       </trans-unit>
       <trans-unit resname="package-string-3-1023249" restype="string" datatype="html" id="package-string-3-1023249">
         <source><![CDATA[https://tradesatoshi.com/Exchange/?market=SMART_BTC]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[https://tradesatoshi.com/Exchange/?market=SMART_BTC]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[https://tradesatoshi.com/Exchange/?market=SMART_BTC]]></target>
       </trans-unit>
       <trans-unit resname="package-string-3-1256147" restype="string" datatype="html" id="package-string-3-1256147">
         <source><![CDATA[<i class="wow-position fa fa-exchange wow-icon"></i> EXCHANGES]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<i class="wow-position fa fa-exchange wow-icon"></i> EXCHANGES]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<i class="wow-position fa fa-exchange wow-icon"></i> SÀN GIAO DỊCH]]></target>
       </trans-unit>
       <trans-unit resname="package-string-3-1818558" restype="string" datatype="html" id="package-string-3-1818558">
         <source><![CDATA[https://www.coinbene.com/]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[https://www.coinbene.com/]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[https://www.coinbene.com/]]></target>
       </trans-unit>
       <trans-unit resname="package-string-3-1818559" restype="string" datatype="html" id="package-string-3-1818559">
         <source><![CDATA[https://bitebtc.com/trade/smart_btc]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[https://bitebtc.com/trade/smart_btc]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[https://bitebtc.com/trade/smart_btc]]></target>
       </trans-unit>
       <trans-unit resname="package-string-3-1884931" restype="string" datatype="html" id="package-string-3-1884931">
         <source><![CDATA[Turn altcoins into Smartcash instantly]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Turn altcoins into Smartcash instantly]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Biến altcoin thành Smartcash ngay lập tức]]></target>
       </trans-unit>
     </body>
   </file>
