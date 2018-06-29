@@ -58,15 +58,24 @@
       </trans-unit>
       <trans-unit resname="package-string-1-150618" restype="string" datatype="html" id="package-string-1-150618">
         <source><![CDATA[<strong>SmartHive<strong>]]></source>
-        <target xml:lang="vi" state="translated"><![CDATA[<strong>SmartHive<strong>]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<strong>SmartHive</strong>]]></target>
+        <alt-trans>
+          <target xml:lang="vi"><![CDATA[<strong>SmartHive<strong>]]></target>
+        </alt-trans>
       </trans-unit>
       <trans-unit resname="package-string-1-150620" restype="string" datatype="html" id="package-string-1-150620">
         <source><![CDATA[<strong>SmartRewards<strong>]]></source>
-        <target xml:lang="vi" state="translated"><![CDATA[<strong>SmartRewards<strong>]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<strong>SmartRewards</strong>]]></target>
+        <alt-trans>
+          <target xml:lang="vi"><![CDATA[<strong>SmartRewards<strong>]]></target>
+        </alt-trans>
       </trans-unit>
       <trans-unit resname="package-string-1-150621" restype="string" datatype="html" id="package-string-1-150621">
         <source><![CDATA[<strong>InstantPay<strong>]]></source>
-        <target xml:lang="vi" state="translated"><![CDATA[<strong>InstantPay<strong>]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<strong>InstantPay</strong>]]></target>
+        <alt-trans>
+          <target xml:lang="vi"><![CDATA[<strong>InstantPay<strong>]]></target>
+        </alt-trans>
       </trans-unit>
       <trans-unit resname="package-string-1-175503" restype="string" datatype="html" id="package-string-1-175503">
         <source><![CDATA[<br class="xliff-newline" /><p style="max-width: 800px; margin: 0px auto;">SmartCash is pursuing a very ambitious development schedule and is constantly improving. Do you have a talent that could help? Join us on our community Discord and find ways to contribute.<br class="xliff-newline" />]]></source>
