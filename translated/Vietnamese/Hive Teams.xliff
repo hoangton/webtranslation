@@ -290,27 +290,27 @@
       </trans-unit>
       <trans-unit resname="package-string-6-1214414" restype="string" datatype="html" id="package-string-6-1214414">
         <source><![CDATA[<br class="xliff-newline" /><h1>Wanna Get Involved?</h1><br class="xliff-newline" />The SmartHive has a place for folks of all backgrounds. Come hungry!<br class="xliff-newline" /><br class="xliff-newline" />We believe ‘Core’ teams are a bad idea and something that ultimately leads to inefficiency and corruption. We want to move past it and create a decentralized organizational model inspired by ant and bee colonies.<br class="xliff-newline" /><br class="xliff-newline" />In order to create and maintain a decentralized governance structure we are introducing two concepts SmartHive and Hive Structuring Teams (HST). SmartHive enables anyone that holds coins the opportunity to vote on proposals submitted by the community. SmartHive will be the lifeblood of the project which will allow anyone to get involved and submit proposals helping to generate organic growth at a grassroots level creating a bottom-up management structure.<br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" /><h1>Wanna Get Involved?</h1><br class="xliff-newline" />The SmartHive has a place for folks of all backgrounds. Come hungry!<br class="xliff-newline" /><br class="xliff-newline" />We believe ‘Core’ teams are a bad idea and something that ultimately leads to inefficiency and corruption. We want to move past it and create a decentralized organizational model inspired by ant and bee colonies.<br class="xliff-newline" /><br class="xliff-newline" />In order to create and maintain a decentralized governance structure we are introducing two concepts SmartHive and Hive Structuring Teams (HST). SmartHive enables anyone that holds coins the opportunity to vote on proposals submitted by the community. SmartHive will be the lifeblood of the project which will allow anyone to get involved and submit proposals helping to generate organic growth at a grassroots level creating a bottom-up management structure.<br class="xliff-newline" />]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" /><h1>Muốn tham gia?</h1><br class="xliff-newline" />SmartHive là nơi dành cho tất cả mọi người. Hãy đến đói!<br class="xliff-newline" /><br class="xliff-newline" />Chúng tôi tin rằng các đội 'Lõi' là một ý tưởng tồi và điều đó cuối cùng dẫn đến sự kém hiệu quả và tham nhũng. Chúng tôi muốn vượt qua nó và tạo ra một mô hình tổ chức phi tập trung lấy cảm hứng từ đàn kiến ​​và đàn ong.<br class="xliff-newline" /><br class="xliff-newline" />Để tạo ra và duy trì một cơ cấu quản trị phi tập trung, chúng tôi giới thiệu hai khái niệm SmartHive và Hive Structuring Teams (HST). SmartHive cho phép bất kỳ ai nắm giữ tiền xu có cơ hội bỏ phiếu cho các đề xuất do cộng đồng gửi. SmartHive sẽ là mạch máu của dự án mà sẽ cho phép bất cứ ai tham gia và gửi các đề xuất giúp tạo ra tăng trưởng ở cấp cơ sở, tạo ra cơ cấu quản lý từ dưới lên.<br class="xliff-newline" />]]></target>
       </trans-unit>
       <trans-unit resname="package-string-6-1782775" restype="string" datatype="html" id="package-string-6-1782775">
         <source><![CDATA[Mark is a blockchain advocate focusing on expanding the reach of SmartCash through proposals and exchanges. Editor of "<a href="https://medium.com/@smartcashnews">Your Week in SmartCash</a>".<br class="xliff-newline" /><br class="xliff-newline" /><a href="https://www.linkedin.com/in/markhakkarinen/">LinkedIn</a> <a href="mailto:mark@smartcash.cc">Email</a>]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Mark is a blockchain advocate focusing on expanding the reach of SmartCash through proposals and exchanges. Editor of "<a href="https://medium.com/@smartcashnews">Your Week in SmartCash</a>".<br class="xliff-newline" /><br class="xliff-newline" /><a href="https://www.linkedin.com/in/markhakkarinen/">LinkedIn</a> <a href="mailto:mark@smartcash.cc">Email</a>]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Mark là một người ủng hộ blockchain tập trung vào việc mở rộng phạm vi của SmartCash thông qua các đề xuất và trao đổi. Biên tập viên của "<a href="https://medium.com/@smartcashnews">Tuần san của SmartCash</a>".<br class="xliff-newline" /><br class="xliff-newline" /><a href="https://www.linkedin.com/in/markhakkarinen/">LinkedIn</a> <a href="mailto:mark@smartcash.cc">Email</a>]]></target>
       </trans-unit>
       <trans-unit resname="package-string-6-1921325" restype="string" datatype="html" id="package-string-6-1921325">
         <source><![CDATA[Linkedin]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Linkedin]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[LinkedIn]]></target>
       </trans-unit>
       <trans-unit resname="package-string-6-1921326" restype="string" datatype="html" id="package-string-6-1921326">
         <source><![CDATA[https://www.linkedin.com/in/markhakkarinen/]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[https://www.linkedin.com/in/markhakkarinen/]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[https://www.linkedin.com/in/markhakkarinen/]]></target>
       </trans-unit>
       <trans-unit resname="package-string-6-1921327" restype="string" datatype="html" id="package-string-6-1921327">
         <source><![CDATA[Email]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Email]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Email]]></target>
       </trans-unit>
       <trans-unit resname="package-string-6-1921328" restype="string" datatype="html" id="package-string-6-1921328">
         <source><![CDATA[mailto:mark@smartcash.cc]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[mailto:mark@smartcash.cc]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[mailto: mark@smartcash.cc]]></target>
       </trans-unit>
     </body>
   </file>
