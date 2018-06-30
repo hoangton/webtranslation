@@ -14,7 +14,7 @@
     <body>
       <trans-unit resname="field-_yoast_wpseo_focuskw-0" restype="string" datatype="html" id="field-_yoast_wpseo_focuskw-0">
         <source><![CDATA[SmartRewards]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[SmartRewards]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[SmartRewards]]></target>
       </trans-unit>
       <trans-unit resname="title" restype="string" datatype="html" id="title">
         <source><![CDATA[What Are SmartRewards?]]></source>
