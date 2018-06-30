@@ -14,27 +14,27 @@
     <body>
       <trans-unit resname="title" restype="string" datatype="html" id="title">
         <source><![CDATA[SmartNodes]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[SmartNodes]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[SmartNodes]]></target>
       </trans-unit>
       <trans-unit resname="package-string-14-206981" restype="string" datatype="html" id="package-string-14-206981">
         <source><![CDATA[What are SmartNodes?]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[What are SmartNodes?]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[SmartNodes là gì?]]></target>
       </trans-unit>
       <trans-unit resname="package-string-14-207006" restype="string" datatype="html" id="package-string-14-207006">
         <source><![CDATA[SmartNodes FAQ’s]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[SmartNodes FAQ’s]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Câu hỏi thường gặp về SmartNodes]]></target>
       </trans-unit>
       <trans-unit resname="package-string-14-208245" restype="string" datatype="html" id="package-string-14-208245">
         <source><![CDATA[Show Calculator]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Show Calculator]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Hiển thị Calculator]]></target>
       </trans-unit>
       <trans-unit resname="package-string-14-209483" restype="string" datatype="html" id="package-string-14-209483">
         <source><![CDATA[<br class="xliff-newline" />Same address that have 10000 smartcash in 1 input<br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" />Same address that have 10000 smartcash in 1 input<br class="xliff-newline" />]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" />Cùng địa chỉ có 10000 smartcash trong 1 đầu vào<br class="xliff-newline" />]]></target>
       </trans-unit>
       <trans-unit resname="package-string-14-209485" restype="string" datatype="html" id="package-string-14-209485">
         <source><![CDATA[<br class="xliff-newline" />No only VPS need to run 24/7<br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" />No only VPS need to run 24/7<br class="xliff-newline" />]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" />Không chỉ VPS cần chạy 24/7<br class="xliff-newline" />]]></target>
       </trans-unit>
       <trans-unit resname="package-string-14-223054" restype="string" datatype="html" id="package-string-14-223054">
         <source><![CDATA[<br class="xliff-newline" /><iframe src="https://smartcash.bitcoiner.me/smartnodes/calculator/" width="100%" height="600px" frameborder="0"></iframe><br class="xliff-newline" />]]></source>
@@ -42,19 +42,19 @@
       </trans-unit>
       <trans-unit resname="package-string-14-223060" restype="string" datatype="html" id="package-string-14-223060">
         <source><![CDATA[<br class="xliff-newline" />10% Block Reward paid to the node waiting the longest to be paid.<br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" />10% Block Reward paid to the node waiting the longest to be paid.<br class="xliff-newline" />]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" />10% Phần thưởng khối được trả cho node chờ đợi lâu nhất.<br class="xliff-newline" />]]></target>
       </trans-unit>
       <trans-unit resname="package-string-14-223061" restype="string" datatype="html" id="package-string-14-223061">
         <source><![CDATA[<br class="xliff-newline" /><strong>1.In VPS</strong><br class="xliff-newline" /><br class="xliff-newline" />Don't need. SmartNodes should sync fast from a VPS<br class="xliff-newline" /><br class="xliff-newline" /><strong>2. In Local Wallet</strong><br class="xliff-newline" /><br class="xliff-newline" /><a href="https://smartcash.freshdesk.com/support/solutions/articles/35000027174-using-the-bootstrap-to-speedup-sync-when-upgrade-wallet">https://smartcash.freshdesk.com/support/solutions/articles/35000027174-using-the-bootstrap-to-speedup-sync-when-upgrade-wallet</a><br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" /><strong>1.In VPS</strong><br class="xliff-newline" /><br class="xliff-newline" />Don't need. SmartNodes should sync fast from a VPS<br class="xliff-newline" /><br class="xliff-newline" /><strong>2. In Local Wallet</strong><br class="xliff-newline" /><br class="xliff-newline" /><a href="https://smartcash.freshdesk.com/support/solutions/articles/35000027174-using-the-bootstrap-to-speedup-sync-when-upgrade-wallet">https://smartcash.freshdesk.com/support/solutions/articles/35000027174-using-the-bootstrap-to-speedup-sync-when-upgrade-wallet</a><br class="xliff-newline" />]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" /><strong>1.Trong VPS</strong><br class="xliff-newline" /><br class="xliff-newline" />Không cần. SmartNodes đồng bộ nhanh ở VPS<br class="xliff-newline" /><br class="xliff-newline" /><strong>2. Trong Ví Desktop</strong><br class="xliff-newline" /><br class="xliff-newline" /><a href="https://smartcash.freshdesk.com/support/solutions/articles/35000027174-using-the-bootstrap-to-speedup-sync-when-upgrade-wallet">https://smartcash.freshdesk.com/support/solutions/articles/35000027174-using-the-bootstrap-to-speedup-sync-when-upgrade-wallet</a><br class="xliff-newline" />]]></target>
       </trans-unit>
       <trans-unit resname="package-string-14-223064" restype="string" datatype="html" id="package-string-14-223064">
         <source><![CDATA[<br class="xliff-newline" />VPS should have a static IP that never changes. If you move to a new VPS then follow the setup guide and generate a new smartnode key update local smartnode.conf and remote smartcash.conf<br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" />VPS should have a static IP that never changes. If you move to a new VPS then follow the setup guide and generate a new smartnode key update local smartnode.conf and remote smartcash.conf<br class="xliff-newline" />]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" />VPS nên có một IP tĩnh mà không bao giờ thay đổi. Nếu bạn di chuyển đến một VPS mới, hãy làm theo hướng dẫn cài đặt và tạo smartnode key mới cập nhật smartnode.conf ở ví Desktop và smartcash.conf ở  VPS<br class="xliff-newline" />]]></target>
       </trans-unit>
       <trans-unit resname="package-string-14-223065" restype="string" datatype="html" id="package-string-14-223065">
         <source><![CDATA[<br class="xliff-newline" />Please visit <strong><a href="https://discord.gg/BDUh8jr">#smartnodes on Discord</a></strong> follow <strong><a href="https://twitter.com/smartcashassist">SmartCash support on Twitter</a></strong> or consult our <strong><a href="https://smartcash.freshdesk.com/">SmartCash support platform</a></strong><br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" />Please visit <strong><a href="https://discord.gg/BDUh8jr">#smartnodes on Discord</a></strong> follow <strong><a href="https://twitter.com/smartcashassist">SmartCash support on Twitter</a></strong> or consult our <strong><a href="https://smartcash.freshdesk.com/">SmartCash support platform</a></strong><br class="xliff-newline" />]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" />Vui lòng truy cập<strong><a href="https://discord.gg/BDUh8jr">#smartnodes trên Discord</a></strong> theo dõi<strong><a href="https://twitter.com/smartcashassist">SmartCash hỗ trợ trên Twitter</a></strong>hoặc tham khảo cổng thông tin hỗ trợ SmartCash<strong><a href="https://smartcash.freshdesk.com/">của chúng tôi</a></strong><br class="xliff-newline" />]]></target>
       </trans-unit>
       <trans-unit resname="package-string-14-228871" restype="string" datatype="html" id="package-string-14-228871">
         <source><![CDATA[<br class="xliff-newline" />SmartNodes are servers that run a SmartCash wallet and make decisions such as locking transactions with InstantPay. SmartNodes are required to have 10000 SMART collateral a dedicated VPS (IPv4 address 1GB RAM 20GB drive) and be able to run 24 hours a day without a more than an hour of connection loss. SmartNodes get paid 10% of the block reward on every block which is distributed to SmartNodes one at a time.<br class="xliff-newline" /><br class="xliff-newline" />SmartNodes enable the following services:<br class="xliff-newline" /><ul><br class="xliff-newline" /> 	<li><b>InstantPay </b>(instant transactions). In contrast Bitcoin takes about 10 minutes to confirm a payment.</li><br class="xliff-newline" /></ul><br class="xliff-newline" /><ul><br class="xliff-newline" /> 	<li>Will have more services added later</li><br class="xliff-newline" /></ul><br class="xliff-newline" />]]></source>
