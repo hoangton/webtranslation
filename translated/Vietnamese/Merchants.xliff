@@ -14,155 +14,155 @@
     <body>
       <trans-unit resname="title" restype="string" datatype="html" id="title">
         <source><![CDATA[Merchants]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Merchants]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Người bán]]></target>
       </trans-unit>
       <trans-unit resname="package-string-10-30344" restype="string" datatype="html" id="package-string-10-30344">
         <source><![CDATA[Start Accepting SmartCash Today! ]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Start Accepting SmartCash Today! ]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Bắt đầu chấp nhận SmartCash ngay hôm nay! ]]></target>
       </trans-unit>
       <trans-unit resname="package-string-10-30357" restype="string" datatype="html" id="package-string-10-30357">
         <source><![CDATA[SmartCash Merchant’s Directory]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[SmartCash Merchant’s Directory]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Danh bạ của SmartCash Merchant]]></target>
       </trans-unit>
       <trans-unit resname="package-string-10-30362" restype="string" datatype="html" id="package-string-10-30362">
         <source><![CDATA[Submit Your Business]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Submit Your Business]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Gửi doanh nghiệp của bạn]]></target>
       </trans-unit>
       <trans-unit resname="package-string-10-114541" restype="string" datatype="html" id="package-string-10-114541">
         <source><![CDATA[https://meccamino.com.au/]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[https://meccamino.com.au/]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[https://meccamino.com.au/]]></target>
       </trans-unit>
       <trans-unit resname="package-string-10-114542" restype="string" datatype="html" id="package-string-10-114542">
         <source><![CDATA[https://www.telescopeadapters.com/]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[https://www.telescopeadapters.com/]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[https://www.telescopeadapters.com/]]></target>
       </trans-unit>
       <trans-unit resname="package-string-10-133105" restype="string" datatype="html" id="package-string-10-133105">
         <source><![CDATA[https://www.cryptomined.com/]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[https://www.cryptomined.com/]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[https://www.cryptomined.com/]]></target>
       </trans-unit>
       <trans-unit resname="package-string-10-133442" restype="string" datatype="html" id="package-string-10-133442">
         <source><![CDATA[https://smartie.shop]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[https://smartie.shop]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[https://smartie.shop]]></target>
       </trans-unit>
       <trans-unit resname="package-string-10-531729" restype="string" datatype="html" id="package-string-10-531729">
         <source><![CDATA[https://giacobbeandco.com/]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[https://giacobbeandco.com/]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[https://giacobbeandco.com/]]></target>
       </trans-unit>
       <trans-unit resname="package-string-10-533993" restype="string" datatype="html" id="package-string-10-533993">
         <source><![CDATA[<br class="xliff-newline" />If you accept SmartCash for your freelance services your small business or anything else let us know and we will add you to our directory of Smarties! Anyone can start using <a href="https://www.coinpayments.net/">www.CoinPayments.net</a> to start accepting SmartCash today!<br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" />If you accept SmartCash for your freelance services your small business or anything else let us know and we will add you to our directory of Smarties! Anyone can start using <a href="https://www.coinpayments.net/">www.CoinPayments.net</a> to start accepting SmartCash today!<br class="xliff-newline" />]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" />Nếu bạn chấp nhận SmartCash cho các dịch vụ freelance của bạn, cho doanh nghiệp nhỏ của bạn hoặc bất cứ điều gì khác hãy cho chúng tôi biết và chúng tôi sẽ thêm bạn vào danh bạ Smarties của chúng tôi! Bất cứ ai cũng có thể bắt đầu sử dụng <a href="https://www.coinpayments.net/">www.CoinPayments.net</a> để chấp nhận SmartCash ngay hôm nay!<br class="xliff-newline" />]]></target>
       </trans-unit>
       <trans-unit resname="package-string-10-533995" restype="string" datatype="html" id="package-string-10-533995">
         <source><![CDATA[<br class="xliff-newline" /><h1 style="text-align: center;">Featured Merchants</h1><br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" /><h1 style="text-align: center;">Featured Merchants</h1><br class="xliff-newline" />]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" /><h1 style="text-align: center;">Người bán nổi bật</h1><br class="xliff-newline" />]]></target>
       </trans-unit>
       <trans-unit resname="package-string-10-533997" restype="string" datatype="html" id="package-string-10-533997">
         <source><![CDATA[<br class="xliff-newline" /><h3 style="text-align: center;"><span id="category-title">Gift Cards</span></h3><br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" /><h3 style="text-align: center;"><span id="category-title">Gift Cards</span></h3><br class="xliff-newline" />]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" /><h3 style="text-align: center;"><span id="category-title">Thẻ quà tặng</span></h3><br class="xliff-newline" />]]></target>
       </trans-unit>
       <trans-unit resname="package-string-10-533998" restype="string" datatype="html" id="package-string-10-533998">
         <source><![CDATA[Bitcoincards – bitcoin giftcards]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Bitcoincards – bitcoin giftcards]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Bitcoincards - thẻ quà tặng bitcoin]]></target>
       </trans-unit>
       <trans-unit resname="package-string-10-533999" restype="string" datatype="html" id="package-string-10-533999">
         <source><![CDATA[https://bitcoincards.io/]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[https://bitcoincards.io/]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[https://bitcoincards.io/]]></target>
       </trans-unit>
       <trans-unit resname="package-string-10-534000" restype="string" datatype="html" id="package-string-10-534000">
         <source><![CDATA[Sheldon.store – Gift cards shop]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Sheldon.store – Gift cards shop]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Sheldon.store - Cửa hàng quà tặng]]></target>
       </trans-unit>
       <trans-unit resname="package-string-10-534001" restype="string" datatype="html" id="package-string-10-534001">
         <source><![CDATA[https://www.sheldon.store/]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[https://www.sheldon.store/]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[https://www.sheldon.store/]]></target>
       </trans-unit>
       <trans-unit resname="package-string-10-534003" restype="string" datatype="html" id="package-string-10-534003">
         <source><![CDATA[Ohm handpans – special musical instrument]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Ohm handpans – special musical instrument]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Ohm handpans-dụng cụ âm nhạc đặc biệt]]></target>
       </trans-unit>
       <trans-unit resname="package-string-10-534004" restype="string" datatype="html" id="package-string-10-534004">
         <source><![CDATA[https://www.ohmhandpans.com]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[https://www.ohmhandpans.com]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[https://www.ohmhandpans.com]]></target>
       </trans-unit>
       <trans-unit resname="package-string-10-534009" restype="string" datatype="html" id="package-string-10-534009">
         <source><![CDATA[Offshorehostingspace – VPS hosting service]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Offshorehostingspace – VPS hosting service]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Offshorehostingspace - Dịch vụ VPS]]></target>
       </trans-unit>
       <trans-unit resname="package-string-10-534010" restype="string" datatype="html" id="package-string-10-534010">
         <source><![CDATA[http://offshorehostingspace.org/]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[http://offshorehostingspace.org/]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[http://offshorehostingspace.org/]]></target>
       </trans-unit>
       <trans-unit resname="package-string-10-534011" restype="string" datatype="html" id="package-string-10-534011">
         <source><![CDATA[Snel – Cloud hosting platform]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Snel – Cloud hosting platform]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Snel - Nền tảng lưu trữ đám mây]]></target>
       </trans-unit>
       <trans-unit resname="package-string-10-534012" restype="string" datatype="html" id="package-string-10-534012">
         <source><![CDATA[https://www.snel.com/]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[https://www.snel.com/]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[https://www.snel.com/]]></target>
       </trans-unit>
       <trans-unit resname="package-string-10-534013" restype="string" datatype="html" id="package-string-10-534013">
         <source><![CDATA[VPS-City – High End VPS Dedicated Servers or Cloud Hosting Solutions]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[VPS-City – High End VPS Dedicated Servers or Cloud Hosting Solutions]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[VPS-City - VPS cao cấp Máy chủ chuyên dụng hoặc giải pháp lưu trữ đám mây]]></target>
       </trans-unit>
       <trans-unit resname="package-string-10-534014" restype="string" datatype="html" id="package-string-10-534014">
         <source><![CDATA[https://vps-city.com/]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[https://vps-city.com/]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[https://vps-city.com/]]></target>
       </trans-unit>
       <trans-unit resname="package-string-10-534015" restype="string" datatype="html" id="package-string-10-534015">
         <source><![CDATA[<br class="xliff-newline" /><h3 style="text-align: center;"><span id="category-title">Web Stores</span></h3><br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" /><h3 style="text-align: center;"><span id="category-title">Web Stores</span></h3><br class="xliff-newline" />]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" /><h3 style="text-align: center;"><span id="category-title">Cửa hàng trực tuyến</span></h3><br class="xliff-newline" />]]></target>
       </trans-unit>
       <trans-unit resname="package-string-10-534016" restype="string" datatype="html" id="package-string-10-534016">
         <source><![CDATA[Meccamino – Dietary supplement online-store]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Meccamino – Dietary supplement online-store]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Meccamino - Cửa hàng trực tuyến đồ ăn kiêng]]></target>
       </trans-unit>
       <trans-unit resname="package-string-10-534017" restype="string" datatype="html" id="package-string-10-534017">
         <source><![CDATA[UBBBK – online book store]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[UBBBK – online book store]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[UBBBK - cửa hàng sách trực tuyến]]></target>
       </trans-unit>
       <trans-unit resname="package-string-10-534018" restype="string" datatype="html" id="package-string-10-534018">
         <source><![CDATA[https://ubbbk.com/]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[https://ubbbk.com/]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[https://ubbbk.com/]]></target>
       </trans-unit>
       <trans-unit resname="package-string-10-534019" restype="string" datatype="html" id="package-string-10-534019">
         <source><![CDATA[ 101 vape – online vape store]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[ 101 vape – online vape store]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[ 101 vape - cửa hàng vape trực tuyến]]></target>
       </trans-unit>
       <trans-unit resname="package-string-10-534020" restype="string" datatype="html" id="package-string-10-534020">
         <source><![CDATA[https://101vape.com/]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[https://101vape.com/]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[https://101vape.com/]]></target>
       </trans-unit>
       <trans-unit resname="package-string-10-534021" restype="string" datatype="html" id="package-string-10-534021">
         <source><![CDATA[101 vape – online vape store]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[101 vape – online vape store]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[101 vape - cửa hàng vape trực tuyến]]></target>
       </trans-unit>
       <trans-unit resname="package-string-10-534022" restype="string" datatype="html" id="package-string-10-534022">
         <source><![CDATA[<br class="xliff-newline" /><h3 style="text-align: center;"><span id="category-title">Cryptocurrency Related</span></h3><br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" /><h3 style="text-align: center;"><span id="category-title">Cryptocurrency Related</span></h3><br class="xliff-newline" />]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" /><h3 style="text-align: center;"><span id="category-title">Liên quan tiền điện tử</span></h3><br class="xliff-newline" />]]></target>
       </trans-unit>
       <trans-unit resname="package-string-10-534023" restype="string" datatype="html" id="package-string-10-534023">
         <source><![CDATA[BitStickers – Cryptocurrency related stickers]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[BitStickers – Cryptocurrency related stickers]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[BitStickers - Miếng dán liên quan đến tiền điện tử]]></target>
       </trans-unit>
       <trans-unit resname="package-string-10-534024" restype="string" datatype="html" id="package-string-10-534024">
         <source><![CDATA[https://bitstickers.net/]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[https://bitstickers.net/]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[https://bitstickers.net/]]></target>
       </trans-unit>
       <trans-unit resname="package-string-10-534025" restype="string" datatype="html" id="package-string-10-534025">
         <source><![CDATA[Cryptomined – Specializing in Mining Hardware and Novelty Items]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Cryptomined – Specializing in Mining Hardware and Novelty Items]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Cryptomined - Chuyên về phần cứng khai thác tiền điện tử]]></target>
       </trans-unit>
       <trans-unit resname="package-string-10-534026" restype="string" datatype="html" id="package-string-10-534026">
         <source><![CDATA[https://cryptomined.com/]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[https://cryptomined.com/]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[https://cryptomined.com/]]></target>
       </trans-unit>
       <trans-unit resname="package-string-10-534027" restype="string" datatype="html" id="package-string-10-534027">
         <source><![CDATA[Smartie shop – SmartCash merchandise]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Smartie shop – SmartCash merchandise]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Cửa hàng Smartie]]></target>
       </trans-unit>
       <trans-unit resname="package-string-10-534028" restype="string" datatype="html" id="package-string-10-534028">
         <source><![CDATA[https://smartie.shop/]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[https://smartie.shop/]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[https://smartie.shop/]]></target>
       </trans-unit>
       <trans-unit resname="package-string-10-534029" restype="string" datatype="html" id="package-string-10-534029">
         <source><![CDATA[<br class="xliff-newline" /><h3 style="text-align: center;"><span id="category-title">Health and Beauty</span></h3><br class="xliff-newline" />]]></source>
