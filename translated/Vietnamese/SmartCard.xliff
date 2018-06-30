@@ -14,39 +14,39 @@
     <body>
       <trans-unit resname="title" restype="string" datatype="html" id="title">
         <source><![CDATA[SmartCard]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[SmartCard]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[SmartCard]]></target>
       </trans-unit>
       <trans-unit resname="package-string-16-655179" restype="string" datatype="html" id="package-string-16-655179">
         <source><![CDATA[<br class="xliff-newline" /><h2>How It All Works</h2><br class="xliff-newline" />There are just two main applications: the card app for the consumer and the Point of Sale (PoS) app for the merchant.<br class="xliff-newline" /><br class="xliff-newline" /><strong>The card app</strong> allows anyone to create a SmartCard with just a few taps. Each card has an associated public address which can be used to load more funds onto the card from any wallet or exchange that offers SmartCash. Also included into each one is a QR code which can be scanned by the PoS application from either a phone screen or from a simple piece of paper. Once loaded through this address the card works very similar to a pre-paid debit card.<br class="xliff-newline" /><br class="xliff-newline" /><strong>The PoS app</strong> is equally responsible for this convenience. The merchant only has to specify the transaction amount in the local currency and the app automatically initiates a transaction in the equivalent amount of SmartCash. The merchant uses the app to scan the code and requests the buyer to enter a confirmation pin. After entering it on the merchant's smartphone the app connects to the blockchain to submit the transaction. If the code and pin match and there are enough funds in the card address the transaction is instantly verified and recorded on the blockchain. The process of scanning a card and entering a pin to confirm is already well familiar to current debit card users and so it would be easy for everyone to get used to.<br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" /><h2>How It All Works</h2><br class="xliff-newline" />There are just two main applications: the card app for the consumer and the Point of Sale (PoS) app for the merchant.<br class="xliff-newline" /><br class="xliff-newline" /><strong>The card app</strong> allows anyone to create a SmartCard with just a few taps. Each card has an associated public address which can be used to load more funds onto the card from any wallet or exchange that offers SmartCash. Also included into each one is a QR code which can be scanned by the PoS application from either a phone screen or from a simple piece of paper. Once loaded through this address the card works very similar to a pre-paid debit card.<br class="xliff-newline" /><br class="xliff-newline" /><strong>The PoS app</strong> is equally responsible for this convenience. The merchant only has to specify the transaction amount in the local currency and the app automatically initiates a transaction in the equivalent amount of SmartCash. The merchant uses the app to scan the code and requests the buyer to enter a confirmation pin. After entering it on the merchant's smartphone the app connects to the blockchain to submit the transaction. If the code and pin match and there are enough funds in the card address the transaction is instantly verified and recorded on the blockchain. The process of scanning a card and entering a pin to confirm is already well familiar to current debit card users and so it would be easy for everyone to get used to.<br class="xliff-newline" />]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" /><h2>Hoạt động thế nào</h2><br class="xliff-newline" />Chỉ có hai ứng dụng chính: các ứng dụng thẻ cho người tiêu dùng và ứng dụng (PoS) cho người bán.<br class="xliff-newline" /><br class="xliff-newline" /><strong>Ứng dụng thẻ</strong> cho phép mọi người tạo SmartCard chỉ bằng một vài thao tác. Mỗi thẻ có một địa chỉ công cộng liên quan có thể được sử dụng để nạp thêm tiền vào thẻ từ bất kỳ ví hoặc sàn giao dịch nào cung cấp SmartCash. Bao gồm trong mỗi thẻ là một mã QR có thể được quét bởi các ứng dụng PoS từ một màn hình điện thoại hoặc từ một mảnh giấy đơn giản. Sau khi được nạp thông qua địa chỉ này, thẻ hoạt động rất giống với thẻ ghi nợ trả trước.<br class="xliff-newline" /><br class="xliff-newline" /><strong>Ứng dụng PoS</strong> tiện lợi tương tự. Người bán chỉ phải chỉ định số tiền giao dịch bằng nội tệ và ứng dụng sẽ tự động khởi tạo giao dịch với số tiền SmartCash tương đương. Người bán sử dụng ứng dụng để quét mã và yêu cầu người mua nhập mã xác nhận. Sau khi nhập vào điện thoại thông minh của người bán, ứng dụng sẽ kết nối với blockchain để gửi giao dịch. Nếu mã khớp và có đủ tiền trong địa chỉ thẻ, giao dịch sẽ được xác minh và ghi lại ngay lập tức trên blockchain. Quá trình quét thẻ và nhập mã pin để xác nhận đã quen thuộc với người dùng thẻ ghi nợ hiện tại và do đó mọi người sẽ dễ dàng quen với việc sử dụng thẻ.<br class="xliff-newline" />]]></target>
       </trans-unit>
       <trans-unit resname="package-string-16-655180" restype="string" datatype="html" id="package-string-16-655180">
         <source><![CDATA[<br class="xliff-newline" /><h2 style="text-align: center;">5 Reasons to choose SmartCard</h2><br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" /><h2 style="text-align: center;">5 Reasons to choose SmartCard</h2><br class="xliff-newline" />]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" /><h2 style="text-align: center;">5 lý do để chọn SmartCard</h2><br class="xliff-newline" />]]></target>
       </trans-unit>
       <trans-unit resname="package-string-16-655181" restype="string" datatype="html" id="package-string-16-655181">
         <source><![CDATA[<br class="xliff-newline" />NO FEE DEPOSIT<br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" />NO FEE DEPOSIT<br class="xliff-newline" />]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" />KHÔNG PHẢI TRẢ LỆ PHÍ<br class="xliff-newline" />]]></target>
       </trans-unit>
       <trans-unit resname="package-string-16-655185" restype="string" datatype="html" id="package-string-16-655185">
         <source><![CDATA[SECURE]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[SECURE]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[AN TOÀN]]></target>
       </trans-unit>
       <trans-unit resname="package-string-16-655186" restype="string" datatype="html" id="package-string-16-655186">
         <source><![CDATA[Manage your money in a way that is completely secure]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Manage your money in a way that is completely secure]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Quản lý tiền của bạn theo cách hoàn toàn an toàn]]></target>
       </trans-unit>
       <trans-unit resname="package-string-16-655187" restype="string" datatype="html" id="package-string-16-655187">
         <source><![CDATA[CARDS]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[CARDS]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[THẺ!]]></target>
       </trans-unit>
       <trans-unit resname="package-string-16-655189" restype="string" datatype="html" id="package-string-16-655189">
         <source><![CDATA[CONVENIENCE]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[CONVENIENCE]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[TIỆN LỢI]]></target>
       </trans-unit>
       <trans-unit resname="package-string-16-655191" restype="string" datatype="html" id="package-string-16-655191">
         <source><![CDATA[SPEED]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[SPEED]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[TỐC ĐỘ]]></target>
       </trans-unit>
       <trans-unit resname="package-string-16-655193" restype="string" datatype="html" id="package-string-16-655193">
         <source><![CDATA[<br class="xliff-newline" /><h2 style="text-align: center;">THE SMARTCARD INTRODUCTION</h2><br class="xliff-newline" /><p style="text-align: center;"><span style="font-weight: 400;">We’ve prepared an short video to help explain SmartCard in 3 minutes. Share with your friends!</span></p><br class="xliff-newline" />]]></source>
