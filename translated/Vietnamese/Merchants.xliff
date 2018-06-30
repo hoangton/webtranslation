@@ -370,7 +370,7 @@
       </trans-unit>
       <trans-unit resname="package-string-10-1140948" restype="string" datatype="html" id="package-string-10-1140948">
         <source><![CDATA[VPN]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[VPN]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[VPN]]></target>
       </trans-unit>
       <trans-unit resname="package-string-10-1140950" restype="string" datatype="html" id="package-string-10-1140950">
         <source><![CDATA[<br class="xliff-newline" /><h3 style="text-align: center;"><span id="category-title">Hosting and VPN</span></h3><br class="xliff-newline" />]]></source>
