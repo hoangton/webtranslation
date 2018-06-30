@@ -14,103 +14,103 @@
     <body>
       <trans-unit resname="field-_yoast_wpseo_focuskw-0" restype="string" datatype="html" id="field-_yoast_wpseo_focuskw-0">
         <source><![CDATA[smartcash roadmap]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[smartcash roadmap]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[lộ trình smartcash]]></target>
       </trans-unit>
       <trans-unit resname="title" restype="string" datatype="html" id="title">
         <source><![CDATA[Roadmap]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Roadmap]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Lộ trình]]></target>
       </trans-unit>
       <trans-unit resname="t_134" restype="string" datatype="html" id="t_134">
         <source><![CDATA[Optional]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Optional]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Tùy chọn]]></target>
       </trans-unit>
       <trans-unit resname="package-string-5-8341" restype="string" datatype="html" id="package-string-5-8341">
         <source><![CDATA[The SmartCash Roadmap]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[The SmartCash Roadmap]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Lộ trình SmartCash]]></target>
       </trans-unit>
       <trans-unit resname="package-string-5-8342" restype="string" datatype="html" id="package-string-5-8342">
         <source><![CDATA[Whats Next?]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Whats Next?]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Tiếp theo là gì?]]></target>
       </trans-unit>
       <trans-unit resname="package-string-5-8343" restype="string" datatype="html" id="package-string-5-8343">
         <source><![CDATA[<br class="xliff-newline" />SmartCash is pursuing a very rigorous development schedule and constantly be ramping up have a talent that could help? Get in touch with us!<br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" />SmartCash is pursuing a very rigorous development schedule and constantly be ramping up have a talent that could help? Get in touch with us!<br class="xliff-newline" />]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" />SmartCash đang theo đuổi một lịch trình phát triển rất nghiêm ngặt và liên tục, có tài năng để giúp? Hãy liên hệ với chúng tôi!<br class="xliff-newline" />]]></target>
       </trans-unit>
       <trans-unit resname="package-string-5-8352" restype="string" datatype="html" id="package-string-5-8352">
         <source><![CDATA[Adaptive Blocks]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Adaptive Blocks]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Khối thích nghi]]></target>
       </trans-unit>
       <trans-unit resname="package-string-5-8354" restype="string" datatype="html" id="package-string-5-8354">
         <source><![CDATA[Community Projects]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Community Projects]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Dự án cộng đồng]]></target>
       </trans-unit>
       <trans-unit resname="package-string-5-8355" restype="string" datatype="html" id="package-string-5-8355">
         <source><![CDATA[<br class="xliff-newline" />Projects Funded<br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" />Projects Funded<br class="xliff-newline" />]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" />Dự án đã tài trợ<br class="xliff-newline" />]]></target>
       </trans-unit>
       <trans-unit resname="package-string-5-8357" restype="string" datatype="html" id="package-string-5-8357">
         <source><![CDATA[Completed Projects]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Completed Projects]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Dự án đã hoàn thành]]></target>
       </trans-unit>
       <trans-unit resname="package-string-5-8358" restype="string" datatype="html" id="package-string-5-8358">
         <source><![CDATA[<br class="xliff-newline" />Projects Complete<br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" />Projects Complete<br class="xliff-newline" />]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" />Dự án hoàn thành<br class="xliff-newline" />]]></target>
       </trans-unit>
       <trans-unit resname="package-string-5-8360" restype="string" datatype="html" id="package-string-5-8360">
         <source><![CDATA[Funds Allocated]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Funds Allocated]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Khoản tiền phân bổ]]></target>
       </trans-unit>
       <trans-unit resname="package-string-5-8361" restype="string" datatype="html" id="package-string-5-8361">
         <source><![CDATA[<br class="xliff-newline" />SmartCash Invested<br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" />SmartCash Invested<br class="xliff-newline" />]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" />SmartCash đã đầu tư<br class="xliff-newline" />]]></target>
       </trans-unit>
       <trans-unit resname="package-string-5-209464" restype="string" datatype="html" id="package-string-5-209464">
         <source><![CDATA[SmartCard and Merchant Reader]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[SmartCard and Merchant Reader]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[SmartCard và Merchant Reader]]></target>
       </trans-unit>
       <trans-unit resname="package-string-5-209466" restype="string" datatype="html" id="package-string-5-209466">
         <source><![CDATA[Upgraded Explorer]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Upgraded Explorer]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Trình khám phá được nâng cấp]]></target>
       </trans-unit>
       <trans-unit resname="package-string-5-209468" restype="string" datatype="html" id="package-string-5-209468">
         <source><![CDATA[SmartNode starting from Webwallet]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[SmartNode starting from Webwallet]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[SmartNode khởi động từ webwallet]]></target>
       </trans-unit>
       <trans-unit resname="package-string-5-209469" restype="string" datatype="html" id="package-string-5-209469">
         <source><![CDATA[Native Mobile Wallet with multicurrency trading ability]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Native Mobile Wallet with multicurrency trading ability]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Ví mobile với khả năng giao dịch nhiều loại tiền]]></target>
       </trans-unit>
       <trans-unit resname="package-string-5-209471" restype="string" datatype="html" id="package-string-5-209471">
         <source><![CDATA[BIP47 for private transactions]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[BIP47 for private transactions]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[BIP47 cho giao dịch riêng tư]]></target>
       </trans-unit>
       <trans-unit resname="package-string-5-209476" restype="string" datatype="html" id="package-string-5-209476">
         <source><![CDATA[15]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[15]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[15]]></target>
       </trans-unit>
       <trans-unit resname="package-string-5-209478" restype="string" datatype="html" id="package-string-5-209478">
         <source><![CDATA[6]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[6]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[6]]></target>
       </trans-unit>
       <trans-unit resname="package-string-5-209479" restype="string" datatype="html" id="package-string-5-209479">
         <source><![CDATA[https://vote.smartcash.cc/Proposal]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[https://vote.smartcash.cc/Proposal]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[https://vote.smartcash.cc/Proposal]]></target>
       </trans-unit>
       <trans-unit resname="package-string-5-209487" restype="string" datatype="html" id="package-string-5-209487">
         <source><![CDATA[24hr Support Center]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[24hr Support Center]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[trung tâm hỗ trợ 24 giờ]]></target>
       </trans-unit>
       <trans-unit resname="package-string-5-223051" restype="string" datatype="html" id="package-string-5-223051">
         <source><![CDATA[Completed Features]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Completed Features]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Các tính năng đã hoàn thành]]></target>
       </trans-unit>
       <trans-unit resname="package-string-5-678191" restype="string" datatype="html" id="package-string-5-678191">
         <source><![CDATA[3.2M]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[3.2M]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[3,2 triệu]]></target>
       </trans-unit>
       <trans-unit resname="package-string-5-1818562" restype="string" datatype="html" id="package-string-5-1818562">
         <source><![CDATA[Hardware wallets]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Hardware wallets]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Ví cứng]]></target>
       </trans-unit>
       <trans-unit resname="package-string-5-1943620" restype="string" datatype="html" id="package-string-5-1943620">
         <source><![CDATA[<br class="xliff-newline" /><strong>Renew(disabled) SmartRewards SmartHive voting SmartHive Smart Webwallet Mobile wallets SmartNodes Electrum Pay to email InstantPay Core upgrades for faster syncing</strong><br class="xliff-newline" />]]></source>
