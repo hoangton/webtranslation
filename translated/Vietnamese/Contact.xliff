@@ -14,7 +14,7 @@
     <body>
       <trans-unit resname="title" restype="string" datatype="html" id="title">
         <source><![CDATA[Contact]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Contact]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Liên hệ]]></target>
       </trans-unit>
     </body>
   </file>
