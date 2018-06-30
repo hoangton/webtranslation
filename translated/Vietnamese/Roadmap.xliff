@@ -114,7 +114,7 @@
       </trans-unit>
       <trans-unit resname="package-string-5-1943620" restype="string" datatype="html" id="package-string-5-1943620">
         <source><![CDATA[<br class="xliff-newline" /><strong>Renew(disabled) SmartRewards SmartHive voting SmartHive Smart Webwallet Mobile wallets SmartNodes Electrum Pay to email InstantPay Core upgrades for faster syncing</strong><br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" /><strong>Renew(disabled) SmartRewards SmartHive voting SmartHive Smart Webwallet Mobile wallets SmartNodes Electrum Pay to email InstantPay Core upgrades for faster syncing</strong><br class="xliff-newline" />]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" /><strong>Gia hạn (không dùng nữa), SmartRewards, bỏ phiếu, ví web, ví điện thoại, SmartNodes Electrum, Gửi SmartCash qua email, InstantPay, nâng cấp lõi để đồng bộ hóa nhanh hơn</strong><br class="xliff-newline" />]]></target>
       </trans-unit>
     </body>
   </file>
