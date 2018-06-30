@@ -28,9 +28,9 @@
         <source><![CDATA[<i class="wow-position icon-cloud-download wow-icon"></i> Graphics Resources]]></source>
         <target xml:lang="vi" state="translated"><![CDATA[<i class="wow-position icon-cloud-download wow-icon"></i> Tài nguyên đồ họa]]></target>
       </trans-unit>
-      <trans-unit resname="package-string-17-729147" restype="string" datatype="html" id="package-string-17-729147">
+      <trans-unit resname="package-string-17-729147" restype="string" datatype="html" id="package-string-17-729147" approved="yes">
         <source><![CDATA[<br class="xliff-newline" /><p style="text-align: center;"><strong>Logo No WordMark(.png)</strong></p><br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" /><p style="text-align: center;"><strong>Logo Không có WordMark (.png)</strong></p><br class="xliff-newline" />]]></target>
+        <target xml:lang="vi"><![CDATA[<br class="xliff-newline" /><p style="text-align: center;"><strong>Logo Không có WordMark (.png)</strong></p><br class="xliff-newline" />]]></target>
       </trans-unit>
       <trans-unit resname="package-string-17-729148" restype="string" datatype="html" id="package-string-17-729148">
         <source><![CDATA[<a href="https://www.dropbox.com/sh/icd7222nomwhop4/AACDXXNeRBgl6Vo_BjP3xnu5a/Logo%20Name%20Convention/Logo%20No%20WordMark?dl=0&preview=SmartCash+Logo+(S).png">Small</a>]]></source>
@@ -44,9 +44,9 @@
         <source><![CDATA[<a href="https://www.dropbox.com/sh/icd7222nomwhop4/AACDXXNeRBgl6Vo_BjP3xnu5a/Logo%20Name%20Convention/Logo%20No%20WordMark?dl=0&preview=SmartCash+Logo+(L).png">Large</a>]]></source>
         <target xml:lang="vi" state="translated"><![CDATA[<a href="https://www.dropbox.com/sh/icd7222nomwhop4/AACDXXNeRBgl6Vo_BjP3xnu5a/Logo%20Name%20Convention/Logo%20No%20WordMark?dl=0&preview=SmartCash+Logo+(L).png">Lớn</a>]]></target>
       </trans-unit>
-      <trans-unit resname="package-string-17-729151" restype="string" datatype="html" id="package-string-17-729151">
+      <trans-unit resname="package-string-17-729151" restype="string" datatype="html" id="package-string-17-729151" approved="yes">
         <source><![CDATA[<br class="xliff-newline" /><p style="text-align: center;"><strong>Logo Round No WordMark(png)</strong></p><br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" /><p style="text-align: center;"><strong>Logo Không có WordMark (.png)</strong></p><br class="xliff-newline" />]]></target>
+        <target xml:lang="vi"><![CDATA[<br class="xliff-newline" /><p style="text-align: center;"><strong>Logo Không có WordMark (.png)</strong></p><br class="xliff-newline" />]]></target>
       </trans-unit>
       <trans-unit resname="package-string-17-729152" restype="string" datatype="html" id="package-string-17-729152">
         <source><![CDATA[<a href="https://www.dropbox.com/sh/icd7222nomwhop4/AACweBRvKBSCvxy3xMC80y4Ya/Logo%20Name%20Convention/Logo%20Round%20No%20WordMark?dl=0&preview=Logo+Round+(S).png">Small</a>]]></source>
@@ -60,13 +60,13 @@
         <source><![CDATA[<a href="https://www.dropbox.com/sh/icd7222nomwhop4/AACweBRvKBSCvxy3xMC80y4Ya/Logo%20Name%20Convention/Logo%20Round%20No%20WordMark?dl=0&preview=Logo+Round+(L).png">Large</a>]]></source>
         <target xml:lang="vi" state="translated"><![CDATA[<a href="https://www.dropbox.com/sh/icd7222nomwhop4/AACweBRvKBSCvxy3xMC80y4Ya/Logo%20Name%20Convention/Logo%20Round%20No%20WordMark?dl=0&preview=Logo+Round+(L).png">Lớn</a>]]></target>
       </trans-unit>
-      <trans-unit resname="package-string-17-729155" restype="string" datatype="html" id="package-string-17-729155">
+      <trans-unit resname="package-string-17-729155" restype="string" datatype="html" id="package-string-17-729155" approved="yes">
         <source><![CDATA[<br class="xliff-newline" /><p style="text-align: center;"><strong>Logo WordMark Below(png)</strong></p><br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" /><p style="text-align: center;"><strong>Logo WordMark bên dưới (png)</strong></p><br class="xliff-newline" />]]></target>
+        <target xml:lang="vi"><![CDATA[<br class="xliff-newline" /><p style="text-align: center;"><strong>Logo WordMark bên dưới (png)</strong></p><br class="xliff-newline" />]]></target>
       </trans-unit>
-      <trans-unit resname="package-string-17-729159" restype="string" datatype="html" id="package-string-17-729159">
+      <trans-unit resname="package-string-17-729159" restype="string" datatype="html" id="package-string-17-729159" approved="yes">
         <source><![CDATA[<br class="xliff-newline" /><p style="text-align: center;"><strong>Logo WordMark On The Right(png)</strong></p><br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" /><p style="text-align: center;"><strong>Logo WordMark ở bên phải (png)</strong></p><br class="xliff-newline" />]]></target>
+        <target xml:lang="vi"><![CDATA[<br class="xliff-newline" /><p style="text-align: center;"><strong>Logo WordMark ở bên phải (png)</strong></p><br class="xliff-newline" />]]></target>
       </trans-unit>
       <trans-unit resname="package-string-17-729160" restype="string" datatype="html" id="package-string-17-729160">
         <source><![CDATA[<a href="https://www.dropbox.com/sh/icd7222nomwhop4/AACIfXMbj9ZIY4RbPxU9NVKva/Logo%20Name%20Convention/Logo%20WordMark%20On%20The%20Right?dl=0&preview=SmartCash+Logo+(S).png">Small</a>]]></source>
@@ -80,41 +80,41 @@
         <source><![CDATA[<a href="https://www.dropbox.com/sh/icd7222nomwhop4/AACIfXMbj9ZIY4RbPxU9NVKva/Logo%20Name%20Convention/Logo%20WordMark%20On%20The%20Right?dl=0&preview=SmartCash+Logo+(L).png">Large</a>]]></source>
         <target xml:lang="vi" state="translated"><![CDATA[<a href="https://www.dropbox.com/sh/icd7222nomwhop4/AACIfXMbj9ZIY4RbPxU9NVKva/Logo%20Name%20Convention/Logo%20WordMark%20On%20The%20Right?dl=0&preview=SmartCash+Logo+(L).png">Lớn</a>]]></target>
       </trans-unit>
-      <trans-unit resname="package-string-17-729164" restype="string" datatype="html" id="package-string-17-729164">
+      <trans-unit resname="package-string-17-729164" restype="string" datatype="html" id="package-string-17-729164" approved="yes">
         <source><![CDATA[<br class="xliff-newline" /><p style="text-align: center;"><strong>SmartCash Accepted Here Sticker (png)</strong></p><br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" /><p style="text-align: center;"><strong>Sticker SmartCash Chấp nhận ở đây (png)</strong></p><br class="xliff-newline" />]]></target>
+        <target xml:lang="vi"><![CDATA[<br class="xliff-newline" /><p style="text-align: center;"><strong>Sticker SmartCash Chấp nhận ở đây (png)</strong></p><br class="xliff-newline" />]]></target>
       </trans-unit>
-      <trans-unit resname="package-string-17-729168" restype="string" datatype="html" id="package-string-17-729168">
+      <trans-unit resname="package-string-17-729168" restype="string" datatype="html" id="package-string-17-729168" approved="yes">
         <source><![CDATA[<br class="xliff-newline" /><p style="text-align: center;"><strong>SmartCash Donations Accepted Logo(png)</strong></p><br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" /><p style="text-align: center;"><strong>Logo chấp nhận quyên góp bằng SmartCash(png)</strong></p><br class="xliff-newline" />]]></target>
+        <target xml:lang="vi"><![CDATA[<br class="xliff-newline" /><p style="text-align: center;"><strong>Logo chấp nhận quyên góp bằng SmartCash(png)</strong></p><br class="xliff-newline" />]]></target>
       </trans-unit>
-      <trans-unit resname="package-string-17-729172" restype="string" datatype="html" id="package-string-17-729172">
+      <trans-unit resname="package-string-17-729172" restype="string" datatype="html" id="package-string-17-729172" approved="yes">
         <source><![CDATA[<br class="xliff-newline" /><p style="text-align: center;"><strong>InstantPay Logo(png)</strong></p><br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" /><p style="text-align: center;"><strong>Biểu trưng InstantPay (png)</strong></p><br class="xliff-newline" />]]></target>
+        <target xml:lang="vi"><![CDATA[<br class="xliff-newline" /><p style="text-align: center;"><strong>Biểu trưng InstantPay (png)</strong></p><br class="xliff-newline" />]]></target>
       </trans-unit>
       <trans-unit resname="package-string-17-729173" restype="string" datatype="html" id="package-string-17-729173">
         <source><![CDATA[<a href="https://www.dropbox.com/sh/icd7222nomwhop4/AABUg3on9oITUODnEIOX4s3Za/Logo%20Name%20Convention/Merchant%20Brand%20Assets?dl=0&preview=InstantPay+Logo+(L).png">Large</a>]]></source>
         <target xml:lang="vi" state="translated"><![CDATA[<a href="https://www.dropbox.com/sh/icd7222nomwhop4/AABUg3on9oITUODnEIOX4s3Za/Logo%20Name%20Convention/Merchant%20Brand%20Assets?dl=0&preview=InstantPay+Logo+(L).png">Lớn</a>]]></target>
       </trans-unit>
-      <trans-unit resname="package-string-17-729174" restype="string" datatype="html" id="package-string-17-729174">
+      <trans-unit resname="package-string-17-729174" restype="string" datatype="html" id="package-string-17-729174" approved="yes">
         <source><![CDATA[<br class="xliff-newline" /><p style="text-align: center;"><strong>SmartCard Logo(png)</strong></p><br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" /><p style="text-align: center;"><strong>Biểu trưng SmartCard (png)</strong></p><br class="xliff-newline" />]]></target>
+        <target xml:lang="vi"><![CDATA[<br class="xliff-newline" /><p style="text-align: center;"><strong>Biểu trưng SmartCard (png)</strong></p><br class="xliff-newline" />]]></target>
       </trans-unit>
       <trans-unit resname="package-string-17-729175" restype="string" datatype="html" id="package-string-17-729175">
         <source><![CDATA[<a href="https://www.dropbox.com/sh/icd7222nomwhop4/AABUg3on9oITUODnEIOX4s3Za/Logo%20Name%20Convention/Merchant%20Brand%20Assets?dl=0&preview=SmartCard+Logo+(L).png">Large</a>]]></source>
         <target xml:lang="vi" state="translated"><![CDATA[<a href="https://www.dropbox.com/sh/icd7222nomwhop4/AABUg3on9oITUODnEIOX4s3Za/Logo%20Name%20Convention/Merchant%20Brand%20Assets?dl=0&preview=SmartCard+Logo+(L).png">Lớn</a>]]></target>
       </trans-unit>
-      <trans-unit resname="package-string-17-729177" restype="string" datatype="html" id="package-string-17-729177">
+      <trans-unit resname="package-string-17-729177" restype="string" datatype="html" id="package-string-17-729177" approved="yes">
         <source><![CDATA[https://www.dropbox.com/sh/icd7222nomwhop4/AADiZEDhBkLtf_vqH4NBGp0Ja?dl=0]]></source>
-        <target xml:lang="vi" state="translated"><![CDATA[https://www.dropbox.com/sh/icd7222nomwhop4/AADiZEDhBkLtf_vqH4NBGp0Ja?dl=0]]></target>
+        <target xml:lang="vi"><![CDATA[https://www.dropbox.com/sh/icd7222nomwhop4/AADiZEDhBkLtf_vqH4NBGp0Ja?dl=0]]></target>
       </trans-unit>
       <trans-unit resname="package-string-17-729178" restype="string" datatype="html" id="package-string-17-729178">
         <source><![CDATA[Graphic Identity]]></source>
         <target xml:lang="vi" state="translated"><![CDATA[Nhận diện đồ họa]]></target>
       </trans-unit>
-      <trans-unit resname="package-string-17-729179" restype="string" datatype="html" id="package-string-17-729179">
+      <trans-unit resname="package-string-17-729179" restype="string" datatype="html" id="package-string-17-729179" approved="yes">
         <source><![CDATA[<br class="xliff-newline" /><p style="text-align: left;"><strong>Graphic Identity Guidelines</strong></p><br class="xliff-newline" />These are recommended usage guidelines for maintaining a consistent design aesthetic for the SmartCash brand. A strong and consistent visual identity of our logo will help keep a consistent look recognition and familiarity now and in the future. Standardization of colours will go a long way to enforce a reliable and positive impression to our identity in the blockchain space.<br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" /><p style="text-align: left;"><strong>Hướng dẫn nhận diện đồ họa</strong></p><br class="xliff-newline" />Đây là những hướng dẫn sử dụng được đề xuất để duy trì tính thẩm mỹ thiết kế phù hợp cho thương hiệu SmartCash. Một bản sắc hình ảnh mạnh mẽ và nhất quán của biểu tượng của chúng tôi sẽ giúp duy trì sự công nhận và quen thuộc với giao diện hiện tại và trong tương lai. Tiêu chuẩn hóa màu sắc để tạo ấn tượng đáng tin cậy và tích cực cho sự nhận diện trong không gian blockchain.<br class="xliff-newline" />]]></target>
+        <target xml:lang="vi"><![CDATA[<br class="xliff-newline" /><p style="text-align: left;"><strong>Hướng dẫn nhận diện đồ họa</strong></p><br class="xliff-newline" />Đây là những hướng dẫn sử dụng được đề xuất để duy trì tính thẩm mỹ thiết kế phù hợp cho thương hiệu SmartCash. Một bản sắc hình ảnh mạnh mẽ và nhất quán của biểu tượng của chúng tôi sẽ giúp duy trì sự công nhận và quen thuộc với giao diện hiện tại và trong tương lai. Tiêu chuẩn hóa màu sắc để tạo ấn tượng đáng tin cậy và tích cực cho sự nhận diện trong không gian blockchain.<br class="xliff-newline" />]]></target>
       </trans-unit>
       <trans-unit resname="package-string-17-729183" restype="string" datatype="html" id="package-string-17-729183">
         <source><![CDATA[<br class="xliff-newline" /><table><br class="xliff-newline" /><tbody><br class="xliff-newline" /><tr><br class="xliff-newline" /><td width="312"><strong>Tints derived from #fec60d</strong><strong> </strong></td><br class="xliff-newline" /><td width="312"><strong>Shades derived from #fec60d</strong><strong> </strong></td><br class="xliff-newline" /></tr><br class="xliff-newline" /><tr><br class="xliff-newline" /><td width="312">#fec60d<br class="xliff-newline" />#fecb25<br class="xliff-newline" />#fed13d<br class="xliff-newline" />#fed755<br class="xliff-newline" />#fedc6d<br class="xliff-newline" />#fee286<br class="xliff-newline" />#fee89e<br class="xliff-newline" />#feedb6<br class="xliff-newline" />#fef3ce<br class="xliff-newline" />#fef9e6<br class="xliff-newline" />#ffffff</td><br class="xliff-newline" /><td width="312">#e4b20b<br class="xliff-newline" />#cb9e0a<br class="xliff-newline" />#b18a09<br class="xliff-newline" />#987607<br class="xliff-newline" />#7f6306<br class="xliff-newline" />#654f05<br class="xliff-newline" />#4c3b03<br class="xliff-newline" />#322702<br class="xliff-newline" />#191301<br class="xliff-newline" />#000000</td><br class="xliff-newline" /></tr><br class="xliff-newline" /></tbody><br class="xliff-newline" /></table><br class="xliff-newline" />]]></source>
