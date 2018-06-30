@@ -14,15 +14,15 @@
     <body>
       <trans-unit resname="field-_yoast_wpseo_metadesc-0" restype="string" datatype="html" id="field-_yoast_wpseo_metadesc-0">
         <source><![CDATA[SmartCash is a fungible decentralized digital currency with a focus on merchant adoption & community focused governance. SmartCash was established in 2017.]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[SmartCash is a fungible decentralized digital currency with a focus on merchant adoption & community focused governance. SmartCash was established in 2017.]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[SmartCash là loại tiền kỹ thuật số phi tập trung, tập trung vào mô hình quản lý bằng cộng đồng và sự chấp nhận của các điểm bán hàng trong thanh toán. SmartCash được thành lập vào năm 2017.]]></target>
       </trans-unit>
       <trans-unit resname="field-_yoast_wpseo_focuskw-0" restype="string" datatype="html" id="field-_yoast_wpseo_focuskw-0">
         <source><![CDATA[smartcash]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[smartcash]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[smartcash]]></target>
       </trans-unit>
       <trans-unit resname="title" restype="string" datatype="html" id="title">
         <source><![CDATA[What Is SmartCash?]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[What Is SmartCash?]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[SmartCash là gì?]]></target>
       </trans-unit>
       <trans-unit resname="package-string-2-6312" restype="string" datatype="html" id="package-string-2-6312">
         <source><![CDATA[<br class="xliff-newline" />Renew? SmartHive? Community Budgets? Don't worry we know it's alot we've got you covered.<br class="xliff-newline" />]]></source>
