@@ -26,79 +26,79 @@
       </trans-unit>
       <trans-unit resname="package-string-2-6312" restype="string" datatype="html" id="package-string-2-6312">
         <source><![CDATA[<br class="xliff-newline" />Renew? SmartHive? Community Budgets? Don't worry we know it's alot we've got you covered.<br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" />Renew? SmartHive? Community Budgets? Don't worry we know it's alot we've got you covered.<br class="xliff-newline" />]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" />SmartHive? Ngân sách cộng đồng? Có quá nhiều thông tin đừng lo lắng chúng tôi sẽ mô tả đầy đủ.<br class="xliff-newline" />]]></target>
       </trans-unit>
       <trans-unit resname="package-string-2-6313" restype="string" datatype="html" id="package-string-2-6313">
         <source><![CDATA[What Is SmartCash?]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[What Is SmartCash?]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[SmartCash là gì?]]></target>
       </trans-unit>
       <trans-unit resname="package-string-2-6315" restype="string" datatype="html" id="package-string-2-6315">
         <source><![CDATA[<br class="xliff-newline" /><h3 style="text-align: center;"><strong><i class="wow-position icon-fighter-jet fa-2x wow-icon"></i><br class="xliff-newline" />Fast Transactions</strong></h3><br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" /><h3 style="text-align: center;"><strong><i class="wow-position icon-fighter-jet fa-2x wow-icon"></i><br class="xliff-newline" />Fast Transactions</strong></h3><br class="xliff-newline" />]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" /><h3 style="text-align: center;"><strong><i class="wow-position icon-fighter-jet fa-2x wow-icon"></i><br class="xliff-newline" />Giao dịch nhanh</strong></h3><br class="xliff-newline" />]]></target>
       </trans-unit>
       <trans-unit resname="package-string-2-6316" restype="string" datatype="html" id="package-string-2-6316">
         <source><![CDATA[<br class="xliff-newline" /><h3 style="text-align: center;"><strong><i class="wow-position icon-users wow-icon fa-2x"></i><br class="xliff-newline" />Community-backed</strong></h3><br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" /><h3 style="text-align: center;"><strong><i class="wow-position icon-users wow-icon fa-2x"></i><br class="xliff-newline" />Community-backed</strong></h3><br class="xliff-newline" />]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" /><h3 style="text-align: center;"><strong><i class="wow-position icon-users wow-icon fa-2x"></i><br class="xliff-newline" />Được cộng đồng ủng hộ</strong></h3><br class="xliff-newline" />]]></target>
       </trans-unit>
       <trans-unit resname="package-string-2-6317" restype="string" datatype="html" id="package-string-2-6317">
         <source><![CDATA[<br class="xliff-newline" /><h3 style="text-align: center;"><strong><i class="wow-position icon-chat-empty wow-icon fa-2x"></i><br class="xliff-newline" />Inclusive</strong></h3><br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" /><h3 style="text-align: center;"><strong><i class="wow-position icon-chat-empty wow-icon fa-2x"></i><br class="xliff-newline" />Inclusive</strong></h3><br class="xliff-newline" />]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" /><h3 style="text-align: center;"><strong><i class="wow-position icon-chat-empty wow-icon fa-2x"></i><br class="xliff-newline" />Đã bao gồm</strong></h3><br class="xliff-newline" />]]></target>
       </trans-unit>
       <trans-unit resname="package-string-2-6318" restype="string" datatype="html" id="package-string-2-6318">
         <source><![CDATA[The SmartCash Concept]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[The SmartCash Concept]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Khái niệm SmartCash]]></target>
       </trans-unit>
       <trans-unit resname="package-string-2-6322" restype="string" datatype="html" id="package-string-2-6322">
         <source><![CDATA[SmartRewards]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[SmartRewards]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[SmartRewards]]></target>
       </trans-unit>
       <trans-unit resname="package-string-2-6323" restype="string" datatype="html" id="package-string-2-6323">
         <source><![CDATA[SmartHive Setup]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[SmartHive Setup]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Thiết lập SmartHive]]></target>
       </trans-unit>
       <trans-unit resname="package-string-2-6324" restype="string" datatype="html" id="package-string-2-6324">
         <source><![CDATA[SmartNodes]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[SmartNodes]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[SmartNodes]]></target>
       </trans-unit>
       <trans-unit resname="package-string-2-6325" restype="string" datatype="html" id="package-string-2-6325">
         <source><![CDATA[View The SmartCash Roadmap]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[View The SmartCash Roadmap]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Xem lộ trình SmartCash]]></target>
       </trans-unit>
       <trans-unit resname="package-string-2-6329" restype="string" datatype="html" id="package-string-2-6329">
         <source><![CDATA[The Recipe for SmartCash]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[The Recipe for SmartCash]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Công thức cho SmartCash]]></target>
       </trans-unit>
       <trans-unit resname="package-string-2-6330" restype="string" datatype="html" id="package-string-2-6330">
         <source><![CDATA[<br class="xliff-newline" />Wanna get involved? The SmartHive has a place for folks of all backgrounds. Come hungry!<br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" />Wanna get involved? The SmartHive has a place for folks of all backgrounds. Come hungry!<br class="xliff-newline" />]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" />Muốn tham gia? SmartHive là nơi dành cho tất cả mọi người. Hãy đến ngay nào!<br class="xliff-newline" />]]></target>
       </trans-unit>
       <trans-unit resname="package-string-2-6331" restype="string" datatype="html" id="package-string-2-6331">
         <source><![CDATA[The SmartHive]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[The SmartHive]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[The SmartHive]]></target>
       </trans-unit>
       <trans-unit resname="package-string-2-6333" restype="string" datatype="html" id="package-string-2-6333">
         <source><![CDATA[Hive Structuring Teams]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Hive Structuring Teams]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Đội ngũ cấu trúc Hive]]></target>
       </trans-unit>
       <trans-unit resname="package-string-2-6335" restype="string" datatype="html" id="package-string-2-6335">
         <source><![CDATA[SmartVoting]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[SmartVoting]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[SmartVoting]]></target>
       </trans-unit>
       <trans-unit resname="package-string-2-6340" restype="string" datatype="html" id="package-string-2-6340">
         <source><![CDATA[<br class="xliff-newline" />InstantPay ensures SmartCash is always blazing fast no matter what you are buying.<br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" />InstantPay ensures SmartCash is always blazing fast no matter what you are buying.<br class="xliff-newline" />]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" />InstantPay đảm bảo SmartCash luôn cực kỳ nhanh chóng bất kể bạn đang mua gì.<br class="xliff-newline" />]]></target>
       </trans-unit>
       <trans-unit resname="package-string-2-6341" restype="string" datatype="html" id="package-string-2-6341">
         <source><![CDATA[InstantPay]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[InstantPay]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[InstantPay]]></target>
       </trans-unit>
       <trans-unit resname="package-string-2-7107" restype="string" datatype="html" id="package-string-2-7107">
         <source><![CDATA[SmartCash Initial Launch]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[SmartCash Initial Launch]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Khởi chạy ban đầu SmartCash]]></target>
       </trans-unit>
       <trans-unit resname="package-string-2-7108" restype="string" datatype="html" id="package-string-2-7108">
         <source><![CDATA[<br class="xliff-newline" /><strong>SmartRewards</strong> are a price stabilization mechanism and a way to encourage long term holding. Long term holders are key to the project's success since the SmartHive treasury needs SmartCash to appreciate in value in order to fund meaningful 3rd party proposals and help grow SmartCash into a successful global crypto-currency. <strong>Each wallet address holding at least 1000 SmartCash</strong> <strong>will get paid each 30 days on average after the 25th snapshot date. </strong>The SmartRewards will come out of the 15<wbr ></wbr>% block reward allocation<wbr ></wbr>.<br class="xliff-newline" /><br class="xliff-newline" />Here is a small example: if you buy SmartCash on the 24th you'll have to wait until the next month to get paid which is around 30 days however if you buy on the 26th after the snapshot date you'll have to wait around 60 days to get paid<wbr ></wbr>.<br class="xliff-newline" /><br class="xliff-newline" />These payments will occur on the 25th of each month.<br class="xliff-newline" /><br class="xliff-newline" /><strong>All users need to move funds into addresses larger than 1000 SMART before the 25th to be counted.</strong><br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" /><strong>SmartRewards</strong> are a price stabilization mechanism and a way to encourage long term holding. Long term holders are key to the project's success since the SmartHive treasury needs SmartCash to appreciate in value in order to fund meaningful 3rd party proposals and help grow SmartCash into a successful global crypto-currency. <strong>Each wallet address holding at least 1000 SmartCash</strong> <strong>will get paid each 30 days on average after the 25th snapshot date. </strong>The SmartRewards will come out of the 15<wbr ></wbr>% block reward allocation<wbr ></wbr>.<br class="xliff-newline" /><br class="xliff-newline" />Here is a small example: if you buy SmartCash on the 24th you'll have to wait until the next month to get paid which is around 30 days however if you buy on the 26th after the snapshot date you'll have to wait around 60 days to get paid<wbr ></wbr>.<br class="xliff-newline" /><br class="xliff-newline" />These payments will occur on the 25th of each month.<br class="xliff-newline" /><br class="xliff-newline" /><strong>All users need to move funds into addresses larger than 1000 SMART before the 25th to be counted.</strong><br class="xliff-newline" />]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" /><strong>SmartRewards</strong> là cơ chế ổn định giá và là cách khuyến khích nắm giữ dài hạn. Chủ sở hữu dài hạn là chìa khóa cho sự thành công của dự án kho bạc SmartHive cần SmartCash cao về giá trị để tài trợ cho các đề xuất có ý nghĩa của bên thứ 3 và giúp phát triển SmartCash thành một loại tiền tệ toàn cầu thành công. <strong>Mỗi địa chỉ ví giữ ít nhất 1000 SmartCash</strong><strong>sẽ được trả tiền sau mỗi 30 ngày kể từ ngày chụp nhanh thứ 25.</strong>SmartRewards sẽ lấy 15% phần thưởng <wbr ></wbr>khối<wbr ></wbr>.<br class="xliff-newline" /><br class="xliff-newline" />Đây là một ví dụ nhỏ: nếu bạn mua SmartCash vào ngày 24, bạn sẽ phải chờ đến tháng tiếp theo để được thanh toán khoảng 30 ngày, tuy nhiên nếu bạn mua vào ngày 26 sau ngày chụp, bạn sẽ phải chờ khoảng 60 ngày để được trả tiền<wbr ></wbr>.<br class="xliff-newline" /><br class="xliff-newline" />Các khoản thanh toán này sẽ diễn ra vào ngày 25 mỗi tháng.<br class="xliff-newline" /><br class="xliff-newline" /><strong>Tất cả người dùng cần chuyển tiền vào địa chỉ lớn hơn 1000 SMART trước ngày 25 để hợp lệ nhận thưởng.</strong><br class="xliff-newline" />]]></target>
       </trans-unit>
       <trans-unit resname="package-string-2-208230" restype="string" datatype="html" id="package-string-2-208230">
         <source><![CDATA[<br class="xliff-newline" /><strong>InstantPay</strong> is going to be a key feature that allows instant <em>point-of-sale in-store and online purchases</em>. People should be able to use cryptocurrency as means to pay for their daily needs. InstantPay makes that a reality and allows for transactions to happen instantly even faster than using your Visa or Mastercard.<br class="xliff-newline" /><br class="xliff-newline" /><strong> No matter if you want to buy a coffee at your favorite coffee shop fill up your tank at the nearest gas station buy a bus ticket or pay for a video download InstantPay makes that a reality.</strong> This is currently not possible with Bitcoin due to its technological limitations and network constraints which result in transaction delays and high fees.<br class="xliff-newline" /><h5>Expected to launch 2018.</h5><br class="xliff-newline" />]]></source>
