@@ -14,103 +14,103 @@
     <body>
       <trans-unit resname="field-_yoast_wpseo_metadesc-0" restype="string" datatype="html" id="field-_yoast_wpseo_metadesc-0">
         <source><![CDATA[SmartHive is the lifeblood of SmartCash the decentralized governance mechanism that helps grow and maintain the Decentralized SmartCash Economy.]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[SmartHive is the lifeblood of SmartCash the decentralized governance mechanism that helps grow and maintain the Decentralized SmartCash Economy.]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[SmartHive là huyết mạch của SmartCash cơ chế phân cấp quản lý sẽ giúp phát triển và duy trì nền kinh tế phi tập trung SmartCash.]]></target>
       </trans-unit>
       <trans-unit resname="field-_yoast_wpseo_focuskw-0" restype="string" datatype="html" id="field-_yoast_wpseo_focuskw-0">
         <source><![CDATA[hive teams]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[hive teams]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[hive teams]]></target>
       </trans-unit>
       <trans-unit resname="title" restype="string" datatype="html" id="title">
         <source><![CDATA[Hive Teams]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Hive Teams]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Hive Teams]]></target>
       </trans-unit>
       <trans-unit resname="t_134" restype="string" datatype="html" id="t_134">
         <source><![CDATA[Optional]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Optional]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Tùy chọn]]></target>
       </trans-unit>
       <trans-unit resname="package-string-6-8482" restype="string" datatype="html" id="package-string-6-8482">
         <source><![CDATA[<i class="wow-position icon-puzzle wow-icon"></i> SmartCash Hive Teams]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<i class="wow-position icon-puzzle wow-icon"></i> SmartCash Hive Teams]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<i class="wow-position icon-puzzle wow-icon"></i> SmartCash Hive Teams]]></target>
       </trans-unit>
       <trans-unit resname="package-string-6-8483" restype="string" datatype="html" id="package-string-6-8483">
         <source><![CDATA[<br class="xliff-newline" />Responsible for building SmartCash and supporting applications.<br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" />Responsible for building SmartCash and supporting applications.<br class="xliff-newline" />]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" />Chịu trách nhiệm xây dựng SmartCash và các ứng dụng hỗ trợ.<br class="xliff-newline" />]]></target>
       </trans-unit>
       <trans-unit resname="package-string-6-8484" restype="string" datatype="html" id="package-string-6-8484">
         <source><![CDATA[<i class="wow-position icon-code wow-icon"></i> Hive Team: Development]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<i class="wow-position icon-code wow-icon"></i> Hive Team: Development]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<i class="wow-position icon-code wow-icon"></i> Hive Team: Phát triển]]></target>
       </trans-unit>
       <trans-unit resname="package-string-6-8485" restype="string" datatype="html" id="package-string-6-8485">
         <source><![CDATA[Solarminer]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Solarminer]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Solarminer]]></target>
       </trans-unit>
       <trans-unit resname="package-string-6-8486" restype="string" datatype="html" id="package-string-6-8486">
         <source><![CDATA[Hive Coordinator]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Hive Coordinator]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Điều phối viên Hive]]></target>
       </trans-unit>
       <trans-unit resname="package-string-6-8487" restype="string" datatype="html" id="package-string-6-8487">
         <source><![CDATA[Creator of the Dash N Drink Soda Machine & SmartCash POS.]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Creator of the Dash N Drink Soda Machine & SmartCash POS.]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Tác giả của máy Dash N Drink Soda & SmartCash POS.]]></target>
       </trans-unit>
       <trans-unit resname="package-string-6-8488" restype="string" datatype="html" id="package-string-6-8488">
         <source><![CDATA[Leandro Reinaux]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Leandro Reinaux]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Leandro Reinaux]]></target>
       </trans-unit>
       <trans-unit resname="package-string-6-8489" restype="string" datatype="html" id="package-string-6-8489">
         <source><![CDATA[C++ Software Engineer]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[C++ Software Engineer]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Kỹ sư phần mềm C ++]]></target>
       </trans-unit>
       <trans-unit resname="package-string-6-8494" restype="string" datatype="html" id="package-string-6-8494">
         <source><![CDATA[<br class="xliff-newline" />This team focuses on community building growth general user acquisition.<br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" />This team focuses on community building growth general user acquisition.<br class="xliff-newline" />]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" />Nhóm này tập trung vào xây dựng và phát triển cộng đồng.<br class="xliff-newline" />]]></target>
       </trans-unit>
       <trans-unit resname="package-string-6-8495" restype="string" datatype="html" id="package-string-6-8495">
         <source><![CDATA[<i class="wow-position icon-users wow-icon"></i> Hive Team: Outreach]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<i class="wow-position icon-users wow-icon"></i> Hive Team: Outreach]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<i class="wow-position icon-users wow-icon"></i> Hive Team: Outreach]]></target>
       </trans-unit>
       <trans-unit resname="package-string-6-8496" restype="string" datatype="html" id="package-string-6-8496">
         <source><![CDATA[InTheWoods aka JuicyG ]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[InTheWoods aka JuicyG ]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[InTheWoods aka JuicyG ]]></target>
       </trans-unit>
       <trans-unit resname="package-string-6-8497" restype="string" datatype="html" id="package-string-6-8497">
         <source><![CDATA[Best known for creating the original Dash Force proposal.]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Best known for creating the original Dash Force proposal.]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Được biết đến nhiều nhất là người tạo đề xuất Dash Force đầu tiên.]]></target>
       </trans-unit>
       <trans-unit resname="package-string-6-8501" restype="string" datatype="html" id="package-string-6-8501">
         <source><![CDATA[Frisco D’Anconia]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Frisco D’Anconia]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Frisco D'Anconia]]></target>
       </trans-unit>
       <trans-unit resname="package-string-6-8502" restype="string" datatype="html" id="package-string-6-8502">
         <source><![CDATA[Writer]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Writer]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Người viết]]></target>
       </trans-unit>
       <trans-unit resname="package-string-6-8503" restype="string" datatype="html" id="package-string-6-8503">
         <source><![CDATA[Frisco is a wonderful  Cointelegraph writer presenter and big SmartCash Africa enthusiast.]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Frisco is a wonderful  Cointelegraph writer presenter and big SmartCash Africa enthusiast.]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Frisco là một cây bút của tờ Cointelegraph và là người đam mê SmartCash ở Châu Phi.]]></target>
       </trans-unit>
       <trans-unit resname="package-string-6-8505" restype="string" datatype="html" id="package-string-6-8505">
         <source><![CDATA[SmartCash Advisor]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[SmartCash Advisor]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Cố vấn SmartCash]]></target>
       </trans-unit>
       <trans-unit resname="package-string-6-8507" restype="string" datatype="html" id="package-string-6-8507">
         <source><![CDATA[Hannah Slaski]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Hannah Slaski]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Hannah Slaski]]></target>
       </trans-unit>
       <trans-unit resname="package-string-6-8508" restype="string" datatype="html" id="package-string-6-8508">
         <source><![CDATA[Community Building]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Community Building]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Xây dựng cộng đồng]]></target>
       </trans-unit>
       <trans-unit resname="package-string-6-8509" restype="string" datatype="html" id="package-string-6-8509">
         <source><![CDATA[Hannah is an avid community enthusiast with a focus on the Spanish SmartCash community.]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Hannah is an avid community enthusiast with a focus on the Spanish SmartCash community.]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Hannah là một người đam mê cộng đồng tập trung vào cộng đồng SmartCash Tây Ban Nha.]]></target>
       </trans-unit>
       <trans-unit resname="package-string-6-8510" restype="string" datatype="html" id="package-string-6-8510">
         <source><![CDATA[Akshay Singh]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Akshay Singh]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Akshay Singh]]></target>
       </trans-unit>
       <trans-unit resname="package-string-6-8511" restype="string" datatype="html" id="package-string-6-8511">
         <source><![CDATA[Social Media Community Outreach]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Social Media Community Outreach]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Tiếp cận cộng đồng truyền thông xã hội]]></target>
       </trans-unit>
       <trans-unit resname="package-string-6-8514" restype="string" datatype="html" id="package-string-6-8514">
         <source><![CDATA[<br class="xliff-newline" />This Hive is responsible for on-boarding & generalized SmartCash support.<br class="xliff-newline" />]]></source>
