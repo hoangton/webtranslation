@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit resname="t_134" restype="string" datatype="html" id="t_134">
         <source><![CDATA[Optional]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[Optional]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[Tùy chọn]]></target>
       </trans-unit>
       <trans-unit resname="package-string-14-206981" restype="string" datatype="html" id="package-string-14-206981">
         <source><![CDATA[What are SmartNodes?]]></source>
@@ -170,11 +170,11 @@
       </trans-unit>
       <trans-unit resname="package-string-14-1996170" restype="string" datatype="html" id="package-string-14-1996170">
         <source><![CDATA[<br class="xliff-newline" />Grace period for SmartNode downtime is two hours so great for updates reboot launch smartnode etc and and you're still all good<br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" />Grace period for SmartNode downtime is two hours so great for updates reboot launch smartnode etc and and you're still all good<br class="xliff-newline" />]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" />Thời gian cho phép ngừng hoạt động SmartNode là hai giờ, đủ để bạn cập nhật, khởi động lại mà không bị ảnh hưởng việc nhận thưởng<br class="xliff-newline" />]]></target>
       </trans-unit>
       <trans-unit resname="package-string-14-1996171" restype="string" datatype="html" id="package-string-14-1996171">
         <source><![CDATA[<br class="xliff-newline" />Payments take about approximately two days (based on the current node count). Each payment is about ~12 SMART and reduces a little over time.<br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" />Payments take about approximately two days (based on the current node count). Each payment is about ~12 SMART and reduces a little over time.<br class="xliff-newline" />]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" />Tần suất thanh toán khoảng hai ngày (dựa trên số lượng node hiện tại). Mỗi lần thanh toán khoảng ~ 12 SMART và giảm dần theo thời gian.<br class="xliff-newline" />]]></target>
       </trans-unit>
     </body>
   </file>
