@@ -172,9 +172,9 @@
         <source><![CDATA[<br class="xliff-newline" />Grace period for SmartNode downtime is two hours, so great for updates, reboot, launch smartnode etc and and you're still all good<br class="xliff-newline" />]]></source>
         <target xml:lang="ko" state="needs-translation"><![CDATA[<br class="xliff-newline" />Grace period for SmartNode downtime is two hours, so great for updates, reboot, launch smartnode etc and and you're still all good<br class="xliff-newline" />]]></target>
       </trans-unit>
-      <trans-unit resname="package-string-14-1996171" restype="string" datatype="html" id="package-string-14-1996171">
-        <source><![CDATA[<br class="xliff-newline" />Payments take about approximately two days (based on the current node count). Each payment is about ~12 SMART and reduces a little over time.<br class="xliff-newline" />]]></source>
-        <target xml:lang="ko" state="needs-translation"><![CDATA[<br class="xliff-newline" />Payments take about approximately two days (based on the current node count). Each payment is about ~12 SMART and reduces a little over time.<br class="xliff-newline" />]]></target>
+      <trans-unit resname="package-string-14-1997818" restype="string" datatype="html" id="package-string-14-1997818">
+        <source><![CDATA[<br class="xliff-newline" />Starting with Block 545005. Payments take about approximately two days (based on the current node count). Each payment is about ~24 SMART and reduces a little over time.<br class="xliff-newline" />]]></source>
+        <target xml:lang="ko" state="needs-translation"><![CDATA[<br class="xliff-newline" />Starting with Block 545005. Payments take about approximately two days (based on the current node count). Each payment is about ~24 SMART and reduces a little over time.<br class="xliff-newline" />]]></target>
       </trans-unit>
     </body>
   </file>
