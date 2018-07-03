@@ -174,7 +174,7 @@
       </trans-unit>
       <trans-unit resname="package-string-14-1997818" restype="string" datatype="html" id="package-string-14-1997818">
         <source><![CDATA[<br class="xliff-newline" />Starting with Block 545005. Payments take about approximately two days (based on the current node count). Each payment is about ~24 SMART and reduces a little over time.<br class="xliff-newline" />]]></source>
-        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" />Starting with Block 545005. Payments take about approximately two days (based on the current node count). Each payment is about ~24 SMART and reduces a little over time.<br class="xliff-newline" />]]></target>
+        <target xml:lang="vi" state="translated"><![CDATA[<br class="xliff-newline" />Bắt đầu với Block 545005. Thanh toán mất khoảng hai ngày (dựa trên số lượng nút hiện tại). Mỗi lần thanh toán khoảng ~ 24 SMART và giảm dần theo thời gian.<br class="xliff-newline" />]]></target>
       </trans-unit>
     </body>
   </file>
