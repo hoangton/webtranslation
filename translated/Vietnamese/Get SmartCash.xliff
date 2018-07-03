@@ -12,12 +12,9 @@
       </reference>
     </header>
     <body>
-      <trans-unit resname="field-_yoast_wpseo_metadesc-0" restype="string" datatype="html" id="field-_yoast_wpseo_metadesc-0" approved="yes">
-        <source><![CDATA[How to get SmartCash? Here are a few resources including exchanges Smartcash is listed on official Wallet downloads and other useful links.]]></source>
-        <target xml:lang="vi"><![CDATA[Làm thế nào để có được SmartCash? Dưới đây là một số tài nguyên bao gồm sàn giao dịch Smartcash, nơi tải Ví và các liên kết hữu ích khác.]]></target>
-        <alt-trans>
-          <target xml:lang="vi"><![CDATA[Làm thế nào để có được SmartCash? Dưới đây là một số tài nguyên bao gồm sàn giao dịch Smartcas, nơi tải Ví và các liên kết hữu ích khác.]]></target>
-        </alt-trans>
+      <trans-unit resname="field-_yoast_wpseo_metadesc-0" restype="string" datatype="html" id="field-_yoast_wpseo_metadesc-0">
+        <source><![CDATA[How to get SmartCash? Here are a few resources including exchanges Smartcash is listed on, official Wallet downloads and other useful links.]]></source>
+        <target xml:lang="vi" state="needs-translation"><![CDATA[How to get SmartCash? Here are a few resources including exchanges Smartcash is listed on, official Wallet downloads and other useful links.]]></target>
       </trans-unit>
       <trans-unit resname="field-_yoast_wpseo_focuskw-0" restype="string" datatype="html" id="field-_yoast_wpseo_focuskw-0" approved="yes">
         <source><![CDATA[get smartcash]]></source>
@@ -27,9 +24,9 @@
         <source><![CDATA[Get SmartCash]]></source>
         <target xml:lang="vi" state="translated"><![CDATA[Lấy SmartCash]]></target>
       </trans-unit>
-      <trans-unit resname="package-string-3-6354" restype="string" datatype="html" id="package-string-3-6354" approved="yes">
-        <source><![CDATA[<br class="xliff-newline" />SmartCash is very new to the scene so obtaining some may be a tad more complex than simply purchasing from Coinbase but we've got you covered.<br class="xliff-newline" />]]></source>
-        <target xml:lang="vi"><![CDATA[<br class="xliff-newline" />SmartCash là coin mới nên để có được SmartCash sẽ phức tạp hơn một chút, không đơn giản là mua từ Coinbase nhưng chúng tôi sẽ giúp bạn.<br class="xliff-newline" />]]></target>
+      <trans-unit resname="package-string-3-6354" restype="string" datatype="html" id="package-string-3-6354">
+        <source><![CDATA[<br class="xliff-newline" />SmartCash is very new to the scene, so obtaining some may be a tad more complex than simply purchasing from Coinbase, but we've got you covered.<br class="xliff-newline" />]]></source>
+        <target xml:lang="vi" state="needs-translation"><![CDATA[<br class="xliff-newline" />SmartCash is very new to the scene, so obtaining some may be a tad more complex than simply purchasing from Coinbase, but we've got you covered.<br class="xliff-newline" />]]></target>
       </trans-unit>
       <trans-unit resname="package-string-3-6355" restype="string" datatype="html" id="package-string-3-6355">
         <source><![CDATA[Where to Get SmartCash?]]></source>
