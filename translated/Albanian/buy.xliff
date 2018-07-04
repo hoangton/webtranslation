@@ -14,23 +14,23 @@
     <body>
       <trans-unit resname="title" restype="string" datatype="html" id="title">
         <source><![CDATA[buy]]></source>
-        <target xml:lang="sq" state="needs-translation"><![CDATA[buy]]></target>
+        <target xml:lang="sq" state="translated"><![CDATA[bli]]></target>
       </trans-unit>
       <trans-unit resname="package-string-33-1866079" restype="string" datatype="html" id="package-string-33-1866079">
         <source><![CDATA[<br class="xliff-newline" />Exchange process takes place in a fully automated environment within 20-30 minutes.<br class="xliff-newline" />]]></source>
-        <target xml:lang="sq" state="needs-translation"><![CDATA[<br class="xliff-newline" />Exchange process takes place in a fully automated environment within 20-30 minutes.<br class="xliff-newline" />]]></target>
+        <target xml:lang="sq" state="translated"><![CDATA[<br class="xliff-newline" />Procesi i shkëmbimit zhvillohet në një mjedis plotësisht të automatizuar brenda 20-30 minutave.<br class="xliff-newline" />]]></target>
       </trans-unit>
       <trans-unit resname="package-string-33-1866080" restype="string" datatype="html" id="package-string-33-1866080">
         <source><![CDATA[Buy SmartCash Here]]></source>
-        <target xml:lang="sq" state="needs-translation"><![CDATA[Buy SmartCash Here]]></target>
+        <target xml:lang="sq" state="translated"><![CDATA[Blini SmartCash Këtu]]></target>
       </trans-unit>
       <trans-unit resname="package-string-33-1866084" restype="string" datatype="html" id="package-string-33-1866084">
         <source><![CDATA[DISCLAIMER]]></source>
-        <target xml:lang="sq" state="needs-translation"><![CDATA[DISCLAIMER]]></target>
+        <target xml:lang="sq" state="translated"><![CDATA[Mos prano]]></target>
       </trans-unit>
       <trans-unit resname="package-string-33-1866087" restype="string" datatype="html" id="package-string-33-1866087">
         <source><![CDATA[Need Help?]]></source>
-        <target xml:lang="sq" state="needs-translation"><![CDATA[Need Help?]]></target>
+        <target xml:lang="sq" state="translated"><![CDATA[Më duhet ndihmë?]]></target>
       </trans-unit>
       <trans-unit resname="package-string-33-1866092" restype="string" datatype="html" id="package-string-33-1866092">
         <source><![CDATA[<br class="xliff-newline" /><br/><br class="xliff-newline" />1-) Click on the drop down to find options to buy SMART by depositing either Bitcoin Litecoin Ethereum or Bitcoin Cash. <br class="xliff-newline" /><br class="xliff-newline" />2-) Select the coin you want to deposit in exchange for SmartCash and enter the amount you wish to exchange.<br class="xliff-newline" /><br class="xliff-newline" />3-) You will be given an indication of the amount of SMART you will receive and the market rate in USD. <br class="xliff-newline" /><br class="xliff-newline" />4-) Please bear in mind that your deposit will require some confirmation from the network which may take a few minutes to process <br class="xliff-newline" />and this may cause the exchange rate to differ slightly depending on how long the network takes to confirm your request. <br class="xliff-newline" /><br class="xliff-newline" />5-) Enter the SmartCash address in which you wish to receive the funds and enter the cryptocurrency address from which you will be sending the coins. <br class="xliff-newline" /><br class="xliff-newline" />You can also enter a receiving tag for future reference and an email address if you wish to do so. <br class="xliff-newline" /><br class="xliff-newline" />Once you have confirmed all of the details are correct click Next to be move to the next page which will display an address and the exact amount of your chosen<br class="xliff-newline" />cryptocurrency for you to send. <br class="xliff-newline" /><br class="xliff-newline" />When your transfer of your chosen cryptocurrency has reached the indicated address your specified SmartCash address will be credited with SMART.<br class="xliff-newline" />]]></source>
