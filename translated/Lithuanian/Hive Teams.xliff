@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="725-ed3cbe5f49d297d1e33b7ff9f5a13915" source-language="en" target-language="lt" datatype="plaintext">
+    <header>
+      <phase-group>
+        <phase phase-name="shortcodes" process-name="Shortcodes identification">
+          <note>wp_caption,caption,gallery,playlist,audio,video,embed,wpml_language_form_field,add_eventon_search,FAG,bws_google_captcha,wow-icons,wpml_language_switcher,wpml_language_selector_widget,wpml_language_selector_footer,wpml-string,contact-form-7,contact-form,layerslider,av_events_countdown,av_upcoming_events,av_productgrid,av_productlist,av_product_button,av_product_info,av_product_review,av_product_tabs,av_product_upsells,av_productslider,mc4wp_form,av_blog,av_button,av_button_big,av_catalogue,av_catalogue_item,av_cell_one_full,av_cell_one_half,av_cell_one_third,av_cell_two_third,av_cell_one_fourth,av_cell_three_fourth,av_cell_one_fifth,av_cell_two_fifth,av_cell_three_fifth,av_cell_four_fifth,av_codeblock,av_one_full,av_one_half,av_one_third,av_two_third,av_one_fourth,av_three_fourth,av_one_fifth,av_two_fifth,av_three_fifth,av_four_fifth,av_comments_list,av_contact,av_contact_field,av_content_slider,av_content_slide,av_countdown,av_dropcap1,av_dropcap2,av_gallery,av_google_map,av_gmap_location,av_layout_row,av_heading,av_headline_rotator,av_rotator_item,av_hr,av_font_icon,av_icon_box,av_iconlist,av_iconlist_item,av_image,av_image_hotspot,av_image_spot,av_partner,av_partner_logo,av_magazine,av_mailchimp,av_mailchimp_field,av_masonry_entries,av_masonry_gallery,av_submenu,av_submenu_item,av_notification,av_animated_numbers,av_portfolio,av_postslider,av_progress,av_progress_bar,av_promobox,av_section,av_slideshow,av_slide,av_slideshow_accordion,av_slide_accordion,av_feature_image_slider,av_fullscreen,av_fullscreen_slide,av_slideshow_full,av_slide_full,av_layerslider,av_social_share,av_tab_section,av_tab_sub_section,av_table,av_row,av_cell,av_tab_container,av_tab,av_team_member,av_team_icon,av_testimonials,av_testimonial_single,av_textblock,av_toggle_container,av_toggle,av_video,av_sidebar</note>
+        </phase>
+      </phase-group>
+      <reference>
+        <external-file href="https://smartcash.cc/hive-teams/"/>
+      </reference>
+    </header>
+    <body>
+      <trans-unit resname="field-_yoast_wpseo_metadesc-0" restype="string" datatype="html" id="field-_yoast_wpseo_metadesc-0">
+        <source><![CDATA[SmartHive is the lifeblood of SmartCash the decentralized governance mechanism that helps grow and maintain the Decentralized SmartCash Economy.]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[SmartHive is the lifeblood of SmartCash the decentralized governance mechanism that helps grow and maintain the Decentralized SmartCash Economy.]]></target>
+      </trans-unit>
+      <trans-unit resname="field-_yoast_wpseo_focuskw-0" restype="string" datatype="html" id="field-_yoast_wpseo_focuskw-0">
+        <source><![CDATA[hive teams]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[hive teams]]></target>
+      </trans-unit>
+      <trans-unit resname="title" restype="string" datatype="html" id="title">
+        <source><![CDATA[Hive Teams]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Hive Teams]]></target>
+      </trans-unit>
+      <trans-unit resname="t_134" restype="string" datatype="html" id="t_134">
+        <source><![CDATA[Optional]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Optional]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-8482" restype="string" datatype="html" id="package-string-6-8482">
+        <source><![CDATA[<i class="wow-position icon-puzzle wow-icon"></i> SmartCash Hive Teams]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[<i class="wow-position icon-puzzle wow-icon"></i> SmartCash Hive Teams]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-8483" restype="string" datatype="html" id="package-string-6-8483">
+        <source><![CDATA[<br class="xliff-newline" />Responsible for building SmartCash and supporting applications.<br class="xliff-newline" />]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[<br class="xliff-newline" />Responsible for building SmartCash and supporting applications.<br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-8484" restype="string" datatype="html" id="package-string-6-8484">
+        <source><![CDATA[<i class="wow-position icon-code wow-icon"></i> Hive Team: Development]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[<i class="wow-position icon-code wow-icon"></i> Hive Team: Development]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-8485" restype="string" datatype="html" id="package-string-6-8485">
+        <source><![CDATA[Solarminer]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Solarminer]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-8486" restype="string" datatype="html" id="package-string-6-8486">
+        <source><![CDATA[Hive Coordinator]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Hive Coordinator]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-8487" restype="string" datatype="html" id="package-string-6-8487">
+        <source><![CDATA[Creator of the Dash N Drink Soda Machine & SmartCash POS.]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Creator of the Dash N Drink Soda Machine & SmartCash POS.]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-8488" restype="string" datatype="html" id="package-string-6-8488">
+        <source><![CDATA[Leandro Reinaux]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Leandro Reinaux]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-8489" restype="string" datatype="html" id="package-string-6-8489">
+        <source><![CDATA[C++ Software Engineer]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[C++ Software Engineer]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-8494" restype="string" datatype="html" id="package-string-6-8494">
+        <source><![CDATA[<br class="xliff-newline" />This team focuses on community building growth general user acquisition.<br class="xliff-newline" />]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[<br class="xliff-newline" />This team focuses on community building growth general user acquisition.<br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-8495" restype="string" datatype="html" id="package-string-6-8495">
+        <source><![CDATA[<i class="wow-position icon-users wow-icon"></i> Hive Team: Outreach]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[<i class="wow-position icon-users wow-icon"></i> Hive Team: Outreach]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-8496" restype="string" datatype="html" id="package-string-6-8496">
+        <source><![CDATA[InTheWoods aka JuicyG ]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[InTheWoods aka JuicyG ]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-8497" restype="string" datatype="html" id="package-string-6-8497">
+        <source><![CDATA[Best known for creating the original Dash Force proposal.]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Best known for creating the original Dash Force proposal.]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-8501" restype="string" datatype="html" id="package-string-6-8501">
+        <source><![CDATA[Frisco D’Anconia]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Frisco D’Anconia]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-8502" restype="string" datatype="html" id="package-string-6-8502">
+        <source><![CDATA[Writer]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Writer]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-8503" restype="string" datatype="html" id="package-string-6-8503">
+        <source><![CDATA[Frisco is a wonderful  Cointelegraph writer presenter and big SmartCash Africa enthusiast.]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Frisco is a wonderful  Cointelegraph writer presenter and big SmartCash Africa enthusiast.]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-8505" restype="string" datatype="html" id="package-string-6-8505">
+        <source><![CDATA[SmartCash Advisor]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[SmartCash Advisor]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-8507" restype="string" datatype="html" id="package-string-6-8507">
+        <source><![CDATA[Hannah Slaski]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Hannah Slaski]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-8508" restype="string" datatype="html" id="package-string-6-8508">
+        <source><![CDATA[Community Building]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Community Building]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-8509" restype="string" datatype="html" id="package-string-6-8509">
+        <source><![CDATA[Hannah is an avid community enthusiast with a focus on the Spanish SmartCash community.]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Hannah is an avid community enthusiast with a focus on the Spanish SmartCash community.]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-8510" restype="string" datatype="html" id="package-string-6-8510">
+        <source><![CDATA[Akshay Singh]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Akshay Singh]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-8511" restype="string" datatype="html" id="package-string-6-8511">
+        <source><![CDATA[Social Media Community Outreach]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Social Media Community Outreach]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-8514" restype="string" datatype="html" id="package-string-6-8514">
+        <source><![CDATA[<br class="xliff-newline" />This Hive is responsible for on-boarding & generalized SmartCash support.<br class="xliff-newline" />]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[<br class="xliff-newline" />This Hive is responsible for on-boarding & generalized SmartCash support.<br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-8515" restype="string" datatype="html" id="package-string-6-8515">
+        <source><![CDATA[<i class="wow-position  icon-cog-alt  wow-icon"></i> Hive Team: Support & Web]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[<i class="wow-position  icon-cog-alt  wow-icon"></i> Hive Team: Support & Web]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-8517" restype="string" datatype="html" id="package-string-6-8517">
+        <source><![CDATA[Alexander]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Alexander]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-8518" restype="string" datatype="html" id="package-string-6-8518">
+        <source><![CDATA[Alex is a jack of all trades who loves Technology Graphics Web Design & Infrastructure.]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Alex is a jack of all trades who loves Technology Graphics Web Design & Infrastructure.]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-8519" restype="string" datatype="html" id="package-string-6-8519">
+        <source><![CDATA[Rlamasb]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Rlamasb]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-8520" restype="string" datatype="html" id="package-string-6-8520">
+        <source><![CDATA[C# Back-End Developer ]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[C# Back-End Developer ]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-8521" restype="string" datatype="html" id="package-string-6-8521">
+        <source><![CDATA[From the Guetos of Brazil to the cryptoverse. Father husband and technolover born in Brazil and living in Australia. Mobile and Web Development.]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[From the Guetos of Brazil to the cryptoverse. Father husband and technolover born in Brazil and living in Australia. Mobile and Web Development.]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-8524" restype="string" datatype="html" id="package-string-6-8524">
+        <source><![CDATA[Slpin]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Slpin]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-8525" restype="string" datatype="html" id="package-string-6-8525">
+        <source><![CDATA[Fiscal Officer]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Fiscal Officer]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-8527" restype="string" datatype="html" id="package-string-6-8527">
+        <source><![CDATA[Developer]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Developer]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-8530" restype="string" datatype="html" id="package-string-6-8530">
+        <source><![CDATA[Cryptolize]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Cryptolize]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-8531" restype="string" datatype="html" id="package-string-6-8531">
+        <source><![CDATA[Testing]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Testing]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-22588" restype="string" datatype="html" id="package-string-6-22588">
+        <source><![CDATA[Markus]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Markus]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-22589" restype="string" datatype="html" id="package-string-6-22589">
+        <source><![CDATA[Cláusio Barbosa]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Cláusio Barbosa]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-22590" restype="string" datatype="html" id="package-string-6-22590">
+        <source><![CDATA[rc125]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[rc125]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-30719" restype="string" datatype="html" id="package-string-6-30719">
+        <source><![CDATA[ Developer]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[ Developer]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-33220" restype="string" datatype="html" id="package-string-6-33220">
+        <source><![CDATA[Azuuri]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Azuuri]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-33221" restype="string" datatype="html" id="package-string-6-33221">
+        <source><![CDATA[Outreach Support]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Outreach Support]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-33222" restype="string" datatype="html" id="package-string-6-33222">
+        <source><![CDATA[Somnium]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Somnium]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-33223" restype="string" datatype="html" id="package-string-6-33223">
+        <source><![CDATA[Stirred]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Stirred]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-33225" restype="string" datatype="html" id="package-string-6-33225">
+        <source><![CDATA[Support]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Support]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-33229" restype="string" datatype="html" id="package-string-6-33229">
+        <source><![CDATA[Hoangton]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Hoangton]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-133450" restype="string" datatype="html" id="package-string-6-133450">
+        <source><![CDATA[Jazz]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Jazz]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-133451" restype="string" datatype="html" id="package-string-6-133451">
+        <source><![CDATA[Release Coordinator]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Release Coordinator]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-304440" restype="string" datatype="html" id="package-string-6-304440">
+        <source><![CDATA[Mark Hakkarinen]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Mark Hakkarinen]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-304441" restype="string" datatype="html" id="package-string-6-304441">
+        <source><![CDATA[Outreach Ambassador]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Outreach Ambassador]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-334755" restype="string" datatype="html" id="package-string-6-334755">
+        <source><![CDATA[Zaphoid]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Zaphoid]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-339218" restype="string" datatype="html" id="package-string-6-339218">
+        <source><![CDATA[Enrique Souza]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Enrique Souza]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-340522" restype="string" datatype="html" id="package-string-6-340522">
+        <source><![CDATA[David]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[David]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-492309" restype="string" datatype="html" id="package-string-6-492309">
+        <source><![CDATA[Control]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Control]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-603728" restype="string" datatype="html" id="package-string-6-603728">
+        <source><![CDATA[emelia]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[emelia]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-603729" restype="string" datatype="html" id="package-string-6-603729">
+        <source><![CDATA[auditor]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[auditor]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-634432" restype="string" datatype="html" id="package-string-6-634432">
+        <source><![CDATA[<br class="xliff-newline" />SmartCash is aiming to create a decentralized team structure by efficiently distributing the workload across multiple global Hive teams. The teams below are simply getting things started. After SmartCash starts to require more teams they will be created and these will be splintered into smaller teams.<br class="xliff-newline" />]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[<br class="xliff-newline" />SmartCash is aiming to create a decentralized team structure by efficiently distributing the workload across multiple global Hive teams. The teams below are simply getting things started. After SmartCash starts to require more teams they will be created and these will be splintered into smaller teams.<br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-667964" restype="string" datatype="html" id="package-string-6-667964">
+        <source><![CDATA[Andrew]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Andrew]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-724015" restype="string" datatype="html" id="package-string-6-724015">
+        <source><![CDATA[Dim]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Dim]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-724016" restype="string" datatype="html" id="package-string-6-724016">
+        <source><![CDATA[Video Guru]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Video Guru]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-729188" restype="string" datatype="html" id="package-string-6-729188">
+        <source><![CDATA[Joäo Paulo]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Joäo Paulo]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-749694" restype="string" datatype="html" id="package-string-6-749694">
+        <source><![CDATA[Front-End Developer]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Front-End Developer]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-754818" restype="string" datatype="html" id="package-string-6-754818">
+        <source><![CDATA[Travin Keith]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Travin Keith]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-754819" restype="string" datatype="html" id="package-string-6-754819">
+        <source><![CDATA[Travin Keith is involved in multiple projects involving cryptocurrencies and blockchain.]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Travin Keith is involved in multiple projects involving cryptocurrencies and blockchain.]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-807804" restype="string" datatype="html" id="package-string-6-807804">
+        <source><![CDATA[Semptly]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Semptly]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-1057829" restype="string" datatype="html" id="package-string-6-1057829">
+        <source><![CDATA[dustinface]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[dustinface]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-1057830" restype="string" datatype="html" id="package-string-6-1057830">
+        <source><![CDATA[Ken Kendall]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Ken Kendall]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-1210383" restype="string" datatype="html" id="package-string-6-1210383">
+        <source><![CDATA[Erick]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Erick]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-1214414" restype="string" datatype="html" id="package-string-6-1214414">
+        <source><![CDATA[<br class="xliff-newline" /><h1>Wanna Get Involved?</h1><br class="xliff-newline" />The SmartHive has a place for folks of all backgrounds. Come hungry!<br class="xliff-newline" /><br class="xliff-newline" />We believe ‘Core’ teams are a bad idea and something that ultimately leads to inefficiency and corruption. We want to move past it and create a decentralized organizational model inspired by ant and bee colonies.<br class="xliff-newline" /><br class="xliff-newline" />In order to create and maintain a decentralized governance structure we are introducing two concepts SmartHive and Hive Structuring Teams (HST). SmartHive enables anyone that holds coins the opportunity to vote on proposals submitted by the community. SmartHive will be the lifeblood of the project which will allow anyone to get involved and submit proposals helping to generate organic growth at a grassroots level creating a bottom-up management structure.<br class="xliff-newline" />]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[<br class="xliff-newline" /><h1>Wanna Get Involved?</h1><br class="xliff-newline" />The SmartHive has a place for folks of all backgrounds. Come hungry!<br class="xliff-newline" /><br class="xliff-newline" />We believe ‘Core’ teams are a bad idea and something that ultimately leads to inefficiency and corruption. We want to move past it and create a decentralized organizational model inspired by ant and bee colonies.<br class="xliff-newline" /><br class="xliff-newline" />In order to create and maintain a decentralized governance structure we are introducing two concepts SmartHive and Hive Structuring Teams (HST). SmartHive enables anyone that holds coins the opportunity to vote on proposals submitted by the community. SmartHive will be the lifeblood of the project which will allow anyone to get involved and submit proposals helping to generate organic growth at a grassroots level creating a bottom-up management structure.<br class="xliff-newline" />]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-1782775" restype="string" datatype="html" id="package-string-6-1782775">
+        <source><![CDATA[Mark is a blockchain advocate focusing on expanding the reach of SmartCash through proposals and exchanges. Editor of "<a href="https://medium.com/@smartcashnews">Your Week in SmartCash</a>".<br class="xliff-newline" /><br class="xliff-newline" /><a href="https://www.linkedin.com/in/markhakkarinen/">LinkedIn</a> <a href="mailto:mark@smartcash.cc">Email</a>]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Mark is a blockchain advocate focusing on expanding the reach of SmartCash through proposals and exchanges. Editor of "<a href="https://medium.com/@smartcashnews">Your Week in SmartCash</a>".<br class="xliff-newline" /><br class="xliff-newline" /><a href="https://www.linkedin.com/in/markhakkarinen/">LinkedIn</a> <a href="mailto:mark@smartcash.cc">Email</a>]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-1921325" restype="string" datatype="html" id="package-string-6-1921325">
+        <source><![CDATA[Linkedin]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Linkedin]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-1921326" restype="string" datatype="html" id="package-string-6-1921326">
+        <source><![CDATA[https://www.linkedin.com/in/markhakkarinen/]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[https://www.linkedin.com/in/markhakkarinen/]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-1921327" restype="string" datatype="html" id="package-string-6-1921327">
+        <source><![CDATA[Email]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[Email]]></target>
+      </trans-unit>
+      <trans-unit resname="package-string-6-1921328" restype="string" datatype="html" id="package-string-6-1921328">
+        <source><![CDATA[mailto:mark@smartcash.cc]]></source>
+        <target xml:lang="lt" state="needs-translation"><![CDATA[mailto:mark@smartcash.cc]]></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
